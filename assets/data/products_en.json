@@ -1,0 +1,5800 @@
+{
+  "markal": {
+    "paint_riter_valve_action": {
+      "page_index": 5,
+      "top_cord": 68.70341491699219,
+      "short_description": "For general marking",
+      "features": [
+        "Fast-drying, permanent paint for immediate handling reduces work downtime",
+        "Dura-Nib medium bullet tip resists wear to provide long marking life",
+        "Durable metal barrel and clip-cap reduce breakage and store easily in pocket"
+      ],
+      "bottom_cord": 268.0228271484375,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "96809 ",
+          "Brown* "
+        ],
+        [
+          "96821   ",
+          "Yellow* "
+        ],
+        [
+          "96824  ",
+          " Orange* "
+        ],
+        [
+          "96827  ",
+          "Gold* "
+        ],
+        [
+          "96832  ",
+          " Aluminum* "
+        ],
+        [
+          "97051",
+          "Fluor. Green†"
+        ],
+        [
+          "96817 ",
+          "Purple*  "
+        ],
+        [
+          "96822 ",
+          "Red* "
+        ],
+        [
+          "96825 ",
+          " Blue* "
+        ],
+        [
+          "96828",
+          "Light Green* "
+        ],
+        [
+          "96835 ",
+          " Light Blue* "
+        ],
+        [
+          "97052 ",
+          " Fluor. Orange†"
+        ],
+        [
+          "96820 ",
+          "White* "
+        ],
+        [
+          "96823 ",
+          "Black* "
+        ],
+        [
+          "96826 ",
+          " Green* "
+        ],
+        [
+          "96830 ",
+          "Pink* "
+        ],
+        [
+          "97050 ",
+          " Fluor. Yellow† "
+        ],
+        [
+          "97053 ",
+          " Fluor. Pink† "
+        ],
+        [
+          "96078 ",
+          "Cylinder Display - Includes:   White* (12) /   Yellow* (12) /   Black* (12)"
+        ]
+      ],
+      "images": [
+        "paint-riter_valve_action_0.webp",
+        "paint-riter_valve_action_3.webp"
+      ],
+      "name": "Paint-Riter® Valve Action"
+    },
+    "paint_riter_window_marker": {
+      "page_index": 5,
+      "top_cord": 534.5015258789062,
+      "short_description": "Create bright marks that are easily removed",
+      "features": [
+        "Removable on any non-porous surface: Writes on glass, steel, aluminum, plastic and rubber",
+        "Dries quickly to avoid smudging or running",
+        "Easy removal with water and a cloth (or run the car through car wash)",
+        "Fabric nib won’t scratch delicate surfaces"
+      ],
+      "bottom_cord": 722.8157958984375,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "97450",
+          "Yellow"
+        ],
+        [
+          "97453",
+          "Pink"
+        ],
+        [
+          "97451",
+          "Green"
+        ],
+        [
+          "97454",
+          "Blue"
+        ],
+        [
+          "97452",
+          "Orange"
+        ],
+        [
+          "97455",
+          "Purple"
+        ]
+      ],
+      "images": [
+        "paint-riter_window_marker_1.webp",
+        "paint-riter_window_marker_4.webp"
+      ],
+      "name": "Paint-Riter® Window Marker"
+    },
+    "paint_riter_water_based": {
+      "page_index": 5,
+      "top_cord": 303.4570007324219,
+      "short_description": "Bold marking where VOC issues are a concern",
+      "features": [
+        "Fast-drying, permanent paint for immediate handling reduces work downtime",
+        "Low odor makes it great for indoor use and climate controlled facilities",
+        "Low VOC provides a safer marking tool",
+        "Nine vibrant colors with excellent opacity"
+      ],
+      "bottom_cord": 501.9712219238281,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "97400",
+          "White*"
+        ],
+        [
+          "97403",
+          "Black*"
+        ],
+        [
+          "97406",
+          "Green"
+        ],
+        [
+          "97401",
+          "Yellow*"
+        ],
+        [
+          "97404",
+          "Orange"
+        ],
+        [
+          "97407",
+          "Purple"
+        ],
+        [
+          "97402",
+          "Red*"
+        ],
+        [
+          "97405",
+          "Blue*"
+        ],
+        [
+          "97410",
+          "Pink"
+        ]
+      ],
+      "images": [
+        "paint-riter_water_based_2.webp",
+        "paint-riter_water_based_5.webp"
+      ],
+      "name": "Paint-Riter® Water Based"
+    },
+    "paint_riter_fine": {
+      "page_index": 6,
+      "top_cord": 37.44560623168945,
+      "short_description": "For precision marking",
+      "features": [
+        "Fine tip size for precise, permanent paint marking",
+        "High-strength, lightweight barrel designed for industrial use",
+        "Self-storing cap with clip protects tip for longer life and stores easily in pocket"
+      ],
+      "bottom_cord": 255.0654754638672,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "96871",
+          "White"
+        ],
+        [
+          "96874",
+          "Red"
+        ],
+        [
+          "96877",
+          "Orange"
+        ],
+        [
+          "96872",
+          "Yellow"
+        ],
+        [
+          "96875",
+          "Blue"
+        ],
+        [
+          "96873",
+          "Black"
+        ],
+        [
+          "96876",
+          "Green"
+        ]
+      ],
+      "images": [
+        "paint-riter_fine_3.webp"
+      ],
+      "name": "Paint-Riter® Fine"
+    },
+    "paint_riter_jumbo": {
+      "page_index": 6,
+      "top_cord": 295.17010498046875,
+      "short_description": "Extra-large liquid paint marker",
+      "features": [
+        "Largest marks available (up to 14mm) in an industrial paint marker",
+        "Extra-large tip ideal for signage or safety marking where immediate identification is required",
+        "Valve-actuated tip releases paint on-demand for smooth continuous use"
+      ],
+      "bottom_cord": 489.6855163574219,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "90900",
+          "White"
+        ],
+        [
+          "90903",
+          "Black"
+        ],
+        [
+          "90901",
+          "Yellow"
+        ],
+        [
+          "90904",
+          "Orange"
+        ],
+        [
+          "90902",
+          "Red"
+        ],
+        [
+          "90905",
+          "Blue"
+        ]
+      ],
+      "images": [
+        "paint-riter_jumbo_1.webp",
+        "paint-riter_jumbo_4.webp"
+      ],
+      "name": "Paint-Riter® Jumbo"
+    },
+    "security_check_paint_marker": {
+      "page_index": 6,
+      "top_cord": 531.5004272460938,
+      "short_description": "Torque security paint marker",
+      "features": [
+        "Paint marks crack for visual indication of loosening or tampering of bolts and parts",
+        "Dry to touch: 15 minutes",
+        "Full cure: 4 days",
+        "Mark temperature resistance: 392˚F. (200˚C)"
+      ],
+      "bottom_cord": 723.0158081054688,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "96668",
+          "White"
+        ],
+        [
+          "96671",
+          "Blue"
+        ],
+        [
+          "96674",
+          "Orange"
+        ],
+        [
+          "96669",
+          "Yellow"
+        ],
+        [
+          "96672",
+          "Green"
+        ],
+        [
+          "96675",
+          "Purple"
+        ],
+        [
+          "96670",
+          "Red"
+        ],
+        [
+          "96673",
+          "Black"
+        ],
+        [
+          "96676",
+          "Plastic Tip"
+        ]
+      ],
+      "images": [
+        "security_check_paint_marker_2.webp",
+        "security_check_paint_marker_5.webp"
+      ],
+      "name": "Security Check Paint Marker"
+    },
+    "paint_riter_metal_ball_tip": {
+      "page_index": 7,
+      "top_cord": 80.07731628417969,
+      "short_description": "Metal roller ball marker",
+      "features": [
+        "Durable metal-ball tip resists wear and clogging for long-marking life on rough surfaces",
+        "Non-drip paint formula allows for easy jobsite marking",
+        "Industrial paint withstands harsh environments and weather conditions",
+        "Sturdy plastic bottle with 3mm steel ball tip",
+        "Plastic cap keeps tip clean between jobs"
+      ],
+      "bottom_cord": 283.2732238769531,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "84620",
+          "White*"
+        ],
+        [
+          "84623",
+          "Black*"
+        ],
+        [
+          "84621",
+          "Yellow*"
+        ],
+        [
+          "84624",
+          "Orange"
+        ],
+        [
+          "84622",
+          "Red*"
+        ],
+        [
+          "84625",
+          "Blue"
+        ]
+      ],
+      "images": [
+        "paint-riter_metal_ball_tip_1.webp",
+        "paint-riter_metal_ball_tip_3.webp"
+      ],
+      "name": "Paint-Riter® Metal Ball Tip"
+    },
+    "paint_riter_pump_metal_tip": {
+      "page_index": 7,
+      "top_cord": 334.8462219238281,
+      "short_description": "Metal-tipped, pressurized liquid paint marker",
+      "features": [
+        "Unique pump mechanism for smooth paint flow",
+        "Ideal for marking on smooth or rough surfaces",
+        "Metal barrel and steel tip provide durability for longer marking life",
+        "Weather, wear, and UV-resistant for long-lasting marks",
+        "Valve-actuated replacement tips release paint or ink on demand for smooth, continuous use",
+        "Each tip style is designed to maximize marker use; do not interchange tips"
+      ],
+      "bottom_cord": 695.4583129882812,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "28710",
+          "White†"
+        ],
+        [
+          "28711",
+          "Yellow†"
+        ]
+      ],
+      "images": [
+        "paint-riter_pump_metal_tip_0.webp",
+        "paint-riter_pump_metal_tip_2.webp",
+        "paint-riter_pump_metal_tip_4.webp"
+      ],
+      "name": "Paint-Riter® Pump Metal Tip"
+    },
+    "stylmark_low_corrosion": {
+      "page_index": 8,
+      "top_cord": 333.603515625,
+      "short_description": "Ball tube marker for stainless steel marking",
+      "features": [
+        "Safe for use on stainless steel and other alloy metals where corrosion resistance is a requirement",
+        "Unique paint designed not to drip on vertical or overhead surfaces"
+      ],
+      "bottom_cord": 501.31890869140625,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "97160",
+          "White / 3mm*"
+        ]
+      ],
+      "images": [
+        "stylmark-_low_corrosion_0.webp",
+        "stylmark-_low_corrosion_2.webp",
+        "stylmark-_low_corrosion_4.webp"
+      ],
+      "name": "Stylmark®+ Low Corrosion"
+    },
+    "stylmark": {
+      "page_index": 8,
+      "top_cord": 150.0618896484375,
+      "short_description": "Stylmark®+",
+      "features": [
+        "Durable steel ball tip marks with indelible paint on smooth, rough or difficult surfaces",
+        "Steel ball tip is resistant to very rough surfaces for long marking life",
+        "Unique paint designed to not drip on vertical or overhead surfaces"
+      ],
+      "bottom_cord": 284.4167175292969,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "96640",
+          "White / 2mm"
+        ],
+        [
+          "96652",
+          "White / 3mm"
+        ],
+        [
+          "96653",
+          "Yellow / 3mm"
+        ],
+        [
+          "96664",
+          "White / 6mm"
+        ]
+      ],
+      "images": [
+        "stylmark_1.webp",
+        "stylmark_3.webp"
+      ],
+      "name": "Stylmark®"
+    },
+    "paint_riter_certiﬁed": {
+      "page_index": 9,
+      "top_cord": 287.3828125,
+      "short_description": "Nuclear and military pre-certified",
+      "features": [
+        "Ideal for use on stainless steel or superalloys in industries that require prevention against corrosion, pitting, or degradation",
+        "Certified to meet the following U.S.A. and international specifications: EDF PMUC MIL - STD-2041D U.S. DOE RDT F-7-3T (expired) U.S. Navy C3070"
+      ],
+      "bottom_cord": 497.976318359375,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "96880",
+          "White*"
+        ],
+        [
+          "96883",
+          "Black*"
+        ],
+        [
+          "96881",
+          "Yellow*"
+        ],
+        [
+          "96884",
+          "Blue*"
+        ],
+        [
+          "96882",
+          "Red*"
+        ],
+        [
+          "96885",
+          "Green*"
+        ]
+      ],
+      "images": [
+        "paint-riter-_certiﬁed_0.webp",
+        "paint-riter-_certiﬁed_3.webp"
+      ],
+      "name": "Paint-Riter®+ Certiﬁed"
+    },
+    "paint_riter_aerospace": {
+      "page_index": 9,
+      "top_cord": 534.8800048828125,
+      "short_description": "Paint markers designed for the Aerospace Industry",
+      "features": [
+        "Batch certified formulas meet stringent aerospace GE D50TF8 and Rolls-Royce EMS 56752 specifications",
+        "Fast drying, long lasting and wear/weather resistant liquid paint formula",
+        "Valve-actuated nibs for better controlled flow",
+        "Durable metal barrels offer large paint capacity"
+      ],
+      "bottom_cord": 713.5953979492188,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "96892",
+          "White*"
+        ],
+        [
+          "96894",
+          "Red*"
+        ],
+        [
+          "96893",
+          "Yellow*"
+        ],
+        [
+          "96895",
+          "Black*"
+        ]
+      ],
+      "images": [
+        "paint-riter-_aerospace_1.webp",
+        "paint-riter-_aerospace_4.webp"
+      ],
+      "name": "Paint-Riter®+ Aerospace"
+    },
+    "paint_riter_ultra_violet": {
+      "page_index": 9,
+      "top_cord": 69.71147155761719,
+      "short_description": "Visible in UV light",
+      "features": [
+        "Makes clear, invisible marks that illuminate bright blue when viewed with an ultraviolet or black light",
+        "Invisible paint formula is ideal for security, theft-prevention, and quality control",
+        "Fast-drying formula reduces smearing"
+      ],
+      "bottom_cord": 239.41880798339844,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "97054",
+          "Visible Blue"
+        ]
+      ],
+      "images": [
+        "paint-riter-_ultra_violet_2.webp",
+        "paint-riter-_ultra_violet_5.webp"
+      ],
+      "name": "Paint-Riter®+ Ultra Violet"
+    },
+    "paint_riter_low_corrosion_fine": {
+      "page_index": 10,
+      "top_cord": 37.32097244262695,
+      "short_description": "Low-corrosion solid paint marker",
+      "features": [
+        "Ideal for use on stainless steel or super alloys in industries that require prevention against corrosion",
+        "Fast-drying formula leaves wear, weather, and UV-resistant marks",
+        "Xylene-free paint reduces user health risks"
+      ],
+      "bottom_cord": 239.41880798339844,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "28780",
+          "Black*"
+        ]
+      ],
+      "images": [
+        "paint-riter-_low_corrosion_fine_1.webp",
+        "paint-riter-_low_corrosion_fine_3.webp"
+      ],
+      "name": "Paint-Riter®+ Low Corrosion Fine"
+    },
+    "paint_riter_galvanizer": {
+      "page_index": 10,
+      "top_cord": 287.3828125,
+      "short_description": "Removable paint marker for galvanizing",
+      "features": [
+        "Makes durable marks on steel during fabrication. Marks are removed completely during the pickling process.",
+        "More marks per marker - more than 2x longer write-out vs leading competitor",
+        "Fast-drying and xylene-free",
+        "Weather resistant paint formula",
+        "Durable acrylic nib marks on smooth, rough and rusty surfaces"
+      ],
+      "bottom_cord": 487.1763000488281,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "28785",
+          "White"
+        ],
+        [
+          "28786",
+          "Yellow"
+        ]
+      ],
+      "images": [
+        "paint-riter-_galvanizer_0.webp",
+        "paint-riter-_galvanizer_4.webp"
+      ],
+      "name": "Paint-Riter®+ Galvanizer"
+    },
+    "paint_riter_safety_color": {
+      "page_index": 10,
+      "top_cord": 536.0015258789062,
+      "short_description": "Touch-up safety identification",
+      "features": [
+        "Colors formulated to meet OSHA and ANSI safety color specs",
+        "Durable and weather resistant formula for indoor/outdoor use",
+        "Valve-actuated nibs provide continuous marking on smooth, rusty and rough surfaces",
+        "Clip-Grip caps allow for easy storage and handling, even with work gloves"
+      ],
+      "bottom_cord": 730.760498046875,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "97275",
+          "Safety Blue"
+        ],
+        [
+          "97271",
+          "Safety Yellow"
+        ],
+        [
+          "97272",
+          "Safety Red"
+        ],
+        [
+          "97276",
+          "Safety Green"
+        ],
+        [
+          "97274† ",
+          "Safety Orange"
+        ]
+      ],
+      "images": [
+        "paint-riter-_safety_color_2.webp",
+        "paint-riter-_safety_color_5.webp"
+      ],
+      "name": "Paint-Riter®+ Safety Color"
+    },
+    "paint_riter_wet_surface": {
+      "page_index": 11,
+      "top_cord": 530.5482788085938,
+      "short_description": "For wet surface marking",
+      "features": [
+        "Specially formulated paint resists running or spreading on wet or damp surfaces to leave permanent, highly-visible marks",
+        "Metal barrel and durable fiber tip provide long marking life",
+        "Fast-drying, permanent paint reduces work downtime"
+      ],
+      "bottom_cord": 720.087890625,
+      "part_numbers": [
+        [
+          "PART NO. ",
+          "DESCRIPTION"
+        ],
+        [
+          "96930 ",
+          " White* "
+        ],
+        [
+          "96933 ",
+          " Black*† "
+        ],
+        [
+          "96936 ",
+          " Orange*† "
+        ],
+        [
+          "96931 ",
+          " Yellow* "
+        ],
+        [
+          "96934 ",
+          " Blue*†"
+        ],
+        [
+          "96932 ",
+          " Red*† "
+        ],
+        [
+          "96935 ",
+          " Green*†"
+        ]
+      ],
+      "images": [
+        "paint-riter-_wet_surface_2.webp",
+        "paint-riter-_wet_surface_4.webp"
+      ],
+      "name": "Paint-Riter®+ Wet Surface"
+    },
+    "paint_riter_rough_surface": {
+      "page_index": 11,
+      "top_cord": 294.3827209472656,
+      "short_description": "For rough surfaces and extreme durability",
+      "features": [
+        "Engineered for continuous and highly-visible marking on rough, rusty, and dirty surfaces",
+        "Enamel paint formula for enhanced abrasion resistance",
+        "Durable metal barrel and clip-cap reduce breakage and store easily in pocket"
+      ],
+      "bottom_cord": 493.6445007324219,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "97250",
+          "White*† "
+        ],
+        [
+          "97253",
+          "Black*† "
+        ],
+        [
+          "97256",
+          "Orange*† "
+        ],
+        [
+          "97251",
+          "Yellow*† "
+        ],
+        [
+          "97254",
+          "Blue*† "
+        ],
+        [
+          "97262",
+          "Purple† "
+        ],
+        [
+          "97252",
+          "Red*† "
+        ],
+        [
+          "97255",
+          "Green*†"
+        ],
+        [
+          "97263",
+          "Brown*†"
+        ]
+      ],
+      "images": [
+        "paint-riter-_rough_surface_1.webp",
+        "paint-riter-_rough_surface_3.webp"
+      ],
+      "name": "Paint-Riter®+ Rough Surface"
+    },
+    "paint_riter_oily_surface": {
+      "page_index": 11,
+      "top_cord": 36.44560623168945,
+      "short_description": "For oily surface marking",
+      "features": [
+        "Unique paint formula resists spreading and dries quickly through oily surfaces to leave precise, permanent marks",
+        "Durable metal barrel and nib reduce breakage for longer marking life.",
+        "Easy-to-grip clip-cap allows for convenient pocket storage."
+      ],
+      "bottom_cord": 258.96630859375,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "96960",
+          "White*"
+        ],
+        [
+          "96963",
+          "Black*† "
+        ],
+        [
+          "96966",
+          "Green† "
+        ],
+        [
+          "96971",
+          "Light Blue*†"
+        ],
+        [
+          "96974",
+          "Purple† "
+        ],
+        [
+          "96961",
+          "Yellow*† "
+        ],
+        [
+          "96964",
+          "Orange† "
+        ],
+        [
+          "96967",
+          "Silver*"
+        ],
+        [
+          "96972",
+          "Gold"
+        ],
+        [
+          "96975",
+          "Brown*† "
+        ],
+        [
+          "96962",
+          "Red*† "
+        ],
+        [
+          "96965",
+          "Blue*† "
+        ],
+        [
+          "96970",
+          "Light Green† "
+        ],
+        [
+          "96973",
+          "Pink*† "
+        ]
+      ],
+      "images": [
+        "paint-riter-_oily_surface_0.webp",
+        "paint-riter-_oily_surface_5.webp"
+      ],
+      "name": "Paint-Riter®+ Oily Surface"
+    },
+    "paint_riter_water_removable": {
+      "page_index": 12,
+      "top_cord": 530.5482788085938,
+      "short_description": "Removable liquid paint markers",
+      "features": [
+        "Fast-drying paint easily removes leaving surfaces free of mark ghosting or paint residue",
+        "Water Removable marks can be removed simply and quickly with water",
+        "High-strength, light-weight plastic barrel designed for industrial use"
+      ],
+      "bottom_cord": 720.3311767578125,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "97030",
+          "White"
+        ],
+        [
+          "97033",
+          "Black† "
+        ],
+        [
+          "97031",
+          "Yellow"
+        ],
+        [
+          "97035",
+          "Blue"
+        ],
+        [
+          "97032",
+          "Red"
+        ],
+        [
+          "97036",
+          "Green† "
+        ]
+      ],
+      "images": [
+        "paint-riter-_water_removable_2.webp",
+        "paint-riter-_water_removable_4.webp"
+      ],
+      "name": "Paint-Riter®+ Water Removable"
+    },
+    "paint_riter_detergent_removable": {
+      "page_index": 12,
+      "top_cord": 294.3827209472656,
+      "short_description": "Removable liquid paint markers",
+      "features": [
+        "Fast-drying paint easily removes leaving surfaces free of mark ghosting or paint residue",
+        "Detergent Removable marks can be removed with detergent solutions that have a PH level of 10 or above",
+        "High-strength, light-weight plastic barrel designed for industrial use"
+      ],
+      "bottom_cord": 492.8970031738281,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "97010",
+          "White"
+        ],
+        [
+          "97013",
+          "Black† "
+        ],
+        [
+          "97011",
+          "Yellow"
+        ],
+        [
+          "97015",
+          "Blue"
+        ],
+        [
+          "97012",
+          "Red"
+        ],
+        [
+          "97016",
+          "Green†"
+        ]
+      ],
+      "images": [
+        "paint-riter-_detergent_removable_1.webp",
+        "paint-riter-_detergent_removable_3.webp"
+      ],
+      "name": "Paint-Riter®+ Detergent Removable"
+    },
+    "paint_riter_heat_treat": {
+      "page_index": 12,
+      "top_cord": 36.44560623168945,
+      "short_description": "For high temperature resistance",
+      "features": [
+        "For marking on ambient temperature metal surfaces, fast-drying liquid paint marker resists high temperatures",
+        "Engineered with PrismaLock technology for long-lasting colors up to 1,800˚F (982˚C)",
+        "Maximum mark readability (no color)"
+      ],
+      "bottom_cord": 258.21881103515625,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "97301",
+          "White"
+        ],
+        [
+          "97305",
+          "Blue"
+        ],
+        [
+          "97302",
+          "Yellow† "
+        ],
+        [
+          "97303",
+          "Black"
+        ]
+      ],
+      "images": [
+        "paint-riter-_heat_treat_0.webp",
+        "paint-riter-_heat_treat_5.webp"
+      ],
+      "name": "Paint-Riter®+ Heat Treat"
+    },
+    "dura_ink_needle_nose": {
+      "page_index": 17,
+      "top_cord": 101.22447204589844,
+      "short_description": "Permanent ink marker with extended micro tip",
+      "features": [
+        "Extended nose is ideal for marking through holes and hard-to-reach areas",
+        "Micro tip for precision marking on small surfaces",
+        "Industrial-strength ink is smear and water-resistant for longer lasting marks"
+      ],
+      "bottom_cord": 276.00238037109375,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "96520",
+          " Black"
+        ]
+      ],
+      "images": [
+        "dura-ink_needle_nose_0.webp",
+        "dura-ink_needle_nose_2.webp",
+        "dura-ink_needle_nose_5.webp"
+      ],
+      "name": "DURA-INK® Needle Nose"
+    },
+    "dura_ink_fine": {
+      "page_index": 17,
+      "top_cord": 319.343505859375,
+      "short_description": "Permanent ink marker with fine bullet tip",
+      "features": [
+        "Industrial-strength ink is smear and water-resistant for longer lasting marks",
+        "Extra-tough tip will not spread or mush",
+        "Built-in clip-cap stores conveniently on back and prevents marker from rolling off work surfaces"
+      ],
+      "bottom_cord": 495.42041015625,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "96022",
+          " Red"
+        ],
+        [
+          "96025 ",
+          " Blue"
+        ],
+        [
+          "96027 ",
+          " Silver†"
+        ],
+        [
+          "96023",
+          " Black"
+        ],
+        [
+          "96026",
+          " Green"
+        ]
+      ],
+      "images": [
+        "dura-ink_fine_1.webp",
+        "dura-ink_fine_3.webp"
+      ],
+      "name": "DURA-INK® Fine"
+    },
+    "dura_ink_retractable": {
+      "page_index": 17,
+      "top_cord": 532.7628784179688,
+      "short_description": "Retractable permanent ink marker",
+      "features": [
+        "One-handed, push button operation eliminates lost caps and prevents ink dryout",
+        "Fast-drying, wear and water-resistant formula for long-lasting marks",
+        "Industrial-grade fine bullet tip will not spread or mush",
+        "Auto-storing clip instantly retracts tip to reduce mess or tip damage"
+      ],
+      "bottom_cord": 717.46240234375,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "96575",
+          " Black"
+        ],
+        [
+          "96576",
+          " Red"
+        ]
+      ],
+      "images": [
+        "dura-ink_retractable_4.webp"
+      ],
+      "name": "DURA-INK® Retractable"
+    },
+    "dura_ink_dual_tip": {
+      "page_index": 18,
+      "top_cord": 101.17997741699219,
+      "short_description": "Dual-sided marker provides the convenience of two markers in one",
+      "features": [
+        "Versatile dual tip design is excellent for broad writing on large spaces and ultra-fine precision marking on small surfaces",
+        "Industrial-strength permanent ink dries quickly and is wear and weather-resistant for longer lasting marks",
+        "Built-in clip-caps snap into each other, preventing lost caps and marker from rolling off work surfaces",
+        "Easily write on bright or dark metals with one marker Nesting ribbed caps snap into each other to prevent loss and resist rolling off table or workbench Tough bullet nib resists spreading or mushrooming and is durable to mark on almost any surface"
+      ],
+      "bottom_cord": 511.52130126953125,
+      "part_numbers": [
+        [
+          "PART NO. ",
+          "DESCRIPTION"
+        ],
+        [
+          "96282 ",
+          " Red "
+        ],
+        [
+          "96283 ",
+          " Black "
+        ],
+        [
+          "96330 ",
+          "Black & Red"
+        ],
+        [
+          "96331 ",
+          "Green & Red"
+        ]
+      ],
+      "images": [
+        "dura-ink_dual-tip_0.webp",
+        "dura-ink_dual-tip_1.webp",
+        "dura-ink_dual-tip_2.webp",
+        "dura-ink_dual-tip_5.jpeg2000"
+      ],
+      "name": "DURA-INK® Dual-Tip"
+    },
+    "dura_ink_controlled_flow": {
+      "page_index": 18,
+      "top_cord": 549.20849609375,
+      "short_description": "Valve-actuated tip provides on-demand ink",
+      "features": [
+        "Valve-actuated tip releases ink when needed and reduces tip dryout",
+        "The strong metal barrel and clip-cap reduce breakage",
+        "Extra-tough tip will not spread or mush, providing longer marking life"
+      ],
+      "bottom_cord": 711.051025390625,
+      "part_numbers": [
+        [
+          "PART NO. ",
+          "DESCRIPTION"
+        ],
+        [
+          "96923 ",
+          " Black† "
+        ]
+      ],
+      "images": [
+        "dura-ink_controlled_flow_4.webp",
+        "dura-ink_controlled_flow_6.webp"
+      ],
+      "name": "DURA-INK® Controlled Flow"
+    },
+    "dura_ink_dual_color": {
+      "page_index": 18,
+      "name": "DURA-INK® Dual Color"
+    },
+    "dura_ink_metal_barrel_chisel": {
+      "page_index": 19,
+      "top_cord": 325.82000732421875,
+      "short_description": "Permanent ink marker with medium chisel tip",
+      "features": [
+        "The versatile chisel tip can make both fine or broad marks for flexible marking needs",
+        "Smear and water-resistant industrial ink allows for long-lasting marks",
+        "Heavy-duty metal barrel contains extra-large ink supply for longer marking life"
+      ],
+      "bottom_cord": 503.9833984375,
+      "part_numbers": [
+        [
+          "PART NO. ",
+          "DESCRIPTION"
+        ],
+        [
+          "96222 ",
+          " Red"
+        ],
+        [
+          "96223 ",
+          " Black"
+        ]
+      ],
+      "images": [
+        "dura-ink_metal_barrel_chisel_0.webp",
+        "dura-ink_metal_barrel_chisel_1.webp",
+        "dura-ink_metal_barrel_chisel_2.webp"
+      ],
+      "name": "DURA-INK® Metal Barrel Chisel"
+    },
+    "dura_ink_chisel": {
+      "page_index": 19,
+      "top_cord": 544.2189331054688,
+      "short_description": "Permanent ink marker with medium chisel tip",
+      "features": [
+        "Medium chisel tip produces both fine and broad permanent marks",
+        "Durable plastic barrel withstands tough industrial uses and is the economical alternative to high-cost metal barrels",
+        "Built-in clip-cap stores conveniently on back and prevents marker from rolling off work surfaces"
+      ],
+      "bottom_cord": 715.6157836914062,
+      "part_numbers": [
+        [
+          "PART NO. ",
+          "DESCRIPTION"
+        ],
+        [
+          "96528 ",
+          " Red "
+        ],
+        [
+          "96530  ",
+          " Blue"
+        ],
+        [
+          "96529 ",
+          " Black "
+        ],
+        [
+          "96531 ",
+          " Green"
+        ]
+      ],
+      "images": [
+        "dura-ink_chisel_3.webp"
+      ],
+      "name": "DURA-INK® Chisel"
+    },
+    "dura_ink_dry_erase": {
+      "page_index": 19,
+      "top_cord": 100.46000671386719,
+      "short_description": "Erasable ink marker",
+      "features": [
+        "Temporary marks are easily removed from most non-porous surfaces without ghosting or leaving a residue",
+        "Larger ink supply outwrites conventional ink markers",
+        "Opaque ink formula for bold marks"
+      ],
+      "bottom_cord": 285.3594970703125,
+      "part_numbers": [
+        [
+          "PART NO. ",
+          "DESCRIPTION"
+        ],
+        [
+          "96570 ",
+          " Red "
+        ],
+        [
+          "96572  ",
+          " Blue "
+        ],
+        [
+          "96571 ",
+          " Black "
+        ],
+        [
+          "96573 ",
+          " Green"
+        ]
+      ],
+      "images": [
+        "dura-ink_dry_erase_4.webp",
+        "dura-ink_dry_erase_5.webp"
+      ],
+      "name": "DURA-INK® Dry Erase"
+    },
+    "dura_ink_jumbo_chisel": {
+      "page_index": 20,
+      "top_cord": 100.46000671386719,
+      "short_description": "Produces both fine and broad permanent marks",
+      "features": [
+        "Versatile, broad chisel tip produces both extra-large or medium-sized marks",
+        "Industrial grade tip will not spread or mush",
+        "Jumbo ink supply for greater marking mileage"
+      ],
+      "bottom_cord": 285.2850036621094,
+      "part_numbers": [
+        [
+          "PART NO. ",
+          "DESCRIPTION"
+        ],
+        [
+          "96914  ",
+          " Green "
+        ],
+        [
+          "96916 ",
+          " Red"
+        ],
+        [
+          "96915  ",
+          " Blue "
+        ],
+        [
+          "96917 ",
+          " Black"
+        ]
+      ],
+      "images": [
+        "dura-ink_jumbo_chisel_1.webp"
+      ],
+      "name": "DURA-INK® Jumbo Chisel"
+    },
+    "dura_ink_fine_cylinder_display": {
+      "page_index": 20,
+      "top_cord": 332.3568115234375,
+      "short_description": "Convenient, Ready-To-Sell POS Solution",
+      "features": [
+        "DURA-INK® Fine is a permanent ink marker with a fine bullet tip that uses industrial-strength ink which is smear and water-resistant for longer lasting marks. Ready-to-sell display is prefilled with product for fast and easy setup."
+      ],
+      "bottom_cord": 499.93182373046875,
+      "part_numbers": [
+        [
+          "PART NO. ",
+          "DESCRIPTION"
+        ],
+        [
+          "96028 ",
+          "Cylinder Display filled with 72  "
+        ],
+        [
+          " 96023",
+          " Black"
+        ]
+      ],
+      "images": [
+        "dura-ink_fine_cylinder_display_2.webp",
+        "dura-ink_fine_cylinder_display_3.webp"
+      ],
+      "name": "DURA-INK® Fine Cylinder Display"
+    },
+    "universal_cylinder_display": {
+      "page_index": 20,
+      "top_cord": 545.0568237304688,
+      "short_description": "Empty display fits all Markal® ink and liquid paint markers.",
+      "features": [
+        "Display your choice of industrial-grade marker or mix and match with this empty cylinder display that depicts a variety of our most popular products."
+      ],
+      "bottom_cord": 686.3013916015625,
+      "part_numbers": [
+        [
+          "PART NO. ",
+          "DESCRIPTION"
+        ],
+        [
+          "96021 ",
+          "Empty Cylinder Display"
+        ]
+      ],
+      "images": [
+        "universal_cylinder_display_4.webp"
+      ],
+      "name": "Universal Cylinder Display"
+    },
+    "dura_ink_aerospace": {
+      "page_index": 21,
+      "top_cord": 98.53831481933594,
+      "short_description": "Ink marker designed for the Aerospace industry",
+      "features": [
+        "Batch certified formula meets stringent aerospace GE D50TF8 and Rolls-Royce EMS 56752 specifications",
+        "Valve-actuated nibs for better controlled flow",
+        "Durable metal barrel offers large ink capacity",
+        "Clip-grip caps allow for easy storage and handling, even with work gloves"
+      ],
+      "bottom_cord": 268.26739501953125,
+      "part_numbers": [
+        [
+          "PART NO. ",
+          "DESCRIPTION"
+        ],
+        [
+          "96924 ",
+          " Black*†"
+        ]
+      ],
+      "images": [
+        "dura-ink-_aerospace_0.webp",
+        "dura-ink-_aerospace_1.webp",
+        "dura-ink-_aerospace_3.webp"
+      ],
+      "name": "DURA-INK®+ Aerospace"
+    },
+    "dura_ink_water_removable": {
+      "page_index": 21,
+      "top_cord": 302.38311767578125,
+      "short_description": "Removable temporary ink washes off with water",
+      "features": [
+        "Industrial-strength ink for temporary marking applications removes quickly and easily with dry rag, towel, or eraser",
+        "Marks will not ghost or leave a residue once removed from most non-porous surfaces",
+        "Durable nib will not spread or mush, and not scratch painted surfaces",
+        "Durable clip-cap and plastic barrel will reduce breakage",
+        "Perfect for temporarily marking bare (non-treated, non-painted) metal. Marks that are removed leave no ghosting.",
+        "Will not ghost or bleed through when painted over",
+        "Valve-actuated nibs provide continuous marking for better controlled flow",
+        "Durable metal barrel prevents breakage for longer marking life"
+      ],
+      "bottom_cord": 718.3409423828125,
+      "part_numbers": [
+        [
+          "PART NO. ",
+          "DESCRIPTION"
+        ],
+        [
+          "96301 ",
+          " Pink "
+        ],
+        [
+          "96303  ",
+          " Green"
+        ],
+        [
+          "96302 ",
+          " Blue "
+        ],
+        [
+          "96310 ",
+          " White "
+        ],
+        [
+          "96313 ",
+          " Black† "
+        ],
+        [
+          "96320 ",
+          " White "
+        ],
+        [
+          "96323 ",
+          " Black† "
+        ],
+        [
+          "96311 ",
+          " Yellow "
+        ],
+        [
+          "96315 ",
+          " Blue "
+        ],
+        [
+          "96321 ",
+          " Yellow "
+        ],
+        [
+          "96325 ",
+          " Blue"
+        ],
+        [
+          "96312 ",
+          " Red "
+        ],
+        [
+          "96316 ",
+          " Green "
+        ],
+        [
+          "96322 ",
+          " Red "
+        ],
+        [
+          "96326 ",
+          " Green"
+        ]
+      ],
+      "images": [
+        "dura-ink-_water_removable_2.webp",
+        "dura-ink-_water_removable_4.webp",
+        "dura-ink-_water_removable_5.webp",
+        "dura-ink-_water_removable_6.webp"
+      ],
+      "name": "DURA-INK®+ Water Removable"
+    },
+    "dura_ink_easy_off_water_detergent": {
+      "page_index": 21,
+      "name": "DURA-INK®+ Easy Off Water & Detergent"
+    },
+    "paintstik_rough_surface": {
+      "page_index": 25,
+      "top_cord": 301.24212646484375,
+      "short_description": "For marking very rough surfaces",
+      "features": [
+        "Soft solid paint for easier marking on rough or colder surfaces",
+        "Marks withstand prolonged immersion in water for long mark life",
+        "Easy-to-hold, recyclable paperboard holder protects Paintstik for maximum use",
+        "Weather and UV-resistant"
+      ],
+      "bottom_cord": 500.4499206542969,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "80620",
+          "White"
+        ],
+        [
+          "80621",
+          "Yellow"
+        ],
+        [
+          "80623",
+          "Black"
+        ]
+      ],
+      "images": [
+        "paintstik_rough_surface_0.webp",
+        "paintstik_rough_surface_1.webp"
+      ],
+      "name": "Paintstik® Rough Surface"
+    },
+    "paintstik_high_intensity": {
+      "page_index": 25,
+      "top_cord": 532.5853271484375,
+      "short_description": "High-intensity color marking",
+      "features": [
+        "High-intensity colors for coding, identification, layout, and assembly work",
+        "Durable weather and UV-resistant marks",
+        "Easy-to-hold, recyclable paperboard holder protects Paintstik for maximum use"
+      ],
+      "bottom_cord": 723.0762329101562,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "88620",
+          "White"
+        ],
+        [
+          "88625",
+          "Blue"
+        ],
+        [
+          "88621",
+          "Yellow"
+        ],
+        [
+          "88640",
+          "White / JUMBO"
+        ],
+        [
+          "88624",
+          "Orange"
+        ]
+      ],
+      "images": [
+        "paintstik_high_intensity_2.webp",
+        "paintstik_high_intensity_3.webp"
+      ],
+      "name": "Paintstik® High Intensity"
+    },
+    "paintstik_original_b": {
+      "page_index": 25,
+      "top_cord": 68.70341491699219,
+      "short_description": "Multi-purpose permanent marking",
+      "features": [
+        "Real paint for long-lasting, highly-visible marks",
+        "Superior marking on rough, rusty, or dirty surfaces",
+        "Weather and UV-resistant for long-lasting marks"
+      ],
+      "bottom_cord": 269.018798828125,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "80220",
+          "White*"
+        ],
+        [
+          "80224",
+          "Orange"
+        ],
+        [
+          "80228",
+          "Purple†"
+        ],
+        [
+          "80233",
+          "Silver"
+        ],
+        [
+          "82835",
+          "Fluor. Blue†▼"
+        ],
+        [
+          "80421",
+          "Yellow / Fine"
+        ],
+        [
+          "80221",
+          "Yellow"
+        ],
+        [
+          "80225",
+          "Blue"
+        ],
+        [
+          "80229",
+          "Brown"
+        ],
+        [
+          "82831",
+          "Fluor. Yellow†▼"
+        ],
+        [
+          "82836",
+          "Fluor. Green†▼"
+        ],
+        [
+          "80250",
+          "White / HEX*"
+        ],
+        [
+          "80222",
+          "Red"
+        ],
+        [
+          "80226",
+          "Green†"
+        ],
+        [
+          "80230",
+          "Gray"
+        ],
+        [
+          "82832",
+          "Fluor. Red†▼"
+        ],
+        [
+          "82842",
+          "Fluor. Pink†▼"
+        ],
+        [
+          "80251",
+          "Yellow / HEX"
+        ],
+        [
+          "80223",
+          "Black"
+        ],
+        [
+          "80227",
+          "Pink"
+        ],
+        [
+          "80232",
+          "    Aluminum"
+        ],
+        [
+          "82834",
+          "Fluor. Orange†▼"
+        ],
+        [
+          "80420",
+          "White / Fine*"
+        ],
+        [
+          "80260",
+          "White / JUMBO*"
+        ]
+      ],
+      "images": [
+        "paintstik_original_b_4.webp",
+        "paintstik_original_b_5.webp"
+      ],
+      "name": "Paintstik® Original B®"
+    },
+    "paintstik_non_bleed_thru": {
+      "page_index": 26,
+      "top_cord": 301.4193115234375,
+      "short_description": "Marks will not show through top coat of paint",
+      "features": [
+        "Marks will not show through top coat of primer or finished layer of paint",
+        "Ideal for shipbuilding or other metal fabrication",
+        "Solid paint formula designed for marking on wet, dry, oily, rusty, icy, smooth, or rough surfaces",
+        "Easy-to-hold, recyclable paperboard holder protects Paintstik for maximum use"
+      ],
+      "bottom_cord": 478.9192199707031,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "82120",
+          "White"
+        ]
+      ],
+      "images": [
+        "paintstik-_non-bleed_thru_0.webp",
+        "paintstik-_non-bleed_thru_1.webp"
+      ],
+      "name": "Paintstik®+ Non-Bleed Thru"
+    },
+    "paintstik_lacquer_fill_in": {
+      "page_index": 26,
+      "top_cord": 69.55308532714844,
+      "short_description": "For filling-in stamped or engraved lines",
+      "features": [
+        "Meets U.S.A. federal specification TT-F-325a I and MIL-STD 171, Finish No. 30.1.1, Type I",
+        "Mark temperature resistance: up to 500°F (260°C)",
+        "Paint stays flexible, expands and contracts with the surface",
+        "Rubs in and wipes off easily, dries quickly"
+      ],
+      "bottom_cord": 258.21881103515625,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "51120",
+          "White"
+        ],
+        [
+          "51123",
+          "Black"
+        ],
+        [
+          "51131",
+          "Gold"
+        ]
+      ],
+      "images": [
+        "paintstik-_lacquer_fill-in_5.webp"
+      ],
+      "name": "Paintstik®+ Lacquer Fill-In"
+    },
+    "paintstik_water_removable_fine": {
+      "page_index": 26,
+      "top_cord": 532.7623901367188,
+      "short_description": "Water-soluble, removable",
+      "features": [
+        "Water-soluble for easy removal before production or finishing",
+        "Smaller diameter for finer line marking",
+        "Ideal for temporary marking on nonporous surfaces",
+        "Easy-to-hold, recyclable paperboard holder protects Paintstik for maximum use"
+      ],
+      "bottom_cord": 723.0762329101562,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "82420",
+          "White"
+        ],
+        [
+          "82423",
+          "Black"
+        ],
+        [
+          "82421",
+          "Yellow"
+        ],
+        [
+          "82422",
+          "Red"
+        ]
+      ],
+      "images": [
+        "paintstik-_water_removable_fine_2.webp",
+        "paintstik-_water_removable_fine_3.webp"
+      ],
+      "name": "Paintstik®+ Water Removable Fine"
+    },
+    "paintstik_fast_dry": {
+      "page_index": 27,
+      "top_cord": 36.4999885559082,
+      "short_description": "Fast-drying solid paint crayon",
+      "features": [
+        "Marks dry within 5 minutes on wet, oily, dry, and rough surfaces",
+        "Quick-drying marks allow for immediate handling without smearing",
+        "Easy-to-hold, recyclable paperboard holder protects Paintstik for maximum use"
+      ],
+      "bottom_cord": 223.0184783935547,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "82721",
+          "Yellow"
+        ]
+      ],
+      "images": [
+        "paintstik-_fast_dry_1.webp",
+        "paintstik-_fast_dry_2.webp"
+      ],
+      "name": "Paintstik®+ Fast Dry"
+    },
+    "paintstik_galvanizer": {
+      "page_index": 27,
+      "top_cord": 280.089599609375,
+      "short_description": "Marks are removed in the galvanizing process",
+      "features": [
+        "Marks remove in pickling baths to allow excellent adhesion for zinc coating",
+        "Superior marking on rough, rusty, oily, or smooth surfaces compared to liquid paint markers",
+        "Solid paint crayon makes wide, bold marks for instant identification"
+      ],
+      "bottom_cord": 462.7969055175781,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "83420",
+          "White† "
+        ]
+      ],
+      "images": [
+        "paintstik-_galvanizer_3.webp"
+      ],
+      "name": "Paintstik®+ Galvanizer"
+    },
+    "zephyr": {
+      "page_index": 27,
+      "top_cord": 515.8388671875,
+      "short_description": "Wear-resistant, water-soluble",
+      "features": [
+        "Water-soluble for easy removal from glass and other non-porous surfaces",
+        "Wider, more wear-resistant marks than Paintstik®+ Water Removable Fine",
+        "Marks will not damage surface or ghost after removal",
+        "Easy-to-hold, recyclable paperboard holder protects Paintstik for maximum use"
+      ],
+      "bottom_cord": 708.256591796875,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "51321",
+          "Yellow"
+        ]
+      ],
+      "images": [
+        "zephyr_5.webp"
+      ],
+      "name": "Zephyr®"
+    },
+    "paintstik_bleed_thru_oil_based_paint": {
+      "page_index": 28,
+      "top_cord": 36.4999885559082,
+      "short_description": "Bleeds through oil-based paints",
+      "features": [
+        "Marks bleed through solvent or oil-based primers or paints",
+        "Used for inspection, coding, layout or assembly operations",
+        "Durable weather and UV-resistant marks",
+        "To prevent bleeding through the finished coat of paint, seal the marked areas with water-based epoxy paint"
+      ],
+      "bottom_cord": 222.71421813964844,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "80725",
+          "Blue"
+        ]
+      ],
+      "images": [
+        "paintstik-_bleed_thru_oil-based_paint_0.webp",
+        "paintstik-_bleed_thru_oil-based_paint_1.webp"
+      ],
+      "name": "Paintstik®+ Bleed Thru Oil-based Paint"
+    },
+    "paintstik_heat_treat": {
+      "page_index": 28,
+      "top_cord": 515.868896484375,
+      "short_description": "For annealing and heat-treating",
+      "features": [
+        "Marks will withstand immediate quenching in water or oil",
+        "Ideal for welds, ingots, castings, forgings, and other annealed parts",
+        "Durable marks will not rub off, allowing for long-lasting identification",
+        "Withstands temperatures up to 1600F (871C) and 82020 withstands 1800F (982C)"
+      ],
+      "bottom_cord": 730.043701171875,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "81920",
+          "White / 1600F"
+        ],
+        [
+          "81923",
+          "Black / 1600F"
+        ],
+        [
+          "82020",
+          "White / 1800F"
+        ],
+        [
+          "81921",
+          "Yellow / 1600F"
+        ],
+        [
+          "81922",
+          "Red / 1600F"
+        ]
+      ],
+      "images": [
+        "paintstik-_heat_treat_3.webp"
+      ],
+      "name": "Paintstik®+ Heat Treat"
+    },
+    "paintstik_bleed_thru_water_based_paint": {
+      "page_index": 28,
+      "top_cord": 279.5621337890625,
+      "short_description": "Bleeds through water-based paints",
+      "features": [
+        "Marks bleed through water-based primers or paints",
+        "Used for inspection, coding, layout or assembly operations",
+        "Easy-to-hold, recyclable paperboard holder protects Paintstik for maximum use",
+        "Durable weather and UV-resistant marks"
+      ],
+      "bottom_cord": 462.65692138671875,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "80735",
+          "Blue"
+        ]
+      ],
+      "images": [
+        "paintstik-_bleed_thru_water-based_paint_2.webp",
+        "paintstik-_bleed_thru_water-based_paint_4.webp",
+        "paintstik-_bleed_thru_water-based_paint_5.webp"
+      ],
+      "name": "Paintstik®+ Bleed Thru Water-based Paint"
+    },
+    "tyre_marque": {
+      "page_index": 29,
+      "name": "Tyre Marque"
+    },
+    "102_standard_size_holder": {
+      "page_index": 30,
+      "top_cord": 294.1399230957031,
+      "short_description": "Adjustable metal holder",
+      "features": [
+        "Durable metal holder promotes long work-life for all standard equivalent 11/16\" (17mm) size Markal® solid paint crayons",
+        "Adjustable mechanism easily advances paint crayon",
+        "Designed for use with the following Markal® standard size solid paint crayons: Original B®, Rough Surface®, Bleed Thru Oil-based®, Bleed Thru Water-based®, High Intensity®, Heat Treat® (1600F and 1800F), Non-Bleed Thru®, Galvanizer®"
+      ],
+      "bottom_cord": 460.9884948730469,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "85100",
+          "Adjustable metal holder for standard diameter solid paint crayons - length 6in (15.2cm)"
+        ]
+      ],
+      "name": "102 Standard Size Holder"
+    },
+    "107_fine_size_holder": {
+      "page_index": 30,
+      "top_cord": 533.1798706054688,
+      "short_description": "Metal holder for small diameter solid paint crayons",
+      "features": [
+        "Dependable holder protects fine size Markal® Paintstiks for long work life",
+        "Easy-to-use, push-button design reduces work downtime",
+        "Designed for use with the following Markal solid paint markers: B® Fine, and Water Removable Fine"
+      ],
+      "bottom_cord": 701.3538818359375,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "85300",
+          "Metal holder for small diameter solid paint crayons - length 5.5in (14cm)"
+        ]
+      ],
+      "images": [
+        "107_fine_size_holder_1.webp"
+      ],
+      "name": "107 Fine Size Holder"
+    },
+    "quik_stik_all_purpose_mini": {
+      "page_index": 31,
+      "top_cord": 313.71600341796875,
+      "short_description": "Fast-drying solid paint in compact twist-up holder",
+      "features": [
+        "Marks on virtually any surface; wet, smooth, rough or hot",
+        "Solid paint marker advances and retracts by turning twist-up knob",
+        "Compact plastic holder with clip-cap stores easily in pocket and keeps hands and clothing clean"
+      ],
+      "bottom_cord": 469.4840087890625,
+      "part_numbers": [
+        [
+          "PART NO. ",
+          "DESCRIPTION"
+        ],
+        [
+          "61126 ",
+          " White "
+        ],
+        [
+          "61127 ",
+          " Yellow "
+        ],
+        [
+          "61128 ",
+          " Red "
+        ],
+        [
+          "61129 ",
+          " Black"
+        ]
+      ],
+      "images": [
+        "quik_stik_all_purpose_mini_2.webp",
+        "quik_stik_all_purpose_mini_3.webp"
+      ],
+      "name": "Quik Stik® All Purpose Mini"
+    },
+    "quik_stik_all_purpose": {
+      "page_index": 31,
+      "top_cord": 108.57784271240234,
+      "short_description": "Water  Removable",
+      "features": [
+        "Fast-drying vibrant paint marks on virtually any surface: wet, smooth, rough, or hot",
+        "Easy Grip Airtight Cap for convenient pocket storage, self-storing cap keeps the marker clean and fresh between uses",
+        "Solid paint marker advances and retracts by turning twist-up knob"
+      ],
+      "bottom_cord": 256.88787841796875,
+      "part_numbers": [
+        [
+          "PART NO. ",
+          "DESCRIPTION"
+        ],
+        [
+          "61049 ",
+          " Red† "
+        ],
+        [
+          "61051 ",
+          " White "
+        ],
+        [
+          "61069 ",
+          " Green† "
+        ],
+        [
+          "61071 ",
+          " Orange† "
+        ],
+        [
+          "61041 ",
+          " Fluor. Yellow† "
+        ],
+        [
+          "61043 ",
+          " Fluor. Orange†"
+        ],
+        [
+          "61050 ",
+          " Black "
+        ],
+        [
+          "61053 ",
+          " Yellow† "
+        ],
+        [
+          "61070 ",
+          " Blue† "
+        ],
+        [
+          "61073 ",
+          " Purple† "
+        ],
+        [
+          "61042  ",
+          "    Fluor. Green† "
+        ],
+        [
+          "61044 ",
+          " Fluor. Pink†"
+        ]
+      ],
+      "images": [
+        "quik_stik_all_purpose_0.webp",
+        "quik_stik_all_purpose_1.webp"
+      ],
+      "name": "Quik Stik® All Purpose"
+    },
+    "quik_stik_oily_surface_mini": {
+      "page_index": 32,
+      "top_cord": 315.7398986816406,
+      "short_description": "Premium solid paint marker that writes on  oily and wet surfaces",
+      "features": [
+        "Industrial-grade paint formula for exceptional performance on oily and wet surfaces. Also writes on dry, smooth or rough",
+        "Push advance easily advances permanent solid paint to keep hands, clothing and toolboxes clean",
+        "Photoluminescent white paint glows in the dark for up to 30 minutes when charged with light to provide increased visibility of marks",
+        "Weather-resistant paint formula for long-lasting marks"
+      ],
+      "bottom_cord": 704.7879028320312,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "28770",
+          "White "
+        ],
+        [
+          "28772",
+          "Red"
+        ],
+        [
+          "28771",
+          "Yellow"
+        ],
+        [
+          "28773",
+          "Black"
+        ],
+        [
+          "28850 ",
+          " White†"
+        ]
+      ],
+      "images": [
+        "quik_stik-_oily_surface_mini_0.webp",
+        "quik_stik-_oily_surface_mini_1.webp",
+        "quik_stik-_oily_surface_mini_2.webp",
+        "quik_stik-_oily_surface_mini_3.webp"
+      ],
+      "name": "Quik Stik®+ Oily Surface Mini"
+    },
+    "quik_stik_glow_in_the_dark": {
+      "page_index": 32,
+      "name": "Quik Stik®+ Glow-In-The-Dark"
+    },
+    "quik_stik_oily_surface": {
+      "page_index": 32,
+      "top_cord": 117.57784271240234,
+      "short_description": "Mini",
+      "features": [
+        "Industrial-grade paint formula for exceptional performance on oily and wet surfaces. Also writes on dry, smooth or rough",
+        "Twist-up knob easily advances permanent solid paint to keep hands, clothing and toolboxes clean"
+      ],
+      "bottom_cord": 754.7628173828125,
+      "part_numbers": [],
+      "images": [
+        "quik_stik-_oily_surface_4.webp",
+        "quik_stik-_oily_surface_5.webp"
+      ],
+      "name": "Quik Stik®+ Oily Surface"
+    },
+    "heat_stik_400_f_1600_f": {
+      "page_index": 37,
+      "top_cord": 278.99798583984375,
+      "short_description": "204°C to 871°C",
+      "features": [
+        "Red-hot surface marking crayon writes on billets, coils, bars, slabs, ingots and other hot metal surfaces",
+        "Fast-drying marks are not damaged during handling or when immersed in cold water baths"
+      ],
+      "bottom_cord": 493.6498107910156,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "81220",
+          "White / Standard"
+        ],
+        [
+          "81223",
+          "Black / Standard"
+        ],
+        [
+          "81221",
+          "Yellow / Standard"
+        ],
+        [
+          "81225",
+          "Blue / Standard"
+        ],
+        [
+          "81222",
+          "Red / Standard"
+        ],
+        [
+          "81210",
+          "White /  JUMBO"
+        ]
+      ],
+      "images": [
+        "heat_stik__-400-f_-_1600-f-_4.webp",
+        "heat_stik__-400-f_-_1600-f-_6.webp"
+      ],
+      "name": "Heat Stik®  (400°F - 1600°F)"
+    },
+    "heat_stik_fine_225_f_1100_f": {
+      "page_index": 37,
+      "top_cord": 78.70329284667969,
+      "short_description": "107°C to 593°C",
+      "features": [
+        "Hot surface marker writes on hot castings, forgings, coils, billets, plates and other hot metal surfaces",
+        "Forgings and parts can be immediately dipped into cold water baths without damaging the marks"
+      ],
+      "bottom_cord": 250.2187957763672,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "81020",
+          "White"
+        ],
+        [
+          "81023",
+          "Black"
+        ],
+        [
+          "81021",
+          "Yellow"
+        ],
+        [
+          "81025",
+          "Blue"
+        ],
+        [
+          "81022",
+          "Red"
+        ],
+        [
+          "81026",
+          "Green"
+        ]
+      ],
+      "images": [
+        "heat_stik_fine_-225-f_-_1100-f-_0.webp",
+        "heat_stik_fine_-225-f_-_1100-f-_2.webp",
+        "heat_stik_fine_-225-f_-_1100-f-_3.webp"
+      ],
+      "name": "Heat Stik® Fine (225°F - 1100°F)"
+    },
+    "heat_stik_400_f_1800_f": {
+      "page_index": 37,
+      "top_cord": 524.585205078125,
+      "short_description": "204°C to 982°C",
+      "features": [
+        "Red-hot surface marking crayon writes on billets, coils, bars, slabs, ingots and other hot metal surfaces",
+        "Fast-drying marks are not damaged during handling or when immersed in cold water baths"
+      ],
+      "bottom_cord": 712.2761840820312,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "84720",
+          "White / Standard"
+        ],
+        [
+          "84710",
+          "White / JUMBO"
+        ]
+      ],
+      "images": [
+        "heat_stik_-400-f_-_1800-f-_1.webp",
+        "heat_stik_-400-f_-_1800-f-_5.webp"
+      ],
+      "name": "Heat Stik® (400°F - 1800°F)"
+    },
+    "heat_stik_200_f_1000_f": {
+      "page_index": 38,
+      "top_cord": 279.17523193359375,
+      "short_description": "93°C to 537°C",
+      "features": [
+        "Red-hot surface paint crayon on billets, coils, bars, slabs, ingots and other hot metal surfaces",
+        "Extra-wide hot surface marker lasts longer than competitive hot chalk for extended writing life",
+        "Durable marks will not run, char, flow, discolor, peel or crack",
+        "Easy-to-hold, recyclable paperboard holder protects Heat Stik® for maximum use"
+      ],
+      "bottom_cord": 471.9192199707031,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "84820",
+          "White"
+        ]
+      ],
+      "images": [
+        "heat_stik_-200-f_-_1000-f-_0.webp",
+        "heat_stik_-200-f_-_1000-f-_3.webp"
+      ],
+      "name": "Heat Stik® (200°F - 1000°F)"
+    },
+    "heat_stik_350_f_1700_f": {
+      "page_index": 38,
+      "top_cord": 38.16557693481445,
+      "short_description": "177°C to 927°C",
+      "features": [
+        "Extra-wide hot surface marker lasts longer than competitive hot chalk, for extended writing life",
+        "Durable marks will not run, char, flow, discolor, peel or crack",
+        "Fast-drying marks are not damaged during handling or when immersed in cold water baths",
+        "Real paint for long-lasting, highly visible marks"
+      ],
+      "bottom_cord": 228.41880798339844,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "81610",
+          "White"
+        ]
+      ],
+      "images": [
+        "heat_stik_-350-f_-_1700-f-_1.webp",
+        "heat_stik_-350-f_-_1700-f-_4.webp"
+      ],
+      "name": "Heat Stik® (350°F - 1700°F)"
+    },
+    "heat_stik_1800_f_2200_f": {
+      "page_index": 38,
+      "top_cord": 524.7623901367188,
+      "short_description": "982°C to 1204°C",
+      "features": [
+        "White-hot surface paint crayon writes on iron, steel castings, ingots, forgings, blooms, billets and high temperature metal alloys",
+        "Extra-wide hot surface marker lasts longer than competitive hot chalk, for extended writing life",
+        "Marks are readable even on white-hot steel for instant identification"
+      ],
+      "bottom_cord": 701.2761840820312,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "81820",
+          "White"
+        ]
+      ],
+      "images": [
+        "heat_stik_-1800-f_-_2200-f-_2.webp",
+        "heat_stik_-1800-f_-_2200-f-_5.webp"
+      ],
+      "name": "Heat Stik® (1800°F - 2200°F)"
+    },
+    "heat_stik": {
+      "page_index": 39,
+      "name": "Heat Stik® ("
+    },
+    "holder_100": {
+      "page_index": 40,
+      "top_cord": 96.81517028808594,
+      "short_description": "Wooden holder",
+      "features": [
+        "Durable wooden holder protects the marker during use for long marking life",
+        "Adjustable metal ring secures marker in holder",
+        "Designed for use with the following Markal® hot surface solid paint markers: Heat Stik® Fine (225°F - 1000°F) Heat Stik® (400°F - 1600°F), Heat Stik® (400°F - 1800°F) Heat Stik® (350°F - 1700°F), Heat Stik® (150°F - 900°F)"
+      ],
+      "bottom_cord": 277.01312255859375,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "LENGTH"
+        ],
+        [
+          "85500",
+          "4in (10.25cm)"
+        ]
+      ],
+      "images": [
+        "holder_100_0.webp",
+        "holder_100_1.webp",
+        "holder_100_4.webp"
+      ],
+      "name": "Holder 100"
+    },
+    "holder_102k": {
+      "page_index": 40,
+      "top_cord": 318.0434265136719,
+      "short_description": "Metal holder for hot surface solid paint markers",
+      "features": [
+        "Combining holder (85200) and the 2ft extension (85210) provides additional length to protect the user from dangerous heat",
+        "Fast button advancing for high production, even with heavy duty gloves",
+        "Designed for use with the following Markal® hot surface solid paint markers: Heat Stik® (1800°F - 2200°F) Heat Stik® (200°F - 1000°F) Heat Stik® (400°F - 1600°F) King size Heat Stik® (400°F - 1800°F) King size"
+      ],
+      "bottom_cord": 506.79010009765625,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "LENGTH"
+        ],
+        [
+          "85200",
+          "0.6 ft. (18.4cm)"
+        ],
+        [
+          "85210",
+          "2 ft. (0.6m)"
+        ]
+      ],
+      "images": [
+        "holder_102k_2.webp",
+        "holder_102k_5.webp"
+      ],
+      "name": "Holder 102K"
+    },
+    "holder_111": {
+      "page_index": 40,
+      "top_cord": 538.8693237304688,
+      "short_description": "Extra-long metal holder",
+      "features": [
+        "The longest metal holder for hot surface marking",
+        "Durable, push-button metal holder is easy to use, even with heavy-duty gloves",
+        "Designed for use with the following Markal® hot surface solid paint markers: Heat Stik® Fine (225°F - 1000°F) Heat Stik® (400°F - 1600°F) Heat Stik® (400°F - 1800°F) Heat Stik® (350°F - 1700°F) Heat Stik® (150°F - 900°F)"
+      ],
+      "bottom_cord": 720.2548217773438,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "LENGTH"
+        ],
+        [
+          "85700",
+          "11in (28cm)"
+        ]
+      ],
+      "images": [
+        "holder_111_3.webp"
+      ],
+      "name": "Holder 111"
+    },
+    "markal_pro_holder": {
+      "page_index": 56,
+      "top_cord": 74.49998474121094,
+      "short_description": "Mechanical holder for hard-to-reach areas",
+      "features": [
+        "Extended, needle-nose tip for tight and hard-to-reach areas",
+        "Heavy-duty metal construction for use in the toughest jobs",
+        "Easily refillable for continued use and built-in sharpener for precise marks",
+        "1x graphite lead included with holder"
+      ],
+      "bottom_cord": 253.2153778076172,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "96270",
+          "Holder"
+        ]
+      ],
+      "images": [
+        "markal_pro_holder_0.webp",
+        "markal_pro_holder_1.webp",
+        "markal_pro_holder_3.webp"
+      ],
+      "name": "Markal® Pro Holder"
+    },
+    "markal_pro_reﬁlls": {
+      "page_index": 43,
+      "top_cord": 288.5400085449219,
+      "short_description": "Pro refills for general purpose marking",
+      "features": [
+        "Marks on just about any surface; metal, plastic, glass, wood, paper, etc.",
+        "Break-resistant, extra-wide leads",
+        "For use only with Markal Pro Holder",
+        "Refill size - Ø: 2.8mm, L: 120mm"
+      ],
+      "bottom_cord": 477.8498229980469,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "96273",
+          "Graphite Refills 6 Pack"
+        ],
+        [
+          "96275",
+          "Yellow Crayon Refills 6 Pack"
+        ],
+        [
+          "96274",
+          "Red Crayon Refills 6 Pack"
+        ],
+        [
+          "96276",
+          "      Multi-pack Refills 6 Pack"
+        ]
+      ],
+      "images": [
+        "markal_pro_reﬁlls_3.webp",
+        "markal_pro_reﬁlls_4.webp"
+      ],
+      "name": "Markal® Pro Reﬁlls"
+    },
+    "trades_marker_all_purpose": {
+      "page_index": 44,
+      "top_cord": 76.55308532714844,
+      "short_description": "Mechanical grease pencil",
+      "features": [
+        "Marker refills eliminate mess and paper waste of grease pencils, saving time and money",
+        "Holder maximizes complete use of marker",
+        "Push-button advancing makes for easy, one-handed use"
+      ],
+      "bottom_cord": 277.04412841796875,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "96130",
+          "White"
+        ],
+        [
+          "96133",
+          "Black*"
+        ],
+        [
+          "96240",
+          "White"
+        ],
+        [
+          "96000",
+          "Assorted"
+        ],
+        [
+          "96131",
+          "Yellow"
+        ],
+        [
+          "96137",
+          "Orange"
+        ],
+        [
+          "96241",
+          "Yellow"
+        ],
+        [
+          "96132",
+          "Red*"
+        ],
+        [
+          "96247",
+          "Orange"
+        ]
+      ],
+      "images": [
+        "trades-marker_all_purpose_0.webp",
+        "trades-marker_all_purpose_1.webp"
+      ],
+      "name": "Trades-Marker® All Purpose"
+    },
+    "trades_marker_water_soluble": {
+      "page_index": 44,
+      "top_cord": 304.2200012207031,
+      "short_description": "Water-removable, mechanical grease pencil",
+      "features": [
+        "Marks can be easily wiped away with water, ideal for quality control and temporary marking needs",
+        "Great for many surfaces including: smooth, rough, rusty, or dirty surfaces",
+        "Marker refills eliminate mess and paper waste of grease pencils, saving time and money"
+      ],
+      "bottom_cord": 490.7239990234375,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "96190",
+          "White†"
+        ],
+        [
+          "96180",
+          "White†"
+        ],
+        [
+          "96170",
+          "White†"
+        ],
+        [
+          "96191",
+          "Yellow†"
+        ],
+        [
+          "96181",
+          "Yellow†"
+        ],
+        [
+          "96171",
+          "Yellow†"
+        ],
+        [
+          "96192",
+          "Black†"
+        ]
+      ],
+      "images": [
+        "trades-marker-_water_soluble_2.webp",
+        "trades-marker-_water_soluble_3.webp"
+      ],
+      "name": "Trades-Marker®+ Water Soluble"
+    },
+    "china_marker": {
+      "page_index": 45,
+      "top_cord": 86.08012390136719,
+      "short_description": "Paper-wrapped marker, grease pencil",
+      "features": [
+        "Low-cost, general purpose marker for smooth writing on most surfaces",
+        "Moisture-resistant marker, can be used effectively in most climates",
+        "No sharpening required; pull string and unwrap paper"
+      ],
+      "bottom_cord": 264.5546875,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "96010",
+          "White"
+        ],
+        [
+          "96013",
+          "Black"
+        ],
+        [
+          "96011",
+          "Yellow"
+        ],
+        [
+          "96015",
+          "Blue"
+        ],
+        [
+          "96012",
+          "Red"
+        ],
+        [
+          "96016",
+          "Green"
+        ]
+      ],
+      "images": [
+        "china_marker_1.webp"
+      ],
+      "name": "China Marker"
+    },
+    "carpenter_s_pencil": {
+      "page_index": 45,
+      "top_cord": 539.2855834960938,
+      "short_description": "Precise wood and concrete marking",
+      "features": [
+        "Economical pencil for clean, accurate marks on wood, concrete and other surfaces",
+        "Flat marker design prevents rolling on work tables",
+        "Available in medium and hard lead to fit the surface needs",
+        "Length: 7in (17.8cm)"
+      ],
+      "bottom_cord": 713.3543090820312,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "96927",
+          "Hard"
+        ],
+        [
+          "96928",
+          "Medium"
+        ]
+      ],
+      "images": [
+        "carpenter-s_pencil_2.webp",
+        "carpenter-s_pencil_3.webp"
+      ],
+      "name": "Carpenter’s Pencil"
+    },
+    "railroad_chalk": {
+      "page_index": 46,
+      "top_cord": 84.49998474121094,
+      "short_description": "Wide, temporary marks",
+      "features": [
+        "Large diameter chalk makes bold, wide temporary marks that are easy to read on virtually any surface",
+        "Wide, tapered shape is easy to hold, even with gloves",
+        "Length: 4in (10.2cm)"
+      ],
+      "bottom_cord": 780.5099487304688,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "80500",
+          "White"
+        ],
+        [
+          "80505",
+          "Blue"
+        ],
+        [
+          "80501",
+          "Yellow"
+        ],
+        [
+          "80506",
+          "Green"
+        ],
+        [
+          "80502",
+          "Red"
+        ]
+      ],
+      "images": [
+        "railroad_chalk_0.webp",
+        "railroad_chalk_1.webp",
+        "railroad_chalk_2.webp"
+      ],
+      "name": "Railroad Chalk"
+    },
+    "timberstik_all_purpose": {
+      "page_index": 49,
+      "top_cord": 74.13987731933594,
+      "short_description": "Economical, wax-based",
+      "features": [
+        "Known in construction trades as “keel” or layout chalk",
+        "Formulated for weather and fade resistant marking on most surfaces",
+        "Special softer formula allows for superior marking in cold climates"
+      ],
+      "bottom_cord": 274.21881103515625,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "80350",
+          "White"
+        ],
+        [
+          "80353",
+          "Black"
+        ],
+        [
+          "80356",
+          "Green†"
+        ],
+        [
+          "80351",
+          "Yellow"
+        ],
+        [
+          "80354",
+          "Orange"
+        ],
+        [
+          "80352",
+          "Red"
+        ],
+        [
+          "80355",
+          "Blue"
+        ]
+      ],
+      "images": [
+        "timberstik_all_purpose_2.webp"
+      ],
+      "name": "Timberstik® All Purpose"
+    },
+    "timberstik_pro_grade": {
+      "page_index": 49,
+      "top_cord": 319.81451416015625,
+      "short_description": "Ideal for hot or cold climates",
+      "features": [
+        "Stronger formula for reduced breakage and longer marking life",
+        "Superior performance on wet, frozen, or treated wood",
+        "Professional-grade formula makes bold and bright marks"
+      ],
+      "bottom_cord": 507.79229736328125,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "80380",
+          "White"
+        ],
+        [
+          "80383",
+          "Black"
+        ],
+        [
+          "80381",
+          "Yellow"
+        ],
+        [
+          "80385",
+          "Blue"
+        ],
+        [
+          "80382",
+          "Red"
+        ],
+        [
+          "80386",
+          "Green"
+        ]
+      ],
+      "images": [
+        "timberstik-_pro_grade_0.webp",
+        "timberstik-_pro_grade_3.webp",
+        "timberstik-_pro_grade_4.webp"
+      ],
+      "name": "Timberstik®+ Pro Grade"
+    },
+    "ultrascan": {
+      "page_index": 50,
+      "top_cord": 74.81132507324219,
+      "short_description": "High-performance crayon for grade mark readers",
+      "features": [
+        "Bright colors provide the highest fluorescent response of any lumber grading marker",
+        "Dramatically longer use, provides up to 4X the writing life of competitive crayons",
+        "Maximum character recognition and accuracy for the lowest possible reject rates",
+        "Each batch is tested to meet the specifications for Lucidyne ColorScan® and Newnes-McGehee grade mark readers",
+        "One hardness for all temperatures, eliminates duplicate inventory",
+        "Specifically developed for Lucidyne, Newnes-McGehee and Cypress grade mark readers",
+        "Unique formula provides excellent writing on wet and green lumber, even with fungicide coating",
+        "26 colors for superior color separation compared to competitive fluorescent wax crayons"
+      ],
+      "bottom_cord": 410.1217956542969,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "82430",
+          "Brick Red 11"
+        ],
+        [
+          "82439",
+          "Dark Orange 42"
+        ],
+        [
+          "82451",
+          "Bright Pink 91"
+        ],
+        [
+          "82466",
+          "Purple 24"
+        ],
+        [
+          "82431",
+          "Magenta 21"
+        ],
+        [
+          "82440",
+          "Brown 52"
+        ],
+        [
+          "82452",
+          "Royal Blue 80"
+        ],
+        [
+          "82467",
+          "Bright Red 34"
+        ],
+        [
+          "82432",
+          "Red Orange 31"
+        ],
+        [
+          "82441",
+          "Green 62"
+        ],
+        [
+          "82457",
+          "Light Blue 81"
+        ],
+        [
+          "82468",
+          "Neon Orange 103"
+        ],
+        [
+          "82433",
+          "Orange 41"
+        ],
+        [
+          "82442",
+          "Rust 13"
+        ],
+        [
+          "82459",
+          "Bright Orange 44"
+        ],
+        [
+          "82469",
+          "Tan 45"
+        ],
+        [
+          "82434",
+          "Berry 51"
+        ],
+        [
+          "82446",
+          "Yellow Orange 53"
+        ],
+        [
+          "82461",
+          "Spring Green 71"
+        ],
+        [
+          "82470",
+          "Tangerine 03"
+        ],
+        [
+          "82435",
+          "Lime 61"
+        ],
+        [
+          "82447",
+          "Yellow 63"
+        ],
+        [
+          "82462",
+          "Dark Brown 55"
+        ],
+        [
+          "82436",
+          "Burgundy 12"
+        ],
+        [
+          "82450",
+          "Blue Green 70"
+        ],
+        [
+          "82463",
+          "Golden Rod 54"
+        ]
+      ],
+      "images": [
+        "ultrascan_3.webp"
+      ],
+      "name": "ULTRASCAN®"
+    },
+    "scan_it_plus": {
+      "page_index": 50,
+      "top_cord": 477.8081970214844,
+      "short_description": "For grade marking",
+      "features": [
+        "Each batch is tested to meet the specifications for Lucidyne ColorScan® grade mark readers",
+        "Superior color separation for accurate grading compared to competitive crayons",
+        "Makes smear-resistant marks, reduces scanning errors",
+        "Variety of fluorescent colors in three hardnesses for varying production environments"
+      ],
+      "bottom_cord": 694.027587890625,
+      "part_numbers": [
+        [
+          "PART NO. ",
+          "HARDNESS / SIZE  "
+        ],
+        [
+          "82231 ",
+          " Orange Sherbet Hard "
+        ],
+        [
+          "82236  ",
+          " Orange Sherbet Hard "
+        ],
+        [
+          "82337  ",
+          " Watermelon Red Med "
+        ],
+        [
+          "82636  ",
+          " Orange Sherbet Soft"
+        ],
+        [
+          "82232  ",
+          " Watermelon Red Hard "
+        ],
+        [
+          "82237 ",
+          " Watermelon Red Hard "
+        ],
+        [
+          "82339  ",
+          " Grasshopper Green Med "
+        ],
+        [
+          "82637 ",
+          " Watermelon Red Soft"
+        ],
+        [
+          "82234 ",
+          " Grasshopper Green Hard "
+        ],
+        [
+          "82239  ",
+          " Grasshopper Green Hard "
+        ],
+        [
+          "82347  ",
+          " Pumpkin Med "
+        ],
+        [
+          "82639  ",
+          " Grasshopper Green Soft"
+        ],
+        [
+          "82331  ",
+          " Orange Sherbet Med "
+        ],
+        [
+          "82336 ",
+          " Orange Sherbet Med "
+        ],
+        [
+          "82359  ",
+          " Lemon Yellow Med "
+        ],
+        [
+          "82659 ",
+          " Lemon Yellow Soft"
+        ]
+      ],
+      "images": [
+        "scan-it_plus_0.webp",
+        "scan-it_plus_2.webp"
+      ],
+      "name": "SCAN-IT® Plus"
+    },
+    "109_peterson_holder": {
+      "page_index": 51,
+      "top_cord": 536.2858276367188,
+      "short_description": "Wood holder for hex-shaped lumber and  timber markers",
+      "features": [
+        "Adjustable locking ring keeps markers in place during use",
+        "Comfortable leather wrist strap fits over gloves and reduces dropping",
+        "Designed for use with the following Markal® markers: SCAN-IT® Plus 13mm hex and other hex-shaped Markal markers"
+      ],
+      "bottom_cord": 721.7178955078125,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "LENGTH"
+        ],
+        [
+          "85490",
+          "5in (12.7cm)"
+        ]
+      ],
+      "images": [
+        "109_peterson_holder_1.webp",
+        "109_peterson_holder_2.webp"
+      ],
+      "name": "109 Peterson Holder"
+    },
+    "106_holder": {
+      "page_index": 51,
+      "top_cord": 79.84507751464844,
+      "short_description": "Dual holder for lumber crayons and  carpenter pencils",
+      "features": [
+        "Dual design for easy use of two markers for quick marking on multiple surfaces",
+        "Easy-to-adjust locking rings securely hold markers",
+        "Bright yellow color makes for easy on-the-job identification",
+        "Designed for use with the following Markal® markers: Timberstik® All Purpose, Timberstik®+ Pro Grade, and carpenter pencils"
+      ],
+      "bottom_cord": 271.4111328125,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "LENGTH"
+        ],
+        [
+          "85401",
+          "5in (12.7cm)"
+        ]
+      ],
+      "images": [
+        "106_holder_4.webp",
+        "106_holder_5.webp"
+      ],
+      "name": "106 Holder"
+    },
+    "108": {
+      "page_index": 51,
+      "top_cord": 322.15252685546875,
+      "short_description": "Metal holder for hex-shaped markers",
+      "features": [
+        "Heavy-duty metal holder helps prevent breakage, reducing costs",
+        "Push-button advancing reduces downtime for increased productivity",
+        "Comfortable leather wrist strap helps prevent dropping",
+        "Designed for use with all 13mm Markal® hex-shaped markers: Timberstik® All Purpose, Timberstik®+ Pro Grade, and Tyre Marque®"
+      ],
+      "bottom_cord": 485.5444030761719,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "LENGTH"
+        ],
+        [
+          "85400",
+          "6in (15.2cm)"
+        ]
+      ],
+      "name": "108"
+    },
+    "silver_streak_welding_pencil": {
+      "page_index": 55,
+      "top_cord": 305.9679260253906,
+      "short_description": "For metal layout and fabrication",
+      "features": [
+        "Reflective lead illuminates when cutting or welding for improved visibility",
+        "Durable marks will not scratch or abrade metal surfaces",
+        "High-strength, hex-shaped pencil reduces barrel roll unlike competitive brands",
+        "Pre-sharpened"
+      ],
+      "bottom_cord": 478.43450927734375,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "96101",
+          "Silver"
+        ]
+      ],
+      "images": [
+        "silver-streak__welding_pencil_3.webp"
+      ],
+      "name": "Silver-Streak®  Welding Pencil"
+    },
+    "red_riter_welding_pencil": {
+      "page_index": 55,
+      "top_cord": 556.585205078125,
+      "short_description": "For metal layout and fabrication",
+      "features": [
+        "Highly visible red color for aluminum or other bright metals",
+        "Durable marks will not scratch or abrade metal surfaces",
+        "High-strength, hex-shaped pencil reduces barrel roll unlike competitive brands",
+        "Pre-sharpened"
+      ],
+      "bottom_cord": 719.2761840820312,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "96100",
+          "Red"
+        ]
+      ],
+      "images": [
+        "red-riter__welding_pencil_4.webp"
+      ],
+      "name": "Red-Riter®  Welding Pencil"
+    },
+    "silver_streak": {
+      "page_index": 55,
+      "top_cord": 74.13987731933594,
+      "short_description": "For welding, metal layout and fabrication",
+      "features": [
+        "Highly-visible marks illuminate when cutting or welding",
+        "Superior to soapstone in markability and durability; will not rub, burn or blow off surface",
+        "Marks on oily, wet or rusty metals, and will not scratch or abrade surfaces",
+        "Durable, mechanical holder prevents stick breakage and features a convenient, built-in sharpener and pocket clip for easy storage"
+      ],
+      "bottom_cord": 273.81781005859375,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "96006",
+          "1 Holder/ 1 Refill"
+        ],
+        [
+          "96107",
+          "1 Holder/6 Refills"
+        ],
+        [
+          "96007",
+          "Refill/ 6 Pack"
+        ]
+      ],
+      "images": [
+        "silver-streak_0.webp",
+        "silver-streak_5.webp"
+      ],
+      "name": "Silver-Streak®"
+    },
+    "soapstone": {
+      "page_index": 56,
+      "top_cord": 555.585205078125,
+      "short_description": "Temporary Marking",
+      "features": [
+        "Temporary marks can be easily removed",
+        "Marks will not contaminate weld or damage metal surface",
+        "Available in two easy-to-hold shapes: flat and round",
+        "Holders for flat and round shapes reduce breakage"
+      ],
+      "bottom_cord": 728.8742065429688,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "SHAPE"
+        ],
+        [
+          "80129",
+          "Flat"
+        ],
+        [
+          "80140",
+          "Flat"
+        ],
+        [
+          "80130",
+          "Round"
+        ],
+        [
+          "80141",
+          "Round"
+        ]
+      ],
+      "images": [
+        "soapstone_4.webp"
+      ],
+      "name": "Soapstone"
+    },
+    "markal_pro_welding_reﬁlls": {
+      "page_index": 56,
+      "top_cord": 305.218017578125,
+      "short_description": "Reflective lead refills for welding and fabrication layout",
+      "features": [
+        "Silver-Streak® Pro - Unique reflective lead perfect for welding and fabricating",
+        "Red-Riter® Pro - Red lead perfect for welding and fabricating on aluminum, stainless steel and other bright metals",
+        "Durable and heat-resistant marks last longer than soapstone",
+        "Ideal for use on and safe for all metals; clean, oily, or rusty",
+        "For use only with Markal® Pro Holder"
+      ],
+      "bottom_cord": 489.1526184082031,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "96271",
+          "Silver-Streak PRO Refills,6 Pack"
+        ],
+        [
+          "96270",
+          "Holder"
+        ],
+        [
+          "96272",
+          "Red-Riter PRO Refills,6 Pack"
+        ]
+      ],
+      "images": [
+        "markal_pro_welding_reﬁlls_2.webp"
+      ],
+      "name": "Markal® PRO Welding Reﬁlls"
+    }
+  },
+  "tempil": {
+    "tempilstik": {
+      "page_index": 59,
+      "top_cord": 76.70341491699219,
+      "short_description": "Fast, accurate surface temperature indicator",
+      "features": [
+        "Stick instantly melts at designated temperature for easy and immediate visual inspection",
+        "Calibration-free with 100% reliability",
+        "Comply with preheat temperature requirements of AWS D1.1, ASME Code Sec. I, III and VIII, ANSI/ASME Code B31.1 and B31.3",
+        "Imprinted part number, temperature and lot code across entire stick for improved traceability",
+        "Accurate to within +/-1% Fahrenheit and +/-3% Celsius rated temperatures",
+        "Preheating",
+        "Interpass heat treatment",
+        "Annealing",
+        "Post heating",
+        "Stress relieving"
+      ],
+      "bottom_cord": 673.8460083007812,
+      "part_numbers": [
+        [
+          "PART NO. ",
+          "°F ",
+          "°C"
+        ],
+        [
+          "28026† ",
+          "300 ",
+          "149"
+        ],
+        [
+          "28318† ",
+          "302 ",
+          "150"
+        ],
+        [
+          "28027 ",
+          "306 ",
+          "152"
+        ],
+        [
+          "28319 ",
+          "311 ",
+          "155"
+        ],
+        [
+          "28028 ",
+          "313 ",
+          "156"
+        ],
+        [
+          "28320 ",
+          "320 ",
+          "160"
+        ],
+        [
+          "28029† ",
+          "325 ",
+          "163"
+        ],
+        [
+          "28321 ",
+          "329 ",
+          "165"
+        ],
+        [
+          "28322 ",
+          "338 ",
+          "170"
+        ],
+        [
+          "28030 ",
+          "344 ",
+          "173"
+        ],
+        [
+          "28323† ",
+          "347 ",
+          "175"
+        ],
+        [
+          "28031† ",
+          "350 ",
+          "177"
+        ],
+        [
+          "28324† ",
+          "356 ",
+          "180"
+        ],
+        [
+          "28032 ",
+          "363 ",
+          "184"
+        ],
+        [
+          "28325 ",
+          "374 ",
+          "190"
+        ],
+        [
+          "28033 ",
+          "375 ",
+          "191"
+        ],
+        [
+          "28326 ",
+          "383 ",
+          "195"
+        ],
+        [
+          "28034 ",
+          "388 ",
+          "198"
+        ],
+        [
+          "28327† ",
+          "392 ",
+          "200"
+        ],
+        [
+          "28035 ",
+          "400 ",
+          "204  "
+        ],
+        [
+          "28328 ",
+          "410 ",
+          "210"
+        ],
+        [
+          "28036 ",
+          "413 ",
+          "212"
+        ],
+        [
+          "28329 ",
+          "419 ",
+          "215"
+        ],
+        [
+          "28037† ",
+          "425 ",
+          "218"
+        ],
+        [
+          "28330† ",
+          "428 ",
+          "220"
+        ],
+        [
+          "28331† ",
+          "437 ",
+          "225"
+        ],
+        [
+          "28332† ",
+          "446 ",
+          "230"
+        ],
+        [
+          "28039† ",
+          "450 ",
+          "232"
+        ],
+        [
+          "28333† ",
+          "455 ",
+          "235 "
+        ],
+        [
+          "28040 ",
+          "463 ",
+          "239"
+        ],
+        [
+          "28041† ",
+          "475 ",
+          "246"
+        ],
+        [
+          "28336† ",
+          "482 ",
+          "250"
+        ],
+        [
+          "28042† ",
+          "488 ",
+          "253"
+        ],
+        [
+          "28043† ",
+          "500 ",
+          "260"
+        ],
+        [
+          "28338 ",
+          "518 ",
+          "270"
+        ],
+        [
+          "28044 ",
+          "525 ",
+          "274"
+        ],
+        [
+          "28339 ",
+          "536 ",
+          "280"
+        ],
+        [
+          "28045† ",
+          "550 ",
+          "288"
+        ],
+        [
+          "28340† ",
+          "554 ",
+          "290"
+        ],
+        [
+          "28341† ",
+          "572 ",
+          "300"
+        ],
+        [
+          "28046† ",
+          "575 ",
+          "302"
+        ],
+        [
+          "28047† ",
+          "600 ",
+          "316"
+        ],
+        [
+          "28342† ",
+          "608 ",
+          "320"
+        ],
+        [
+          "28048 ",
+          "650 ",
+          "343"
+        ],
+        [
+          "28343 ",
+          "662 ",
+          "350"
+        ],
+        [
+          "28049† ",
+          "700 ",
+          "371"
+        ],
+        [
+          "28050† ",
+          "750 ",
+          "399"
+        ],
+        [
+          "28345† ",
+          "752 ",
+          "400"
+        ],
+        [
+          "28051† ",
+          "800 ",
+          "427"
+        ],
+        [
+          "28052 ",
+          "850 ",
+          "454"
+        ],
+        [
+          "28347† ",
+          "860 ",
+          "460"
+        ],
+        [
+          "28053† ",
+          "900 ",
+          "482"
+        ],
+        [
+          "28349† ",
+          "932 ",
+          "500"
+        ],
+        [
+          "28055 ",
+          "950 ",
+          "510"
+        ],
+        [
+          "28056 ",
+          "1000 ",
+          "538"
+        ],
+        [
+          "28057 ",
+          "1022 ",
+          "550"
+        ],
+        [
+          "28350† ",
+          "1040 ",
+          "560"
+        ],
+        [
+          "28058 ",
+          "1050 ",
+          "566"
+        ],
+        [
+          "28059 ",
+          "1100 ",
+          "593"
+        ],
+        [
+          "28351† ",
+          "1112 ",
+          "600"
+        ],
+        [
+          "28060 ",
+          "1150 ",
+          "621"
+        ],
+        [
+          "28352 ",
+          "1157 ",
+          "625"
+        ],
+        [
+          "28061 ",
+          "1200 ",
+          "649"
+        ],
+        [
+          "28062† ",
+          "1250 ",
+          "677"
+        ],
+        [
+          "28355† ",
+          "1292 ",
+          "700"
+        ],
+        [
+          "28063† ",
+          "1300 ",
+          "704"
+        ],
+        [
+          "28064 ",
+          "1400 ",
+          "760"
+        ],
+        [
+          "28065 ",
+          "1450 ",
+          "788"
+        ],
+        [
+          "28066 ",
+          "1500 ",
+          "816"
+        ],
+        [
+          "28067 ",
+          "1550 ",
+          "843"
+        ],
+        [
+          "28068† ",
+          "1600 ",
+          "871"
+        ],
+        [
+          "28069 ",
+          "1650 ",
+          "899"
+        ],
+        [
+          "28070 ",
+          "1700 ",
+          "927"
+        ],
+        [
+          "28072 ",
+          "1800 ",
+          "982"
+        ],
+        [
+          "28073 ",
+          "1900 ",
+          "1038"
+        ],
+        [
+          "28074 ",
+          "1950 ",
+          "1066"
+        ],
+        [
+          "28075† ",
+          "2000 ",
+          "1093"
+        ],
+        [
+          "28000 ",
+          "100 ",
+          "38"
+        ],
+        [
+          "28300 ",
+          "104 ",
+          "40"
+        ],
+        [
+          "28002 ",
+          "109 ",
+          "43"
+        ],
+        [
+          "28004 ",
+          "119 ",
+          "48"
+        ],
+        [
+          "28301†  ",
+          "112 ",
+          "50"
+        ],
+        [
+          "28005†  ",
+          "125 ",
+          "52"
+        ],
+        [
+          "28302 ",
+          "131 ",
+          "55"
+        ],
+        [
+          "28303† ",
+          "140 ",
+          "60"
+        ],
+        [
+          "28006 ",
+          "150 ",
+          "66"
+        ],
+        [
+          "28304†  ",
+          "158 ",
+          "70"
+        ],
+        [
+          "28007† ",
+          "163 ",
+          "73"
+        ],
+        [
+          "28305 ",
+          "167 ",
+          "75"
+        ],
+        [
+          "28008† ",
+          "169 ",
+          "76"
+        ],
+        [
+          "28009 ",
+          "175 ",
+          "79"
+        ],
+        [
+          "28306 ",
+          "176 ",
+          "80"
+        ],
+        [
+          "28010 ",
+          "182 ",
+          "83"
+        ],
+        [
+          "28307† ",
+          "185 ",
+          "85"
+        ],
+        [
+          "28011† ",
+          "188 ",
+          "87"
+        ],
+        [
+          "28308 ",
+          "194 ",
+          "90"
+        ],
+        [
+          "28012 ",
+          "200 ",
+          "93"
+        ],
+        [
+          "28309 ",
+          "203 ",
+          "95"
+        ],
+        [
+          "28013 ",
+          "206 ",
+          "97"
+        ],
+        [
+          "28310 ",
+          "212 ",
+          "100"
+        ],
+        [
+          "28014† ",
+          "213 ",
+          "101"
+        ],
+        [
+          "28015† ",
+          "219 ",
+          "104"
+        ],
+        [
+          "28016 ",
+          "225 ",
+          "107"
+        ],
+        [
+          "28312 ",
+          "230 ",
+          "110"
+        ],
+        [
+          "28313 ",
+          "239 ",
+          "115"
+        ],
+        [
+          "28314† ",
+          "248 ",
+          "120"
+        ],
+        [
+          "28019† ",
+          "250 ",
+          "121"
+        ],
+        [
+          "28020† ",
+          "256 ",
+          "124"
+        ],
+        [
+          "28315† ",
+          "257 ",
+          "125"
+        ],
+        [
+          "28021 ",
+          "263 ",
+          "128"
+        ],
+        [
+          "28316 ",
+          "266 ",
+          "130"
+        ],
+        [
+          "28022 ",
+          "269 ",
+          "132"
+        ],
+        [
+          "28023 ",
+          "275 ",
+          "135"
+        ],
+        [
+          "28317† ",
+          "284 ",
+          "140"
+        ],
+        [
+          "28024† ",
+          "288 ",
+          "142 "
+        ],
+        [
+          "28025† ",
+          "294 ",
+          "146"
+        ]
+      ],
+      "images": [
+        "tempilstik_1.webp"
+      ],
+      "name": "Tempilstik®"
+    },
+    "temp_alarm": {
+      "page_index": 60,
+      "top_cord": 410.9570007324219,
+      "short_description": "Time/Temperature Signaling Paint",
+      "features": [
+        "Paint will irreversibly transition colors within 5 minutes at stated temperature",
+        "Permanent record for inspection and quality control",
+        "Highly identifiable color change for improved monitoring",
+        "Sold as each",
+        "Monitor erosion and breakdown of refractory linings",
+        "Temperature profiles on engines",
+        "Aluminum specialty gas cylinders",
+        "Verifying heat treatment of parts"
+      ],
+      "bottom_cord": 646.350341796875,
+      "part_numbers": [
+        [
+          "PART NO. ",
+          "°F ",
+          "°C ",
+          "SIZE "
+        ],
+        [
+          "24601‡  ",
+          "310 ",
+          "154 ",
+          "1 gal."
+        ],
+        [
+          "24603s ",
+          "490 ",
+          "254 ",
+          "1 gal."
+        ]
+      ],
+      "images": [
+        "temp-alarm_1.webp"
+      ],
+      "name": "Temp-Alarm®"
+    },
+    "tempilstik_test_kit": {
+      "page_index": 60,
+      "top_cord": 76.70341491699219,
+      "short_description": "Temperature indicator and reference kit",
+      "features": [
+        "20 Tempilstik indicators systematically spaced between 125°F(52°C) and 800°F(427°C)",
+        "Stick melts at designated temperature for easy and immediate visual inspection with +/-1% accuracy",
+        "Calibration free with 100% reliability"
+      ],
+      "bottom_cord": 300.3473205566406,
+      "part_numbers": [
+        [
+          "PART NO. ",
+          "DESCRIPTION"
+        ],
+        [
+          "28600  ",
+          "Test Kit 20 Sticks"
+        ],
+        [
+          "PART NO.",
+          "DESCRIPTION"
+        ],
+        [
+          "28005† ",
+          "125 ",
+          "52"
+        ],
+        [
+          "28306 ",
+          "150 ",
+          "66"
+        ],
+        [
+          "28009 ",
+          "175 ",
+          "79"
+        ],
+        [
+          "28012 ",
+          "200 ",
+          "93"
+        ],
+        [
+          "28016  ",
+          "225 ",
+          "107"
+        ],
+        [
+          "28019† ",
+          "250 ",
+          "121"
+        ],
+        [
+          "28023 ",
+          "275 ",
+          "135"
+        ],
+        [
+          "28026† ",
+          "300 ",
+          "149"
+        ],
+        [
+          "28029 ",
+          "325 ",
+          "163"
+        ],
+        [
+          "28031†  ",
+          "350 ",
+          "177"
+        ],
+        [
+          "28043† ",
+          "500 ",
+          "260"
+        ],
+        [
+          "28045† ",
+          "550 ",
+          "288"
+        ],
+        [
+          "28047† ",
+          "600 ",
+          "316"
+        ],
+        [
+          "28049† ",
+          "700 ",
+          "371"
+        ],
+        [
+          "28051†  ",
+          "800 ",
+          "427"
+        ],
+        [
+          "28033 ",
+          "375 ",
+          "191"
+        ],
+        [
+          "28035 ",
+          "400 ",
+          "204"
+        ],
+        [
+          "28037† ",
+          "425 ",
+          "218"
+        ],
+        [
+          "28039† ",
+          "450 ",
+          "235"
+        ],
+        [
+          "28041†  ",
+          "475 ",
+          "246"
+        ]
+      ],
+      "images": [
+        "tempilstik_test_kit_2.webp"
+      ],
+      "name": "Tempilstik® Test Kit"
+    },
+    "thermomelt": {
+      "page_index": 61,
+      "top_cord": 66.41587829589844,
+      "short_description": "Accurate surface temperature indicating stick",
+      "features": [
+        "When the stick melts, the precise temperature is reached",
+        "Long-lasting stick is 33% bigger than competition",
+        "Accurate to within +/- 1% of Fahrenheit and +/- 3% Celsius rated temperatures; no need for sensor calibration",
+        "Meets welding codes: AWS D1.1, ANSI/ASME Code B32.1 & B31.3, ASME Code Sec. I, III, and VII, NIST Traceable"
+      ],
+      "bottom_cord": 332.26202392578125,
+      "part_numbers": [
+        [
+          "PART NO. ",
+          "°F ",
+          "°C"
+        ],
+        [
+          "86400 ",
+          "100 ",
+          "38 "
+        ],
+        [
+          "86436†  ",
+          "125 ",
+          "52"
+        ],
+        [
+          "86463 ",
+          "150 ",
+          "66"
+        ],
+        [
+          "86481 ",
+          "175 ",
+          "79 "
+        ],
+        [
+          "86517 ",
+          "200 ",
+          "93 "
+        ],
+        [
+          "86526† ",
+          "213 ",
+          "101"
+        ],
+        [
+          "86544 ",
+          "225 ",
+          "107"
+        ],
+        [
+          "86562 ",
+          "250 ",
+          "121 "
+        ],
+        [
+          "86589 ",
+          "275 ",
+          "135"
+        ],
+        [
+          "86625†  ",
+          "300 ",
+          "149"
+        ],
+        [
+          "86661 ",
+          "325 ",
+          "163 "
+        ],
+        [
+          "86697  ",
+          "350 ",
+          "177"
+        ],
+        [
+          "86715 ",
+          "375 ",
+          "191 "
+        ],
+        [
+          "86733† ",
+          "400 ",
+          "204 "
+        ],
+        [
+          "86751 ",
+          "425 ",
+          "218"
+        ],
+        [
+          "86769† ",
+          "450 ",
+          "232"
+        ],
+        [
+          "86787 ",
+          "475 ",
+          "246"
+        ],
+        [
+          "86805 ",
+          "500 ",
+          "260"
+        ],
+        [
+          "86823 ",
+          "550 ",
+          "288"
+        ],
+        [
+          "86841†  ",
+          "600 ",
+          "316"
+        ],
+        [
+          "86859 ",
+          "650 ",
+          "343 "
+        ],
+        [
+          "86868†  ",
+          "700 ",
+          "371"
+        ],
+        [
+          "PART NO. ",
+          "°Celsius"
+        ],
+        [
+          "84664  ",
+          "150 "
+        ],
+        [
+          "86401 ",
+          "100 "
+        ],
+        [
+          "86402 ",
+          "50"
+        ],
+        [
+          "86516 ",
+          "200"
+        ],
+        [
+          "86563 ",
+          "250 "
+        ],
+        [
+          "86734 ",
+          "400"
+        ]
+      ],
+      "images": [
+        "thermomelt_0.webp",
+        "thermomelt_2.webp"
+      ],
+      "name": "Thermomelt®"
+    },
+    "certiﬁed_thermomelt": {
+      "page_index": 61,
+      "top_cord": 422.2398986816406,
+      "short_description": "Nuclear pre-certified",
+      "features": [
+        "Certified to meet the following U.S.A. and international specifications: - EDF PMUC - MIL - STD-2041D - U.S. DOE RDT F-7-3T (expired) - U.S. Navy C3070",
+        "Engineered to meet: - 200 ppm total halogens - 250 ppm each low melting point metals - 300 ppm total low melting point metals - 200 ppm sulfur",
+        "Individual lot analysis and certification available at www.markal.com for quick, accurate reference"
+      ],
+      "bottom_cord": 704.0872802734375,
+      "part_numbers": [
+        [
+          "PART NO. ",
+          "°F ",
+          "°C"
+        ],
+        [
+          "89450*† ",
+          "450 ",
+          "232"
+        ],
+        [
+          "89475* ",
+          "475 ",
+          "246"
+        ],
+        [
+          "89500* ",
+          "500 ",
+          "260"
+        ],
+        [
+          "89525* ",
+          "525 ",
+          "274"
+        ],
+        [
+          "89550* ",
+          "550 ",
+          "288"
+        ],
+        [
+          "89650* ",
+          "650 ",
+          "343"
+        ],
+        [
+          "89100* ",
+          "100 ",
+          "38"
+        ],
+        [
+          "89125*† ",
+          "125 ",
+          "52"
+        ],
+        [
+          "89150* ",
+          "150 ",
+          "66"
+        ],
+        [
+          "89175* ",
+          "175 ",
+          "79"
+        ],
+        [
+          "89200* ",
+          "200 ",
+          "93"
+        ],
+        [
+          "89225* ",
+          "225 ",
+          "107"
+        ],
+        [
+          "89250* ",
+          "250 ",
+          "121"
+        ],
+        [
+          "89275* ",
+          "275 ",
+          "135"
+        ],
+        [
+          "89300*† ",
+          "300 ",
+          "148"
+        ],
+        [
+          "89325* ",
+          "325 ",
+          "163"
+        ],
+        [
+          "89350* ",
+          "350 ",
+          "177"
+        ],
+        [
+          "89375* ",
+          "375 ",
+          "191"
+        ],
+        [
+          "89400*† ",
+          "400 ",
+          "204"
+        ],
+        [
+          "89425* ",
+          "425 ",
+          "218"
+        ]
+      ],
+      "images": [
+        "certiﬁed_thermomelt_1.webp",
+        "certiﬁed_thermomelt_3.webp"
+      ],
+      "name": "Certiﬁed Thermomelt®"
+    },
+    "irt_16": {
+      "page_index": 62,
+      "top_cord": 499.4149169921875,
+      "short_description": "Infrared Thermometer",
+      "features": [
+        "Sensitive 16: 1 distance to spot ratio with laser pointer for improved accuracy",
+        "Excellent accuracy within +/- 2%",
+        "Four-digit back lit dual display ideal for low-light areas",
+        "Min/Max/Avg and differential temperature mode available",
+        "Built-in jack for K-Type thermocouple probe"
+      ],
+      "bottom_cord": 694.1141357421875,
+      "part_numbers": [
+        [
+          "PART NO. ",
+          "DESCRIPTION"
+        ],
+        [
+          "24200  ",
+          "IRT-16"
+        ],
+        [
+          "24202  ",
+          "K-Probe Thermocouple"
+        ]
+      ],
+      "images": [
+        "irt-16_2.webp",
+        "irt-16_3.webp"
+      ],
+      "name": "IRT-16"
+    },
+    "tempilaq_advanced": {
+      "page_index": 62,
+      "top_cord": 76.56797790527344,
+      "short_description": "Temperature Indicating Liquid",
+      "features": [
+        "Easy application with quick-dry formula on horizontal and vertical surfaces",
+        "Melts at designated temperature leaving a noticeably different mark",
+        "Excellent accuracy within +/- 1%",
+        "Only use Tempilaq Advanced Green Label Thinner to dilute or replace evaporated solvent"
+      ],
+      "bottom_cord": 350.7113952636719,
+      "part_numbers": [
+        [
+          "PART NO. ",
+          "°F ",
+          "°C"
+        ],
+        [
+          "24405†  ",
+          "300  ",
+          "149"
+        ],
+        [
+          "24407†  ",
+          "325  ",
+          "163"
+        ],
+        [
+          "24408†  ",
+          "350  ",
+          "177"
+        ],
+        [
+          "24410†  ",
+          "375  ",
+          "191"
+        ],
+        [
+          "24411†  ",
+          "400  ",
+          "204"
+        ],
+        [
+          "24413†  ",
+          "450  ",
+          "232"
+        ],
+        [
+          "24414†  ",
+          "475  ",
+          "246"
+        ],
+        [
+          "24416†  ",
+          "500  ",
+          "260"
+        ],
+        [
+          "24421  ",
+          "650  ",
+          "343 "
+        ],
+        [
+          "24422†  ",
+          "700  ",
+          "371"
+        ],
+        [
+          "24423†  ",
+          "750  ",
+          "399"
+        ],
+        [
+          "24565†  ",
+          "1100  ",
+          "593"
+        ],
+        [
+          "24566†  ",
+          "1150  ",
+          "621"
+        ],
+        [
+          "24567†  ",
+          "1200  ",
+          "649"
+        ],
+        [
+          "24424†  ",
+          "800  ",
+          "427"
+        ],
+        [
+          "24425†  ",
+          "850  ",
+          "454"
+        ],
+        [
+          "24426†  ",
+          "900  ",
+          "482"
+        ],
+        [
+          "24427†  ",
+          "950  ",
+          "510"
+        ],
+        [
+          "24428†  ",
+          "1000  ",
+          "538"
+        ],
+        [
+          "24431†  ",
+          "1100  ",
+          "593"
+        ],
+        [
+          "24432†  ",
+          "1150  ",
+          "621"
+        ],
+        [
+          "24433†  ",
+          "1200  ",
+          "649"
+        ],
+        [
+          "24435†  ",
+          "1300  ",
+          "704"
+        ],
+        [
+          "24438†  ",
+          "1500  ",
+          "816"
+        ],
+        [],
+        [
+          "24597",
+          "Green Label Thinner†"
+        ]
+      ],
+      "images": [
+        "tempilaq_advanced_0.webp",
+        "tempilaq_advanced_1.webp"
+      ],
+      "name": "Tempilaq® Advanced"
+    },
+    "bloxide": {
+      "page_index": 63,
+      "top_cord": 146.26402282714844,
+      "short_description": "Bloxide is a versatile, rust-preventive, weldable primer with a unique formula",
+      "features": [
+        "Marine and offshore metal fabrication Almost all steels Primer for paints and coatings",
+        "Ideal for extended periods of outside steel storage Ability to strike welding arc without removal Can be sprayed, brushed or parts can be dipped into it."
+      ],
+      "bottom_cord": 409.966796875,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION",
+          "CASE QUANTITY"
+        ],
+        [
+          "24100†*",
+          "1 Gallon ",
+          "4 "
+        ],
+        [
+          "24101†*",
+          "55 Gallon ",
+          "Drum "
+        ],
+        [
+          "24102†*",
+          "5 Gallon ",
+          "Pail "
+        ],
+        [
+          "24104† ",
+          "12 oz Aerosol Can ",
+          "12"
+        ]
+      ],
+      "images": [
+        "bloxide_1.webp",
+        "bloxide_4.webp"
+      ],
+      "name": "Bloxide®"
+    },
+    "pyromark": {
+      "page_index": 63,
+      "top_cord": 450.6495056152344,
+      "short_description": "Pyromark is a silicone-based coating that is specifically formulated for protecting, decorating or",
+      "features": [
+        "Solar Absorbers",
+        "Silicone-based coating for long-lasting protection against oxidation and corrosion",
+        "Infrared Heaters/Boilers/Furnaces",
+        "Ovens/Fireplace Accessories",
+        "Improves heat transfer in infrared heating applications due to high emissivity properties",
+        "Mufflers/boat and auto engines",
+        "Solar absorptivity of 0.95 makes it an ideal black box absorber",
+        "Only use Pyromark® Thinner to dilute or replace evaporated solvent"
+      ],
+      "bottom_cord": 718.7811279296875,
+      "part_numbers": [
+        [
+          "1000ºF (538ºC)",
+          "PART NO. ",
+          "DESCRIPTION ",
+          "SIZE  ",
+          "COLOR ",
+          "CASE QUANTITY"
+        ],
+        [
+          "25002†*  ",
+          "Series 1200 ",
+          "1 gal ",
+          "Flat Black ",
+          "1"
+        ],
+        [
+          "25001†*  ",
+          "Series 1200 ",
+          "5 gal ",
+          "Flat Black ",
+          "Pail"
+        ],
+        [
+          "2000ºF (1093ºC)",
+          "PART NO. ",
+          "DESCRIPTION ",
+          "SIZE  ",
+          "COLOR  ",
+          "CASE QUANTITY"
+        ],
+        [
+          "25010†*  ",
+          "Series 2500 ",
+          "1 gal ",
+          "Flat Black ",
+          "1"
+        ]
+      ],
+      "images": [
+        "pyromark_3.webp"
+      ],
+      "name": "Pyromark®"
+    },
+    "series_4_tempilabel": {
+      "page_index": 65,
+      "top_cord": 70.08012390136719,
+      "short_description": "Four-Level, Irreversible",
+      "features": [
+        "Four temperature readings per label for max/min application",
+        "Excellent accuracy to +/- 2% of the Fahrenheit rating",
+        "Permanent record for inspection and quality control",
+        "Calibration-free",
+        "Oil, water and steam-resistant"
+      ],
+      "bottom_cord": 335.302001953125,
+      "part_numbers": [
+        [
+          "PART NO. ",
+          "TEMPERATURE RANGE ",
+          "QUANTITY "
+        ],
+        [
+          "26700 ",
+          "°F 100  110  120  130 °C 38  43  49  54 ",
+          "10 Pack"
+        ],
+        [
+          "26709 ",
+          "°F 120  130  140  150 °C 49  54  60  66 ",
+          "10 Pack"
+        ],
+        [
+          "26701 ",
+          "°F 130  140  150  160 °C 54  60  66  71",
+          "10 Pack "
+        ],
+        [
+          "26702 ",
+          "°F 170  180  190  200 °C 77  82  88  93",
+          "10 Pack "
+        ],
+        [
+          "26703 ",
+          "°F 190  200  210  220 °C 88  93  99  104",
+          "10 Pack "
+        ],
+        [
+          "26705 ",
+          "°F 330  340  350  360 °C 166  171  177  182",
+          "10 Pack "
+        ],
+        [
+          "26706 ",
+          "°F 125  150  175  200 °C 52  66  79  93 ",
+          "10 Pack"
+        ],
+        [
+          "26707 ",
+          "°F 100  150  200  250 °C 38  66  93  121 ",
+          "10 Pack"
+        ],
+        [
+          "26708 ",
+          "°F 200  250  300  350 °C 93  121  149  177",
+          "10 Pack "
+        ],
+        [
+          "26750 ",
+          "°F  100 110 120 130 °C 38 43 49 54",
+          "Roll of 500 "
+        ],
+        [
+          "26751 ",
+          "°F 170  180  190  200 °C 77  82  88  93",
+          "Roll of 500 "
+        ],
+        [
+          "26752 ",
+          "°F 200  250  300  350 °C 93  121  149  177",
+          "Roll of 500 "
+        ]
+      ],
+      "images": [
+        "series_4_tempilabel_0.webp",
+        "series_4_tempilabel_1.webp"
+      ],
+      "name": "Series 4 Tempilabel®"
+    },
+    "series_21_tempilabel": {
+      "page_index": 65,
+      "top_cord": 412.8800048828125,
+      "short_description": "Single-Level, Irreversible",
+      "features": [
+        "Excellent accuracy to +/- 2% of the Fahrenheit rating",
+        "Single-way color change",
+        "Permanent record for inspection and quality control",
+        "Calibration-free",
+        "Oil, water and steam-resistant"
+      ],
+      "bottom_cord": 723.171875,
+      "part_numbers": [
+        [
+          "PART NO. ",
+          "TEMPERATURE ",
+          " QUANTITY "
+        ],
+        [
+          "26250 ",
+          "100 °F  38 °C ",
+          "210 Pack"
+        ],
+        [
+          "26275 ",
+          "100 °F  38 °C ",
+          "Roll of 1,000"
+        ],
+        [
+          "26251 ",
+          "110 °F  43 °C ",
+          "210 Pack "
+        ],
+        [
+          "26276 ",
+          "110 °F  43 °C ",
+          "Roll of 1000"
+        ],
+        [
+          "26252 ",
+          "120 °F  49 °C ",
+          "210 Pack "
+        ],
+        [
+          "26277 ",
+          "120 °F  49 °C ",
+          "Roll of 1000"
+        ],
+        [
+          "26254 ",
+          "130 °F  54 °C ",
+          "210 Pack "
+        ],
+        [
+          "26278 ",
+          "130 °F  54 °C ",
+          "Roll of 1000"
+        ],
+        [
+          "26255 ",
+          "140 °F  60 °C ",
+          "210 Pack "
+        ],
+        [
+          "26279 ",
+          "140 °F  60 °C ",
+          "Roll of 1000"
+        ],
+        [
+          "26256 ",
+          "160 °F  71 °C ",
+          "210 Pack "
+        ],
+        [
+          "26280 ",
+          "160 °F  71 °C ",
+          "Roll of 1000"
+        ],
+        [
+          "26257 ",
+          "170 °F  77 °C ",
+          "210 Pack"
+        ],
+        [
+          "26258 ",
+          "180 °F  82 °C ",
+          "210 Pack "
+        ],
+        [
+          "26282 ",
+          "180 °F  82 °C ",
+          "Roll of 1,000"
+        ],
+        [
+          "26259 ",
+          "190 °F  88 °C ",
+          "210 Pack "
+        ],
+        [
+          "26283 ",
+          "190 °F  88 °C ",
+          "Roll of 1,000"
+        ],
+        [
+          "26260 ",
+          "200 °F  93 °C ",
+          "210 Pack "
+        ],
+        [
+          "26284 ",
+          "200 °F  93 °C ",
+          "Roll of 1000"
+        ],
+        [
+          "26261 ",
+          "210 °F  99 °C ",
+          "210 Pack "
+        ],
+        [
+          "26285 ",
+          "210 °F  99 °C ",
+          "Roll of 1000"
+        ],
+        [
+          "26262 ",
+          "220 °F  104 °C ",
+          "210 Pack "
+        ],
+        [
+          "26286 ",
+          "220 °F  104 °C ",
+          "Roll of 1000"
+        ],
+        [
+          "26263 ",
+          "230 °F  110 °C ",
+          "210 Pack "
+        ],
+        [
+          "26287 ",
+          "230 °F  110 °C ",
+          "Roll of 1000"
+        ],
+        [
+          "26264 ",
+          "240 °F  116 °C ",
+          "210 Pack "
+        ],
+        [
+          "26295 ",
+          "240 °F  116 °C ",
+          "Roll of 1000"
+        ],
+        [
+          "26265 ",
+          "250 °F  121 °C ",
+          "210 Pack "
+        ],
+        [
+          "26288 ",
+          "250 °F  121 °C ",
+          "Roll of 1000"
+        ],
+        [
+          "26266 ",
+          "260 °F  127 °C ",
+          "210 Pack "
+        ],
+        [
+          "26289 ",
+          "260 °F  127 °C ",
+          "Roll of 1000"
+        ],
+        [
+          "26267 ",
+          "270 °F  132 °C ",
+          "210 Pack "
+        ],
+        [
+          "26290 ",
+          "270 °F  132 °C ",
+          "Roll of 1000"
+        ],
+        [
+          "26268 ",
+          "280 °F  138 °C ",
+          "210 Pack "
+        ],
+        [
+          "26291 ",
+          "280 °F  138 °C ",
+          "Roll of 1000"
+        ],
+        [
+          "26269 ",
+          "290 °F  143 °C ",
+          "210 Pack "
+        ],
+        [
+          "26292 ",
+          "290 °F  143 °C ",
+          "Roll of 1000"
+        ],
+        [
+          "26270 ",
+          "300 °F  149 °C ",
+          "210 Pack "
+        ],
+        [
+          "26293 ",
+          "300 °F  149 °C ",
+          "Roll of 1000"
+        ],
+        [
+          "26271 ",
+          "400 °F  204 °C ",
+          "210 Pack "
+        ],
+        [
+          "26294 ",
+          "400 °F  204 °C ",
+          "Roll of 1000"
+        ],
+        [
+          "26272 ",
+          "500 °F  260 °C ",
+          "210 Pack"
+        ],
+        [
+          "26296 ",
+          "500 °F  260 °C ",
+          "Roll of 1000"
+        ]
+      ],
+      "images": [
+        "series_21_tempilabel_2.webp",
+        "series_21_tempilabel_3.webp"
+      ],
+      "name": "Series 21 Tempilabel®"
+    },
+    "tempilabel_reversible": {
+      "page_index": 66,
+      "top_cord": 72.60801696777344,
+      "short_description": "Reversible Temperature",
+      "features": [
+        "Excellent accuracy of +/- 2% of the Fahrenheit rating",
+        "LCD technology for real-time, accurate readings as temperature fluctuates",
+        "Calibration-free",
+        "Oil, water and steam-resistant"
+      ],
+      "bottom_cord": 270.3419189453125,
+      "part_numbers": [
+        [
+          "PART NO. ",
+          "TEMPERATURE RANGE ",
+          "QUANTITY "
+        ],
+        [
+          "26901 ",
+          "°F 86  95  104  113  122  131  140 °C 30  35  40  45  50  55  60 ",
+          "10 Pack"
+        ],
+        [
+          "26903 ",
+          "°F 140  149  158  167  176  185  194 °C 60  65  70  75  80  85  90",
+          "10 Pack"
+        ]
+      ],
+      "images": [
+        "tempilabel_reversible_1.webp",
+        "tempilabel_reversible_0.webp",
+        "tempilabel_reversible_3.webp"
+      ],
+      "name": "Tempilabel® Reversible"
+    },
+    "thermax": {
+      "page_index": 66,
+      "top_cord": 359.2398986816406,
+      "short_description": "Irreversible Temperature Indicating Strip Labels",
+      "features": [
+        "Multiple temperature configuration",
+        "Excellent accuracy to +/- 2% of the Fahrenheit rating",
+        "Single-way color change",
+        "Permanent record for inspection and quality control",
+        "Calibration-free",
+        "Oil, water and steam-resistant"
+      ],
+      "bottom_cord": 711.9891967773438,
+      "part_numbers": [
+        [
+          "PART NO. ",
+          "TEMPERATURE RANGE ",
+          "QUANTITY "
+        ],
+        [
+          "26518 ",
+          "°F 99 104 109 115 120°C 37  40  43  46  49 ",
+          "10 Pack"
+        ],
+        [
+          "26519 ",
+          "°F 120  129  140  149  160 °C 49  54  60  65  71",
+          "10 Pack"
+        ],
+        [
+          "26803 ",
+          "°F 160  171  180  190  199  210  219  230 °C 71  77  82  88  93  99  104  110 ",
+          "10 Pack"
+        ],
+        [
+          "26101 ",
+          "°F 99  104  111  115  120  129  140  144  149  160 °C 37  40  44  46  49  54  60  62  65  71",
+          "10 Pack"
+        ]
+      ],
+      "images": [
+        "thermax_4.webp",
+        "thermax_5.webp"
+      ],
+      "name": "Thermax®"
+    }
+  },
+  "laco": {
+    "cutting_oil": {
+      "page_index": 69,
+      "top_cord": 238.28001403808594,
+      "short_description": "For hand tools and high-speed thread cutting machines",
+      "features": [
+        "Two cutting oils in one, eliminating the need for multiple cutting oils for lowspeed and high-speed thread cutting",
+        "Combines the best properties of dark and light cutting oils with sulfur and other additives to provide superior heat protection for costly cutting dies"
+      ],
+      "bottom_cord": 383.25372314453125,
+      "part_numbers": [
+        [
+          "PART NO. ",
+          "SIZE ",
+          "CASE QUANTITY"
+        ],
+        [
+          "73414  ",
+          "1 gal. ",
+          "6"
+        ]
+      ],
+      "images": [
+        "cutting_oil_0.webp",
+        "cutting_oil_1.webp",
+        "cutting_oil_5.webp"
+      ],
+      "name": "Cutting Oil"
+    },
+    "precision_spout_oiler": {
+      "page_index": 69,
+      "top_cord": 412.5198974609375,
+      "short_description": "General purpose lubricating oil",
+      "features": [
+        "Special telescoping spout lubricates hard-to-reach areas up to 14” away",
+        "Premium grade oil is excellent for all general purpose lubricating"
+      ],
+      "bottom_cord": 535.692138671875,
+      "part_numbers": [
+        [
+          "PART NO. ",
+          "SIZE ",
+          "CASE QUANTITY"
+        ],
+        [
+          "79704  ",
+          "4 fl. oz. ",
+          "24"
+        ]
+      ],
+      "images": [
+        "precision_spout_oiler_4.webp"
+      ],
+      "name": "Precision Spout® Oiler"
+    },
+    "ez_break_copper_and_nickel_grade": {
+      "page_index": 69,
+      "top_cord": 566.5999145507812,
+      "short_description": "Anti-seize compound",
+      "features": [
+        "EZ BREAK Copper is approved for use in food processing plants",
+        "Lubricates and protects nuts and bolts, making disassembly easy, even after years of service",
+        "Resists galling, rust and corrosion so your metal parts won’t “freeze up”"
+      ],
+      "bottom_cord": 741.4909057617188,
+      "part_numbers": [
+        [
+          "PART NO.",
+          "DESCRIPTION",
+          "GRADE",
+          "CASE QUANTITY"
+        ],
+        [
+          "08907  ",
+          "16 oz. Brush-in-cap ",
+          "COPPER ",
+          "24 "
+        ],
+        [
+          "08910 ",
+          "10 oz. Brush-in-cap ",
+          "COPPER ",
+          "24 "
+        ],
+        [
+          "08916 ",
+          "14 oz. Aerosol ",
+          "COPPER ",
+          "12"
+        ],
+        [
+          "08969 ",
+          "425 lbs. ",
+          "COPPER ",
+          "Drum"
+        ],
+        [
+          "08971 ",
+          "8 oz. Brush-in-cap† ",
+          "NICKEL ",
+          "24 "
+        ],
+        [
+          "08972 ",
+          "16 oz. Brush-in-cap† ",
+          "NICKEL ",
+          "24"
+        ]
+      ],
+      "images": [
+        "ez_break_copper_and_nickel_grade_3.webp",
+        "ez_break_copper_and_nickel_grade_7.webp"
+      ],
+      "name": "EZ BREAK® Copper and Nickel Grade"
+    },
+    "lubri_joint": {
+      "page_index": 69,
+      "top_cord": 62.60002517700195,
+      "short_description": "Water dispersible gasket lubricant",
+      "features": [
+        "FBC System Compatible",
+        "Ideal for lubricating rubber gaskets, promoting proper expansion, and ensuring correct fit",
+        "Suitable for all types of pipelines, including PVC and soil pipe, so only one brand of gasket lubricant is needed"
+      ],
+      "bottom_cord": 207.68797302246094,
+      "part_numbers": [
+        [
+          "PART NO. ",
+          "SIZE ",
+          "CASE QUANTITY"
+        ],
+        [
+          "78713  ",
+          "1 qt. ",
+          "12"
+        ]
+      ],
+      "images": [
+        "lubri-joint_2.webp",
+        "lubri-joint_6.webp"
+      ],
+      "name": "Lubri-Joint®"
+    },
+    "visu_glow": {
+      "page_index": 70,
+      "top_cord": 552.5599975585938,
+      "short_description": "High-visibility leak detector",
+      "features": [
+        "Built-in dauber and high viscosity allow for easy application",
+        "Highly-visible fluorescent color shows brightly, even in dimly lit places",
+        "Non-corrosive, non-toxic, safe for oxygen"
+      ],
+      "bottom_cord": 721.0916748046875,
+      "part_numbers": [
+        [
+          "PART NO. ",
+          "DESCRIPTION ",
+          "CASE QUANTITY"
+        ],
+        [
+          "32898  ",
+          "8 fl. oz.  with dauber† ",
+          "24"
+        ]
+      ],
+      "images": [
+        "visu-glow_1.webp",
+        "visu-glow_5.webp"
+      ],
+      "name": "Visu-Glow®"
+    },
+    "sure_chek": {
+      "page_index": 70,
+      "top_cord": 319.87200927734375,
+      "short_description": "Leak detector spray",
+      "features": [
+        "Handy spray bottle allows for easy, targeted application",
+        "Ultra-sensitive long lasting bubbles for easy leak identification",
+        "Non-corrosive, non-toxic, safe for oxygen"
+      ],
+      "bottom_cord": 488.4037170410156,
+      "part_numbers": [
+        [
+          "PART NO. ",
+          "DESCRIPTION ",
+          "CASE QUANTITY "
+        ],
+        [
+          "32850  ",
+          "1 pt.† ",
+          "24"
+        ]
+      ],
+      "images": [
+        "sure-chek_2.webp",
+        "sure-chek_3.webp"
+      ],
+      "name": "Sure-chek®"
+    },
+    "regular_flux_paste": {
+      "page_index": 72,
+      "top_cord": 66.20341491699219,
+      "short_description": "Soldering ﬂux for copper",
+      "features": [
+        "Water-soluble paste won’t leave residue in water piping",
+        "Meets industry standard ASTM B813 and contains no zinc chloride to reduce corrosion concerns",
+        "Non-acid, non-toxic, and lead-free to eliminate safety concerns"
+      ],
+      "bottom_cord": 243.7386932373047,
+      "part_numbers": [
+        [
+          "PART NO. ",
+          "DESCRIPTION ",
+          "CASE QUANTITY "
+        ],
+        [
+          "22101†  ",
+          "2 oz. ",
+          "48 "
+        ],
+        [
+          "22104† ",
+          "4 oz. ",
+          "48"
+        ],
+        [
+          "22107† ",
+          "1 lb. ",
+          "24 "
+        ],
+        [
+          "22194† ",
+          "4 oz. Brush-in-cap ",
+          "48"
+        ]
+      ],
+      "images": [
+        "regular_flux_paste_0.webp",
+        "regular_flux_paste_1.webp"
+      ],
+      "name": "Regular Flux Paste"
+    },
+    "m_a_flux_liquid": {
+      "page_index": 72,
+      "top_cord": 288.4761047363281,
+      "short_description": "Stainless steel flux liquid",
+      "features": [
+        "Fast-fluxing action for stainless steel and chrome",
+        "Contains no heavy metal chlorides, preventing potential flux damage"
+      ],
+      "bottom_cord": 457.0078125,
+      "part_numbers": [
+        [
+          " PART NO. ",
+          "DESCRIPTION ",
+          "CASE QUANTITY "
+        ],
+        [
+          "23913  ",
+          "1 qt. ",
+          "12"
+        ]
+      ],
+      "images": [
+        "m-a-_flux_liquid-_2.webp",
+        "m-a-_flux_liquid-_3.webp"
+      ],
+      "name": "“M-A” Flux Liquid*"
+    },
+    "cool_gel": {
+      "page_index": 74,
+      "top_cord": 66.20341491699219,
+      "short_description": "Heat barrier spray",
+      "features": [
+        "Protects lead free valves during soldering",
+        "Reduces the threat of costly heat damage to rubber seals and gaskets",
+        "Protects painted and finished surfaces from discoloration due to torch heat",
+        "Safe, non-toxic, harmless to skin, and odorless"
+      ],
+      "bottom_cord": 234.02281188964844,
+      "part_numbers": [
+        [
+          "PART NO. ",
+          "SIZE ",
+          "CASE QUANTITY "
+        ],
+        [
+          "11509  ",
+          "1 qt. ",
+          "12  "
+        ],
+        [
+          "11513 ",
+          "1 pt. ",
+          "24"
+        ]
+      ],
+      "images": [
+        "cool_gel_1.webp"
+      ],
+      "name": "Cool Gel®"
+    },
+    "bloc_it": {
+      "page_index": 74,
+      "top_cord": 328.2855224609375,
+      "short_description": "Heat-absorbing paste",
+      "features": [
+        "Absorbs heat effectively, protecting adjoining surfaces from heat damage",
+        "Safe, non-toxic, no asbestos, harmless to skin, and odorless",
+        "Easy application and cleanup; non-staining"
+      ],
+      "bottom_cord": 496.81719970703125,
+      "part_numbers": [
+        [
+          "PART NO. ",
+          "SIZE ",
+          "CASE QUANTITY "
+        ],
+        [
+          "11511  ",
+          "10 oz. ",
+          "24"
+        ]
+      ],
+      "images": [
+        "bloc-it_2.webp",
+        "bloc-it_3.webp"
+      ],
+      "name": "Bloc-It®"
+    },
+    "anti_heat": {
+      "page_index": 74,
+      "top_cord": 591.0800170898438,
+      "short_description": "Heat-absorbing compound",
+      "features": [
+        "Absorbs and dissipates heat to eliminate damage and discoloration",
+        "Prevents heat migration through metal surfaces",
+        "Non-toxic and non-hazardous",
+        "Asbestos-free and odorless"
+      ],
+      "bottom_cord": 721.0916748046875,
+      "part_numbers": [
+        [
+          "PART NO. ",
+          "SIZE ",
+          "CASE QUANTITY "
+        ],
+        [
+          "24003  ",
+          "12 oz. Tube ",
+          "1"
+        ]
+      ],
+      "images": [
+        "anti-heat_4.webp"
+      ],
+      "name": "Anti-heat®"
+    },
+    "heat_seal_stik": {
+      "page_index": 76,
+      "top_cord": 66.20341491699219,
+      "short_description": "Premixed epoxy sealer",
+      "features": [
+        "Pressure: to 600 PSI (41 BAR)",
+        "Repair pinhole leaks and get refrigeration system running again without having to replace an entire appliance",
+        "No mixing of epoxy compounds, heat activation saves time on the job"
+      ],
+      "bottom_cord": 234.02281188964844,
+      "part_numbers": [
+        [
+          "PART NO. ",
+          "DESCRIPTION ",
+          "CASE QUANTITY "
+        ],
+        [
+          "11575  ",
+          "Heat-Seal Stik† ",
+          "12 "
+        ],
+        [
+          "11577 ",
+          "Carded ",
+          "12"
+        ]
+      ],
+      "images": [
+        "heat_seal_stik_1.webp"
+      ],
+      "name": "Heat Seal Stik®"
+    },
+    "epoxy_stik": {
+      "page_index": 76,
+      "top_cord": 329.3395080566406,
+      "short_description": "No mixing of epoxy compounds, heat activation saves time on the job",
+      "features": [
+        "Hardens in 5-10 minutes and cures fully in 24 hours, enabling the system to be up and running again in no time",
+        "Can be applied under water for submerged pipe leaks"
+      ],
+      "bottom_cord": 497.8712158203125,
+      "part_numbers": [
+        [
+          "PART NO. ",
+          "DESCRIPTION ",
+          "CASE QUANTITY "
+        ],
+        [
+          "19571  ",
+          "Epoxy-Stik† ",
+          "24"
+        ]
+      ],
+      "images": [
+        "epoxy-stik-_3.webp",
+        "epoxy-stik-_4.webp"
+      ],
+      "name": "Epoxy-Stik™"
+    },
+    "oyltite_stik": {
+      "page_index": 76,
+      "top_cord": 589.1144409179688,
+      "short_description": "Epoxy repair compound for low pressure equipment",
+      "features": [
+        "Pressure to 15 PSI (1 BAR)",
+        "Stops leaks fast for temporary repair of oil and gasoline leaks",
+        "Apply directly to the fuel tank without draining, less time is spent stopping the leak"
+      ],
+      "bottom_cord": 721.0916748046875,
+      "part_numbers": [
+        [
+          "PART NO. ",
+          "DESCRIPTION ",
+          "CASE QUANTITY "
+        ],
+        [
+          "11475  ",
+          "Oyltite-Stik ",
+          "24"
+        ]
+      ],
+      "images": [
+        "oyltite-stik_2.webp"
+      ],
+      "name": "Oyltite-Stik®"
+    },
+    "slic_tite_stik_with_ptfe": {
+      "page_index": 78,
+      "top_cord": 66.20341491699219,
+      "short_description": "Premium thread sealant in a stick",
+      "features": [
+        "Pressures: 500 PSI (34 BAR) for gas; 5,000 PSI (340 BAR) for liquid",
+        "Contains PTFE particles for greater sealing power",
+        "Safe, non-toxic, non-drying",
+        "Do not use on oxygen service; use Oxy-Tite paste or Slic-Tite PTFE tape"
+      ],
+      "bottom_cord": 234.02281188964844,
+      "part_numbers": [
+        [
+          "PART NO. ",
+          "DESCRIPTION ",
+          "CASE QUANTITY"
+        ],
+        [
+          "41600  ",
+          " White† ",
+          "24"
+        ]
+      ],
+      "images": [
+        "slic-tite_stik_with_ptfe_1.webp"
+      ],
+      "name": "Slic-Tite® Stik with PTFE"
+    },
+    "slic_tite_paste_with_ptfe": {
+      "page_index": 78,
+      "top_cord": 287.2398986816406,
+      "short_description": "Heavy-duty pipe thread compound",
+      "features": [
+        "Contains PTFE for greater sealing power",
+        "Pressures: 3000 PSI (204 BAR) for gas; 10000 PSI (680 BAR) for liquid",
+        "Can be used on a variety of metals and plastic, eliminating the need for any other thread sealant",
+        "Do not use on oxygen service; use Oxy-Tite paste or Slic-Tite PTFE tape"
+      ],
+      "bottom_cord": 477.91839599609375,
+      "part_numbers": [
+        [
+          "PART NO. ",
+          "SIZE ",
+          "CASE QUANTITY"
+        ],
+        [
+          "42009†  ",
+          "1/4 pt. Brush-in-cap ",
+          "24"
+        ],
+        [
+          "42029† ",
+          "1 pt. Brush-in-cap ",
+          "24"
+        ],
+        [
+          "42014† ",
+          "1 gal. ",
+          "4"
+        ],
+        [
+          "42019† ",
+          "1/2 pt. Brush-in-cap ",
+          "24"
+        ],
+        [
+          "42013† ",
+          "1 qt. ",
+          "12 "
+        ],
+        [
+          "42015† ",
+          "5 gal. ",
+          "Pail "
+        ],
+        [
+          "42012† ",
+          "1 pt. ",
+          "24"
+        ],
+        [
+          "42049† ",
+          "1 qt. Brush-in-cap ",
+          "12"
+        ],
+        [
+          "42069† ",
+          "55 gal. ",
+          "Drum"
+        ]
+      ],
+      "images": [
+        "slic-tite_paste_with_ptfe_4.webp",
+        "slic-tite_paste_with_ptfe_5.webp"
+      ],
+      "name": "Slic-Tite® Paste with PTFE"
+    },
+    "slic_tite_ptfe_pipe_thread_tape": {
+      "page_index": 78,
+      "top_cord": 530.6000366210938,
+      "short_description": "Premium grade, high density thread seal tape",
+      "features": [
+        "Pressure: to 10000 PSI (690 BAR)",
+        "3 mils thick and made with PTFE for greater sealing power",
+        "Non-toxic",
+        "Yellow for gas line usage - Pink for water line usage"
+      ],
+      "bottom_cord": 708.854736328125,
+      "part_numbers": [
+        [
+          "PART NO. ",
+          "DESCRIPTION ",
+          "CASE QUANTITY"
+        ],
+        [
+          "44082† ",
+          "1/2” x 300” ",
+          "12"
+        ],
+        [
+          "44083† ",
+          "1/2” x 600” ",
+          "12"
+        ],
+        [
+          "44084†  ",
+          "1/2” x 1200” ",
+          "12"
+        ],
+        [
+          "44085†  ",
+          "3/4” x 300” ",
+          "12"
+        ],
+        [
+          "44086† ",
+          "3/4” x 600” ",
+          "12"
+        ],
+        [
+          "44094† ",
+          "1/2” x 260” ",
+          "12"
+        ],
+        [
+          "44095† ",
+          "1/2” x 260” ",
+          "12"
+        ]
+      ],
+      "images": [
+        "slic-tite_ptfe_pipe_thread_tape_2.webp",
+        "slic-tite_ptfe_pipe_thread_tape_3.webp"
+      ],
+      "name": "Slic-Tite® PTFE Pipe Thread Tape"
+    },
+    "t_o_t": {
+      "page_index": 79,
+      "top_cord": 66.20341491699219,
+      "short_description": "Pipe thread compound",
+      "features": [
+        "Pressures: 350 PSI (24 BAR) for gas; 500 PSI (34 BAR) for liquid",
+        "No-drip siliconized formula for fast application on metal threads",
+        "Lead-free, non-toxic, no V.O.C.’s",
+        "Do not use on oxygen service; use Oxy-Tite paste or Slic-Tite PTFE tape"
+      ],
+      "bottom_cord": 234.02281188964844,
+      "part_numbers": [
+        [
+          "PART NO. ",
+          "DESCRIPTION ",
+          "CASE QUANTITY"
+        ],
+        [
+          "12219  ",
+          "1/2 pt. Brush-in-cap ",
+          "24"
+        ]
+      ],
+      "images": [
+        "t-o-t_0.jpeg2000",
+        "t-o-t_1.webp"
+      ],
+      "name": "T-O-T®"
+    },
+    "pipetite_stik": {
+      "page_index": 79,
+      "top_cord": 580.4511108398438,
+      "name": "Pipetite-Stik®"
+    },
+    "pipetite_paste": {
+      "page_index": 79,
+      "top_cord": 314.4523010253906,
+      "short_description": "Soft set pipe thread compound",
+      "features": [
+        "Pressures: 2600 PSI (177 BAR) for gas; 5000 PSI (340 BAR) for liquid",
+        "No V.O.C.’s",
+        "Do not use on oxygen service; use Oxy-Tite paste or Slic-Tite PTFE tape"
+      ],
+      "bottom_cord": 482.9840087890625,
+      "part_numbers": [
+        [
+          "PART NO. ",
+          "DESCRIPTION ",
+          "CASE QUANTITY"
+        ],
+        [
+          "12109  ",
+          "1/4 pt. Brush-in-cap ",
+          "24 "
+        ],
+        [
+          "12110  ",
+          "1/2 pt. Brush-in-cap ",
+          "24"
+        ]
+      ],
+      "images": [
+        "pipetite-_paste_3.webp",
+        "pipetite-_paste_4.webp"
+      ],
+      "name": "Pipetite™ Paste"
+    },
+    "plasto_joint_stik": {
+      "page_index": 79,
+      "top_cord": 580.4511108398438,
+      "short_description": "Metal thread sealant in a stick",
+      "features": [
+        "Designed for superior sealing of plastic pipe threads",
+        "Pressures: 350 PSI (24 BAR) for gas; 2000 PSI (136 BAR) for liquid",
+        "Safe, non-toxic, non-drying",
+        "Pressures: 300 PSI (20 BAR) for gas; 500 PSI (34 BAR) for liquid",
+        "Do not use on oxygen service; use Oxy-Tite paste or Slic-Tite PTFE tape",
+        "Do not use on oxygen service; use Oxy-Tite paste or Slic-Tite PTFE tape"
+      ],
+      "bottom_cord": 739.384033203125,
+      "part_numbers": [
+        [
+          "PART NO. ",
+          "DESCRIPTION ",
+          "CASE QUANTITY"
+        ],
+        [
+          "11175  ",
+          "Pipetite-Stik: 1-1/4 oz. ",
+          "144"
+        ],
+        [
+          "11176 ",
+          "Pipetite-Stik: King Size: 4 oz. ",
+          "72"
+        ],
+        [
+          "11775  ",
+          "Plasto-Joint Stik ",
+          "144"
+        ]
+      ],
+      "name": "Plasto-Joint Stik®"
+    }
+  }
+}
