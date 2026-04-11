@@ -1,5 +1,6 @@
 {
   "markal": {
+    "main_image": "106_holder_5.webp",
     "description": "Markal cung cấp bút sơn và giải pháp đánh dấu công nghiệp chất lượng cao, bền bỉ, chịu nhiệt, phù hợp nhiều ngành sản xuất.",
     "keywords": "Markal, bút sơn công nghiệp, industrial markers, bút đánh dấu kim loại, Markal Vietnam",
     "paint_riter_valve_action": {
@@ -3347,6 +3348,7 @@
     }
   },
   "tempil": {
+    "main_image": "tempil-main-image.png",
     "description": "Tempil chuyên giải pháp đo nhiệt độ công nghiệp như Tempilstik, Tempilaq với độ chính xác cao cho hàn và gia công kim loại.",
     "keywords": "Tempil, Tempilstik, Tempilaq, bút đo nhiệt độ, temperature indicator, Tempil Vietnam",
     "tempilstik": {
@@ -5102,6 +5104,7 @@
     }
   },
   "laco": {
+    "main_image": "cutting_oil_0.webp",
     "description": "Laco cung cấp bút sơn và giải pháp đánh dấu công nghiệp đa dạng, bền bỉ, phù hợp xây dựng và sản xuất.",
     "keywords": "Laco, bút sơn công nghiệp, marking tools, bút đánh dấu kim loại, Laco Vietnam",
     "cutting_oil": {
