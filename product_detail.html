@@ -6,11 +6,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- SEO TITLE -->
-    <title>{{name}} | {{brand}} Vietnam | Industrial Marking</title>
+    <title>{{seo_title}}</title>
 
     <!-- SEO META -->
-    <meta name="description" content="{{name}} {{short_description}}">
-    <meta name="keywords" content="{{name}}, {{brand}}, industrial marker, marking pen, LACO Vietnam">
+    <meta name="description" content="{{meta_description}}">
+    <meta name="keywords" content="{{keywords}}">
     <meta name="author" content="Fast Group Engineering">
     <meta name="robots" content="index, follow">
 
@@ -23,7 +23,7 @@
 
     <!-- OPEN GRAPH -->
     <meta property="og:title" content="{{name}}">
-    <meta property="og:description" content="{{short_description}}">
+    <meta property="og:description" content="{{meta_description}}">
     <meta property="og:image" content="{{image}}">
     <meta property="og:url" content="{{url}}">
     <meta property="og:type" content="product">
@@ -32,7 +32,7 @@
     <!-- TWITTER -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="{{name}}">
-    <meta name="twitter:description" content="{{short_description}}">
+    <meta name="twitter:description" content="{{meta_description}}">
     <meta name="twitter:image" content="{{image}}">
 
     <!-- FAVICON -->
@@ -57,7 +57,7 @@
       "@type": "Product",
       "name": "{{name}}",
       "image": ["{{image}}"],
-      "description": "{{short_description}}",
+      "description": "{{meta_description}}",
       "sku": "{{name}}",
       "brand": {
         "@type": "Brand",
@@ -215,6 +215,25 @@
             </div>
         </section>
         <!-- Giới thiệu chi tiết -->
+
+        <!-- ======= RELATED PRODUCTS ======= -->
+        <section class="section">
+            <div class="container">
+
+                <div class="section-header text-center mb-5">
+                    <h2>Sản phẩm liên quan</h2>
+                    <p>Các sản phẩm tương tự bạn có thể quan tâm</p>
+                </div>
+
+                <div class="catering__grid">
+
+                    <!-- ITEM -->
+                    {{related_products}}
+
+                </div>
+
+            </div>
+        </section>
 
 
         <!-- ======= FOOTER ======= -->
