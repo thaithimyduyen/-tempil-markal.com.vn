@@ -577,6 +577,13 @@ button {
     max-width: 560px;
 }
 
+.section__desc_content {
+    margin-top: 0.75rem;
+    font-size: 1rem;
+    color: var(--navy);
+    max-width: 560px;
+}
+
 /* ============================================
        Section: Flavor Wheel — Ticker Marquee
        ============================================ */

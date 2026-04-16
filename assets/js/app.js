@@ -130,6 +130,19 @@ https://templatemo.com/tm-613-frost-bakery
         });
     }
 
+    const currentPath = window.location.pathname;
+
+    document.querySelectorAll('.sidebar__nav a').forEach(link => {
+        const linkPath = new URL(link.href).pathname;
+
+        if (
+            (linkPath === "/" && currentPath === "/") ||
+            (linkPath !== "/" && currentPath.startsWith(linkPath))
+        ) {
+            link.classList.add("active");
+        }
+    });
+
     // AUTO CHANGE
     setInterval(() => {
         currentIndex = (currentIndex + 1) % tabs.length;

@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- SEO TITLE -->
-    <title>Sản phẩm {{brand}} Vietnam | LACO Industrial Marking</title>
+    <title>{{meta_title}}</title>
 
     <!-- SEO META -->
     <meta name="description" content="{{description}}">
@@ -21,6 +21,9 @@
     <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicon-16x16.png">
     <link rel="manifest" href="/assets/images/site.webmanifest">
+
+    <link rel="alternate" hreflang="vi" href="{{url}}">
+    <link rel="alternate" hreflang="x-default" href="{{url}}">
 
     <!-- OPEN GRAPH -->
     <meta property="og:title" content="{{brand}}">
@@ -115,7 +118,7 @@
 
         <nav class="sidebar__nav">
             <ul>
-                <li><a href="/" class="active"> Trang chủ</a></li>
+                <li><a href="/"> Trang chủ</a></li>
                 <li><a href="/markal/"> Markal</a></li>
                 <li><a href="/tempil/"> Tempil</a></li>
                 <li><a href="/laco/"> Laco</a></li>
@@ -159,6 +162,7 @@
                 <div class="col-lg-6">
                     <h2 class="section__title">Giới thiệu về {{brand}}</h2>
                     <p class="section__desc">{{description}}</p>
+                    <p class="ection__desc_content">{{content_desc}}</p>
                     <p class="section__label">{{keywords}}</p>
                 </div>
 

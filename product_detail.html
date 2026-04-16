@@ -21,6 +21,9 @@
     <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicon-16x16.png">
     <link rel="manifest" href="/assets/images/site.webmanifest">
 
+    <link rel="alternate" hreflang="vi" href="{{url}}">
+    <link rel="alternate" hreflang="x-default" href="{{url}}">
+
     <!-- OPEN GRAPH -->
     <meta property="og:title" content="{{name}}">
     <meta property="og:description" content="{{meta_description}}">
@@ -120,7 +123,7 @@
 
         <nav class="sidebar__nav">
             <ul>
-                <li><a href="/" class="active"> Trang chủ</a></li>
+                <li><a href="/"> Trang chủ</a></li>
                 <li><a href="/markal/"> Markal</a></li>
                 <li><a href="/tempil/"> Tempil</a></li>
                 <li><a href="/laco/"> Laco</a></li>
@@ -171,6 +174,10 @@
                         <!-- DESCRIPTION -->
                         <p class="section__desc">
                             {{short_description}}
+                        </p>
+
+                        <p class="ection__desc_content">
+                            {{content}}
                         </p>
 
                         <!-- CAROUSEL -->
