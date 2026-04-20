@@ -1,12 +1,4 @@
-/* 
-
-JavaScript Document
-
-TemplateMo 613 Frost Bakery
-
-https://templatemo.com/tm-613-frost-bakery
-
-*/
+/* app.js — Fast Group Engineering | markal.com.vn */
 
 (function () {
     'use strict';
@@ -15,179 +7,158 @@ https://templatemo.com/tm-613-frost-bakery
        Mobile Menu Toggle
        ------------------------------------------- */
     const hamburger = document.getElementById('hamburger');
-    const sidebar = document.getElementById('sidebar');
-    const overlay = document.getElementById('sidebarOverlay');
-    const navLinks = sidebar.querySelectorAll('.sidebar__nav a');
+    const sidebar   = document.getElementById('sidebar');
+    const overlay   = document.getElementById('sidebarOverlay');
 
-    function openMenu() {
-        sidebar.classList.add('is-open');
-        overlay.style.display = 'block';
-        hamburger.classList.add('is-active');
-        hamburger.setAttribute('aria-expanded', 'true');
-        // Trigger reflow for transition
-        requestAnimationFrame(function () {
-            overlay.classList.add('is-visible');
-        });
-    }
+    if (hamburger && sidebar && overlay) {
+        const navLinks = sidebar.querySelectorAll('.sidebar__nav a');
 
-    function closeMenu() {
-        sidebar.classList.remove('is-open');
-        overlay.classList.remove('is-visible');
-        hamburger.classList.remove('is-active');
-        hamburger.setAttribute('aria-expanded', 'false');
-        setTimeout(function () {
-            overlay.style.display = 'none';
-        }, 300);
-    }
-
-    hamburger.addEventListener('click', function () {
-        if (sidebar.classList.contains('is-open')) {
-            closeMenu();
-        } else {
-            openMenu();
+        function openMenu() {
+            sidebar.classList.add('is-open');
+            overlay.style.display = 'block';
+            hamburger.classList.add('is-active');
+            hamburger.setAttribute('aria-expanded', 'true');
+            requestAnimationFrame(function () {
+                overlay.classList.add('is-visible');
+            });
         }
-    });
 
-    overlay.addEventListener('click', closeMenu);
+        function closeMenu() {
+            sidebar.classList.remove('is-open');
+            overlay.classList.remove('is-visible');
+            hamburger.classList.remove('is-active');
+            hamburger.setAttribute('aria-expanded', 'false');
+            setTimeout(function () {
+                overlay.style.display = 'none';
+            }, 300);
+        }
 
-    // Close mobile menu when a nav link is clicked
-    navLinks.forEach(function (link) {
-        link.addEventListener('click', function () {
-            if (window.innerWidth <= 1024) {
-                closeMenu();
+        hamburger.addEventListener('click', function () {
+            sidebar.classList.contains('is-open') ? closeMenu() : openMenu();
+        });
+
+        overlay.addEventListener('click', closeMenu);
+
+        navLinks.forEach(function (link) {
+            link.addEventListener('click', function () {
+                if (window.innerWidth <= 1024) closeMenu();
+            });
+        });
+
+        /* Active nav link based on current path */
+        const currentPath = window.location.pathname;
+        navLinks.forEach(function (link) {
+            const linkPath = new URL(link.href, location.origin).pathname;
+            if (
+                (linkPath === '/' && currentPath === '/') ||
+                (linkPath !== '/' && currentPath.startsWith(linkPath))
+            ) {
+                link.classList.add('active');
             }
         });
-    });
 
-    /* -------------------------------------------
-       Active Navigation Highlighting on Scroll
-       ------------------------------------------- */
-    const sections = document.querySelectorAll('section[id]');
-
-    function updateActiveNav() {
-        var scrollY = window.scrollY + 120;
-
-        sections.forEach(function (section) {
-            var top = section.offsetTop;
-            var height = section.offsetHeight;
-            var id = section.getAttribute('id');
-
-            if (scrollY >= top && scrollY < top + height) {
-                navLinks.forEach(function (link) {
-                    link.classList.remove('active');
-                    if (link.getAttribute('href') === '#' + id) {
-                        link.classList.add('active');
-                    }
+        /* Active nav highlight on scroll (chỉ cho trang có anchor sections) */
+        const sections = document.querySelectorAll('section[id]');
+        if (sections.length) {
+            function updateActiveNav() {
+                const scrollY = window.scrollY + 120;
+                sections.forEach(function (section) {
+                    const id = section.getAttribute('id');
+                    const link = sidebar.querySelector('.sidebar__nav a[href="#' + id + '"]');
+                    if (!link) return;
+                    const inView = scrollY >= section.offsetTop &&
+                                   scrollY < section.offsetTop + section.offsetHeight;
+                    link.classList.toggle('active', inView);
                 });
             }
-        });
+            window.addEventListener('scroll', updateActiveNav, { passive: true });
+        }
     }
-
-    window.addEventListener('scroll', updateActiveNav, { passive: true });
 
     /* -------------------------------------------
        Scroll-Triggered Reveal Animations
-       (IntersectionObserver)
        ------------------------------------------- */
-    var revealElements = document.querySelectorAll('.reveal');
+    const revealElements = document.querySelectorAll('.reveal');
 
-    if ('IntersectionObserver' in window) {
-        var revealObserver = new IntersectionObserver(function (entries) {
-            entries.forEach(function (entry) {
-                if (entry.isIntersecting) {
-                    entry.target.classList.add('is-visible');
-                    revealObserver.unobserve(entry.target);
-                }
+    if (revealElements.length) {
+        if ('IntersectionObserver' in window) {
+            const revealObserver = new IntersectionObserver(function (entries) {
+                entries.forEach(function (entry) {
+                    if (entry.isIntersecting) {
+                        entry.target.classList.add('is-visible');
+                        revealObserver.unobserve(entry.target);
+                    }
+                });
+            }, { threshold: 0.12, rootMargin: '0px 0px -40px 0px' });
+
+            revealElements.forEach(function (el) {
+                revealObserver.observe(el);
             });
-        }, {
-            threshold: 0.12,
-            rootMargin: '0px 0px -40px 0px'
-        });
-
-        revealElements.forEach(function (el) {
-            revealObserver.observe(el);
-        });
-    } else {
-        // Fallback: show all elements immediately
-        revealElements.forEach(function (el) {
-            el.classList.add('is-visible');
-        });
-    }
-
-    const tabs = document.querySelectorAll(".seasonal-tab");
-    const panels = document.querySelectorAll(".seasonal-panel");
-
-    let currentIndex = 0;
-
-    function activateTab(index) {
-        tabs.forEach((tab, i) => {
-            tab.classList.toggle("is-active", i === index);
-            tab.setAttribute("aria-selected", i === index);
-        });
-
-        panels.forEach((panel, i) => {
-            panel.classList.toggle("is-active", i === index);
-        });
-    }
-
-    const currentPath = window.location.pathname;
-
-    document.querySelectorAll('.sidebar__nav a').forEach(link => {
-        const linkPath = new URL(link.href).pathname;
-
-        if (
-            (linkPath === "/" && currentPath === "/") ||
-            (linkPath !== "/" && currentPath.startsWith(linkPath))
-        ) {
-            link.classList.add("active");
+        } else {
+            revealElements.forEach(function (el) {
+                el.classList.add('is-visible');
+            });
         }
-    });
-
-    // AUTO CHANGE
-    setInterval(() => {
-        currentIndex = (currentIndex + 1) % tabs.length;
-        activateTab(currentIndex);
-    }, 4000);
+    }
 
     /* -------------------------------------------
-       Smooth Scroll for Sidebar Links
-       (enhanced for offset with sidebar)
+       Seasonal Tabs (chỉ chạy nếu có tabs trên trang)
+       ------------------------------------------- */
+    const tabs   = document.querySelectorAll('.seasonal-tab');
+    const panels = document.querySelectorAll('.seasonal-panel');
+
+    if (tabs.length && panels.length) {
+        let currentIndex = 0;
+        let autoTimer    = null;
+        const tabContainer = tabs[0].closest('.seasonal-tabs') || document.body;
+
+        function activateTab(index) {
+            currentIndex = index;
+            tabs.forEach(function (tab, i) {
+                tab.classList.toggle('is-active', i === index);
+                tab.setAttribute('aria-selected', i === index);
+            });
+            panels.forEach(function (panel, i) {
+                panel.classList.toggle('is-active', i === index);
+            });
+        }
+
+        function startAuto() {
+            autoTimer = setInterval(function () {
+                activateTab((currentIndex + 1) % tabs.length);
+            }, 4000);
+        }
+
+        function stopAuto() {
+            clearInterval(autoTimer);
+        }
+
+        /* Click để chọn tab */
+        tabs.forEach(function (tab, index) {
+            tab.addEventListener('click', function () {
+                stopAuto();
+                activateTab(index);
+                startAuto();
+            });
+        });
+
+        /* Dừng tự động khi hover */
+        tabContainer.addEventListener('mouseenter', stopAuto);
+        tabContainer.addEventListener('mouseleave', startAuto);
+
+        startAuto();
+    }
+
+    /* -------------------------------------------
+       Smooth Scroll cho anchor links
        ------------------------------------------- */
     document.querySelectorAll('a[href^="#"]').forEach(function (anchor) {
         anchor.addEventListener('click', function (e) {
-            var target = document.querySelector(this.getAttribute('href'));
+            const target = document.querySelector(this.getAttribute('href'));
             if (target) {
                 e.preventDefault();
                 target.scrollIntoView({ behavior: 'smooth', block: 'start' });
-
-
             }
-        });
-    });
-
-    /* -------------------------------------------
-       Seasonal Tabs
-       ------------------------------------------- */
-    var seasonTabs = document.querySelectorAll('.seasonal-tab');
-    var seasonPanels = document.querySelectorAll('.seasonal-panel');
-
-    seasonTabs.forEach(function (tab) {
-        tab.addEventListener('click', function () {
-            var season = this.getAttribute('data-season');
-
-            // Update tabs
-            seasonTabs.forEach(function (t) {
-                t.classList.remove('is-active');
-                t.setAttribute('aria-selected', 'false');
-            });
-            this.classList.add('is-active');
-            this.setAttribute('aria-selected', 'true');
-
-            // Update panels
-            seasonPanels.forEach(function (panel) {
-                panel.classList.remove('is-active');
-            });
-            document.getElementById('panel-' + season).classList.add('is-active');
         });
     });
 

@@ -1,13 +1,5 @@
 @charset "utf-8";
-/* 
-
-CSS Document 
-
-TemplateMo 613 Frost Bakery
-
-https://templatemo.com/tm-613-frost-bakery
-
-*/
+/* style.css — Fast Group Engineering | markal.com.vn */
 
 :root {
     /* Color Palette — Terracotta */
@@ -64,6 +56,15 @@ html {
     font-size: 16px;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    html { scroll-behavior: auto; }
+    *, *::before, *::after {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+    }
 }
 
 body {
@@ -353,11 +354,13 @@ button {
     opacity: 0;
     transform: translateY(30px);
     transition: opacity 0.7s var(--ease-out), transform 0.7s var(--ease-out);
+    will-change: opacity, transform;
 }
 
 .reveal.is-visible {
     opacity: 1;
     transform: translateY(0);
+    will-change: auto;
 }
 
 .reveal-delay-1 {
@@ -387,6 +390,14 @@ button {
     padding: var(--section-pad);
     background: rgb(208, 205, 205);
     overflow: hidden;
+}
+
+/* Sections below the fold — browser skip render until near viewport */
+.section,
+.section--alt,
+footer.footer {
+    content-visibility: auto;
+    contain-intrinsic-size: 0 400px;
 }
 
 .hero__content {
@@ -1394,146 +1405,6 @@ button {
     }
 }
 
-/* ============================================
-       Section: Loyalty Stamp Card
-       ============================================ */
-.loyalty {
-    background:
-        radial-gradient(ellipse at 30% 70%, rgba(129, 178, 154, 0.1) 0%, transparent 50%),
-        var(--cream);
-}
-
-.loyalty__layout {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: clamp(2rem, 4vw, 4rem);
-    align-items: center;
-}
-
-.loyalty__info {
-    max-width: 480px;
-}
-
-.loyalty__perks {
-    display: flex;
-    flex-direction: column;
-    gap: 1rem;
-    margin-top: 1.5rem;
-}
-
-.perk {
-    display: flex;
-    align-items: start;
-    gap: 0.75rem;
-}
-
-.perk__icon {
-    flex-shrink: 0;
-    width: 36px;
-    height: 36px;
-    background: var(--sage);
-    color: #fff;
-    border-radius: 50%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 1rem;
-}
-
-.perk__text {
-    font-size: 0.92rem;
-    color: var(--navy-light);
-}
-
-.perk__text strong {
-    color: var(--navy);
-}
-
-/* Stamp Card Visual */
-.stamp-card {
-    background: #fff;
-    border-radius: var(--radius-xl);
-    padding: 2rem;
-    box-shadow: var(--shadow-hover);
-    position: relative;
-    overflow: hidden;
-}
-
-.stamp-card::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    height: 6px;
-    background: linear-gradient(90deg, var(--terracotta), var(--sage), var(--terracotta));
-}
-
-.stamp-card__header {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin-bottom: 1.5rem;
-}
-
-.stamp-card__title {
-    font-family: var(--font-heading);
-    font-size: 1.2rem;
-    font-weight: 600;
-    color: var(--navy);
-}
-
-.stamp-card__count {
-    font-size: 0.8rem;
-    color: var(--terracotta);
-    font-weight: 700;
-}
-
-.stamp-card__grid {
-    display: grid;
-    grid-template-columns: repeat(5, 1fr);
-    gap: 0.75rem;
-}
-
-.stamp {
-    aspect-ratio: 1;
-    border-radius: var(--radius-sm);
-    border: 2px dashed rgba(61, 64, 91, 0.15);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 1.4rem;
-    color: rgba(61, 64, 91, 0.2);
-    transition: all 0.3s var(--ease-out);
-}
-
-.stamp--filled {
-    background: var(--terracotta);
-    border-color: var(--terracotta);
-    color: #fff;
-    box-shadow: 0 2px 8px rgba(224, 122, 95, 0.3);
-}
-
-.stamp--reward {
-    border-color: var(--sage);
-    color: var(--sage);
-    font-size: 1rem;
-    font-weight: 700;
-}
-
-.stamp--reward.stamp--filled {
-    background: var(--sage);
-    border-color: var(--sage);
-    color: #fff;
-    box-shadow: 0 2px 8px rgba(129, 178, 154, 0.3);
-}
-
-.stamp-card__footer {
-    margin-top: 1.25rem;
-    font-size: 0.78rem;
-    color: var(--navy-light);
-    text-align: center;
-}
 
 .footer {
     background: var(--navy);
