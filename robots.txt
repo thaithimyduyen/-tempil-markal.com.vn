@@ -1,14 +1,5 @@
 User-agent: *
 Allow: /
-
-# Disallow non-content paths
 Disallow: /assets/data/
-Disallow: /*.json$
 
-# Allow important assets
-Allow: /assets/images/
-Allow: /assets/css/
-Allow: /assets/js/
-
-# Sitemap
 Sitemap: https://markal.com.vn/sitemap.xml
