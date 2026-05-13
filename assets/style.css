@@ -1606,3 +1606,12 @@ footer.footer {
 .related-card .btn {
     margin-top: 10px;
 }
+/* ===== FOOTER SOCIAL — YouTube & Social Links ===== */
+.footer__social { padding: 20px 0 0; border-top: 1px solid rgba(255,255,255,.1); margin-top: 24px; }
+.footer__social h4 { font-size: .85rem; text-transform: uppercase; letter-spacing: .08em; color: rgba(255,255,255,.5); margin-bottom: 14px; }
+.footer__social-links { display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 10px; }
+.social-link { display: inline-flex; align-items: center; gap: 8px; padding: 8px 16px; border-radius: 6px; font-size: .88rem; font-weight: 500; text-decoration: none; transition: opacity .2s, transform .2s; }
+.social-link:hover { opacity: .85; transform: translateY(-2px); }
+.social-link--youtube { background: #ff0000; color: #fff !important; }
+.footer__social-desc { font-size: .8rem; color: rgba(255,255,255,.45); margin: 0; line-height: 1.5; max-width: 360px; }
+.social-link--facebook { background: #1877f2; color: #fff !important; }
