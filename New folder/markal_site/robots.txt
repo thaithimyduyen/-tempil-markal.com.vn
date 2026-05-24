@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /assets/data/
-
-Sitemap: https://markal.com.vn/sitemap.xml
