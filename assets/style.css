@@ -3,10 +3,10 @@
 
 :root {
     /* Color Palette — Terracotta */
-    --terracotta: #1E4AA8;
+    --terracotta: #003087;
     --cream: #F4F1DE;
     --navy: #3D405B;
-    --sage: #1E4AA8;
+    --sage: #003087;
 
     /* Extended shades */
     --terracotta-light: #f0a58e;
@@ -116,18 +116,19 @@ button {
     left: 0;
     width: var(--sidebar-width);
     height: 100vh;
-    background: var(--navy);
-    color: var(--cream);
+    background: linear-gradient(180deg, #002463 0%, #003087 55%, #04265f 100%);
+    color: #fff;
     display: flex;
     flex-direction: column;
     z-index: 1000;
     overflow-y: auto;
     transition: transform 0.4s var(--ease-out);
+    border-right: 1px solid rgba(255, 255, 255, 0.06);
 }
 
 .sidebar__brand {
     padding: 2rem 1.5rem 1.5rem;
-    border-bottom: 1px solid rgba(244, 241, 222, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.12);
 }
 
 .sidebar__logo {
@@ -151,11 +152,16 @@ button {
 
 .sidebar__tagline {
     font-size: 0.75rem;
-    font-weight: 400;
-    letter-spacing: 0.08em;
+    font-weight: 600;
+    letter-spacing: 0.1em;
     text-transform: uppercase;
-    color: var(--sage-light);
+    color: rgba(255, 255, 255, 0.72);
     margin-top: 0.35rem;
+}
+
+.sidebar__tagline:last-of-type {
+    color: var(--hp-gold, #f0a500);
+    font-weight: 700;
 }
 
 .sidebar__nav {
@@ -208,11 +214,11 @@ button {
     display: flex;
     align-items: center;
     gap: 0.75rem;
-    padding: 0.75rem 1.5rem;
-    font-size: 0.9rem;
-    font-weight: 500;
-    color: rgba(244, 241, 222, 0.65);
-    transition: all 0.3s var(--ease-out);
+    padding: 0.78rem 1.5rem;
+    font-size: 0.92rem;
+    font-weight: 600;
+    color: rgba(255, 255, 255, 0.72);
+    transition: all 0.25s var(--ease-out);
     position: relative;
     text-decoration: none;
 }
@@ -224,16 +230,16 @@ button {
     top: 50%;
     transform: translateY(-50%) scaleY(0);
     width: 3px;
-    height: 70%;
-    background: var(--terracotta);
+    height: 65%;
+    background: #f0a500;
     border-radius: 0 3px 3px 0;
-    transition: transform 0.3s var(--ease-out);
+    transition: transform 0.25s var(--ease-out);
 }
 
 .sidebar__nav a:hover,
 .sidebar__nav a.active {
-    color: var(--cream);
-    background: rgba(244, 241, 222, 0.06);
+    color: #fff;
+    background: rgba(255, 255, 255, 0.09);
 }
 
 .sidebar__nav a:hover::before,
@@ -249,19 +255,22 @@ button {
 }
 
 .sidebar__footer {
-    padding: 1.5rem;
-    border-top: 1px solid rgba(244, 241, 222, 0.1);
+    padding: 1.25rem 1.5rem 1.5rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.12);
+    background: rgba(0, 0, 0, 0.12);
 }
 
 .sidebar__hours {
-    font-size: 0.78rem;
-    color: rgba(244, 241, 222, 0.5);
-    line-height: 1.6;
+    font-size: 0.8rem;
+    color: rgba(255, 255, 255, 0.7);
+    line-height: 1.7;
 }
 
 .sidebar__hours strong {
-    color: var(--sage-light);
-    font-weight: 600;
+    color: #f0a500;
+    font-weight: 700;
+    display: block;
+    margin-bottom: 2px;
 }
 
 /* ============================================
@@ -275,7 +284,7 @@ button {
     z-index: 1100;
     width: 48px;
     height: 48px;
-    background: var(--navy);
+    background: #003087;
     border-radius: var(--radius-sm);
     align-items: center;
     justify-content: center;
@@ -329,7 +338,7 @@ button {
     display: none;
     position: fixed;
     inset: 0;
-    background: rgba(61, 64, 91, 0.5);
+    background: rgba(0, 18, 48, 0.55);
     z-index: 999;
     opacity: 0;
     transition: opacity 0.3s ease;
@@ -575,10 +584,12 @@ footer.footer {
 }
 
 .section__title {
-    font-size: clamp(1.8rem, 4vw, 2.8rem);
-    color: var(--navy);
+    font-family: 'Manrope', sans-serif;
+    font-size: clamp(1.6rem, 3.4vw, 2.4rem);
+    font-weight: 800;
+    color: #003087;
     letter-spacing: -0.02em;
-    margin-bottom: 30px;
+    margin-bottom: 18px;
 }
 
 .section__desc {
@@ -680,23 +691,20 @@ footer.footer {
 
 /* HERO BRAND */
 .hero-brand {
-    background-image: url('/assets/images/timberstik-_pro_grade_0.webp');
-    background-size: cover;
-    /* phủ full */
-    background-position: center;
-    /* căn giữa */
-    padding: 100px 0;
-    color: var(--sage);
+    background: linear-gradient(135deg, #002463 0%, #003087 45%, #1a4a8a 100%);
+    padding: 64px 20px 56px;
+    color: #fff;
     text-align: center;
     position: relative;
+    overflow: hidden;
 }
 
 .hero-brand::before {
     content: "";
     position: absolute;
     inset: 0;
-    background: rgba(255, 255, 255, 0.6);
-    /* trắng mờ */
+    background: radial-gradient(circle at 85% 20%, rgba(240, 165, 0, 0.18), transparent 45%);
+    pointer-events: none;
 }
 
 /* giữ text nổi lên */
@@ -707,22 +715,28 @@ footer.footer {
 
 /* TITLE */
 .brand-title {
-    font-size: 56px;
-    font-weight: 700;
-    margin-bottom: 15px;
+    font-family: 'Manrope', sans-serif;
+    font-size: clamp(2rem, 4vw, 3rem);
+    font-weight: 800;
+    letter-spacing: -0.01em;
+    color: #fff;
+    margin-bottom: 12px;
 }
 
 /* BREADCRUMB */
 .breadcrumb-custom {
-    font-size: 18px;
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.75);
 }
 
 .breadcrumb-custom a {
     text-decoration: none;
+    color: rgba(255, 255, 255, 0.75);
 }
 
 .breadcrumb-custom a:hover {
     text-decoration: underline;
+    color: #fff;
 }
 
 .breadcrumb-custom span {
@@ -730,6 +744,7 @@ footer.footer {
 }
 
 .breadcrumb-custom .active {
+    color: #ffd169;
     font-weight: 600;
 }
 
@@ -1086,7 +1101,7 @@ footer.footer {
 
     width: 42px;
     height: 42px;
-    background: #1E4AA8;
+    background: #003087;
     color: white;
     border-radius: 50%;
 
@@ -1136,11 +1151,12 @@ footer.footer {
 }
 
 .cart-card__name {
-    font-family: var(--font-heading);
-    font-size: 1.3rem;
-    font-weight: 600;
-    color: #1f2937;
-    margin-bottom: 0.35rem;
+    font-family: 'Manrope', sans-serif;
+    font-size: 1.12rem;
+    font-weight: 700;
+    color: #1d2433;
+    margin-bottom: 0.4rem;
+    line-height: 1.35;
 }
 
 .cart-card__desc {
@@ -1407,20 +1423,38 @@ footer.footer {
 
 
 .footer {
-    background: var(--navy);
-    color: #cbd5e1;
-    padding: 50px 30px 20px;
+    background: linear-gradient(160deg, #01205e 0%, #003087 60%, #04265f 100%);
+    color: #c3d0e8;
+    padding: 56px 40px 22px;
 }
 
 .footer__top {
     display: grid;
     grid-template-columns: 2fr 1fr 1fr 1fr;
-    gap: 30px;
+    gap: 36px;
+    max-width: 1180px;
+    margin: 0 auto;
 }
 
 .footer__col h4 {
-    color: white;
-    margin-bottom: 15px;
+    color: #fff;
+    margin-bottom: 16px;
+    font-size: 0.95rem;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    position: relative;
+    padding-bottom: 10px;
+}
+
+.footer__col h4::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 30px;
+    height: 3px;
+    background: #f0a500;
+    border-radius: 3px;
 }
 
 .footer__col ul {
@@ -1429,30 +1463,38 @@ footer.footer {
 }
 
 .footer__col ul li {
-    margin-bottom: 8px;
+    margin-bottom: 9px;
 }
 
 .footer__col a {
-    color: #cbd5e1;
+    color: #b9c6e0;
     text-decoration: none;
+    transition: color 0.2s ease;
 }
 
 .footer__col a:hover {
-    color: white;
+    color: #ffd169;
 }
 
 .footer__desc {
-    margin-bottom: 15px;
+    margin-bottom: 16px;
+    color: #b9c6e0;
+    line-height: 1.7;
 }
 
 .footer__contact {
     font-size: 14px;
+    line-height: 1.85;
+}
+
+.footer__contact a {
+    color: #ffd169;
 }
 
 /* HERO */
 .contact-hero {
     padding: 80px 0;
-    background: linear-gradient(135deg, #1E4AA8, #1e40af);
+    background: linear-gradient(135deg, #003087, #1e40af);
     color: white;
 }
 
@@ -1478,11 +1520,15 @@ footer.footer {
 }
 
 .footer__bottom {
-    margin-top: 30px;
-    border-top: 1px solid #1e293b;
-    padding-top: 15px;
+    margin-top: 34px;
+    border-top: 1px solid rgba(255, 255, 255, 0.14);
+    padding-top: 18px;
     text-align: center;
-    font-size: 14px;
+    font-size: 13.5px;
+    color: rgba(255, 255, 255, 0.6);
+    max-width: 1180px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /* ============================================
@@ -1607,7 +1653,7 @@ footer.footer {
     margin-top: 10px;
 }
 /* ===== FOOTER SOCIAL — YouTube & Social Links ===== */
-.footer__social { padding: 20px 0 0; border-top: 1px solid rgba(255,255,255,.1); margin-top: 24px; }
+.footer__social { padding: 22px 0 0; border-top: 1px solid rgba(255,255,255,.14); margin: 28px auto 0; max-width: 1180px; }
 .footer__social h4 { font-size: .85rem; text-transform: uppercase; letter-spacing: .08em; color: rgba(255,255,255,.5); margin-bottom: 14px; }
 .footer__social-links { display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 10px; }
 .social-link { display: inline-flex; align-items: center; gap: 8px; padding: 8px 16px; border-radius: 6px; font-size: .88rem; font-weight: 500; text-decoration: none; transition: opacity .2s, transform .2s; }

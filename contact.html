@@ -45,14 +45,11 @@
     <link rel="preload" as="style" href="/assets/style.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" media="print" onload="this.media='all'">
-    <noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" media="print" onload="this.media='all'">
-    <noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"></noscript></noscript>
+    <noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"></noscript>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;600&family=Manrope:wght@400;600&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
-    <noscript><link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;600&family=Manrope:wght@400;600&display=swap" rel="stylesheet"></noscript>
-    <noscript><link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;600&family=Manrope:wght@400;600&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
-    <noscript><link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;600&family=Manrope:wght@400;600&display=swap" rel="stylesheet"></noscript></noscript>
+    <link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;600&family=Manrope:wght@400;600;700;800&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
+    <noscript><link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;600&family=Manrope:wght@400;600;700;800&display=swap" rel="stylesheet"></noscript>
     <link rel="stylesheet" href="/assets/style.css">
 
     <!-- SCHEMA LOCAL BUSINESS -->
@@ -90,13 +87,92 @@
 }
 </script>
 
+    <!-- ============ CONTACT PAGE STYLES (scoped, brand #003087) ============ -->
+    <style>
+      :root{
+        --hp-blue:#003087; --hp-blue-2:#1a4a8a; --hp-yellow:#f0a500; --hp-yellow-d:#d48f00;
+        --hp-ink:#1d2433; --hp-muted:#5b667a; --hp-line:#e6eaf2; --hp-soft:#f5f7fb;
+      }
+      .hp{font-family:'Manrope',sans-serif;color:var(--hp-ink)}
+      .hp-wrap{max-width:1180px;margin:0 auto;padding:0 22px}
+      .hp-btn{display:inline-flex;align-items:center;gap:9px;font-weight:700;font-size:.98rem;padding:13px 24px;border-radius:9px;text-decoration:none;transition:transform .15s,background .2s,box-shadow .2s;border:2px solid transparent;cursor:pointer}
+      .hp-btn--primary{background:var(--hp-yellow);color:#1d2433;box-shadow:0 8px 22px rgba(240,165,0,.32)}
+      .hp-btn--primary:hover{background:var(--hp-yellow-d);color:#1d2433;transform:translateY(-2px)}
+      .hp-btn--ghost{background:transparent;color:#fff;border-color:rgba(255,255,255,.55)}
+      .hp-btn--ghost:hover{background:rgba(255,255,255,.12);color:#fff}
+
+      /* HERO */
+      .ct-hero{position:relative;background:linear-gradient(135deg,#002463 0%,#003087 45%,#1a4a8a 100%);color:#fff;overflow:hidden}
+      .ct-hero::after{content:"";position:absolute;inset:0;background:radial-gradient(circle at 88% 15%,rgba(240,165,0,.18),transparent 45%);pointer-events:none}
+      .ct-hero__in{position:relative;z-index:1;padding:58px 0 50px;text-align:center}
+      .ct-breadcrumb{font-size:13px;color:rgba(255,255,255,.7);margin-bottom:14px}
+      .ct-breadcrumb a{color:rgba(255,255,255,.7);text-decoration:none}
+      .ct-eyebrow{display:inline-block;font-size:.74rem;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:#fff;background:rgba(255,255,255,.14);border:1px solid rgba(255,255,255,.25);padding:5px 13px;border-radius:30px;margin-bottom:16px}
+      .ct-hero h1{font-size:clamp(1.7rem,3.6vw,2.6rem);font-weight:800;line-height:1.2;margin:0 0 12px}
+      .ct-hero p{font-size:1.05rem;line-height:1.7;color:rgba(255,255,255,.88);max-width:600px;margin:0 auto 24px}
+      .ct-hero__actions{display:flex;gap:12px;justify-content:center;flex-wrap:wrap}
+
+      /* QUICK CONTACT CARDS */
+      .ct-quick{background:#fff;border-bottom:1px solid var(--hp-line)}
+      .ct-quick__grid{display:grid;grid-template-columns:repeat(4,1fr);gap:18px;padding:30px 0}
+      .ct-qcard{display:flex;gap:13px;align-items:flex-start;background:#fff;border:1px solid var(--hp-line);border-radius:13px;padding:18px;text-decoration:none;color:inherit;transition:transform .15s,box-shadow .15s,border-color .15s}
+      .ct-qcard:hover{transform:translateY(-3px);box-shadow:0 14px 30px rgba(0,0,0,.08);border-color:#cfdcf5}
+      .ct-qcard__ic{flex:none;width:46px;height:46px;border-radius:11px;background:#e8f0fe;color:var(--hp-blue);display:grid;place-items:center;font-size:1.25rem}
+      .ct-qcard__l{font-size:.78rem;color:var(--hp-muted);font-weight:600;text-transform:uppercase;letter-spacing:.04em}
+      .ct-qcard__v{font-weight:700;font-size:.96rem;color:var(--hp-ink);line-height:1.35;margin-top:2px}
+
+      /* MAIN GRID */
+      .ct-main{background:var(--hp-soft);padding:54px 0}
+      .ct-grid{display:grid;grid-template-columns:1.15fr .85fr;gap:26px;align-items:start}
+      .ct-card{background:#fff;border:1px solid var(--hp-line);border-radius:16px;padding:30px 28px;box-shadow:0 6px 24px rgba(0,0,0,.04)}
+      .ct-card h2{font-size:1.3rem;font-weight:800;color:var(--hp-blue);margin:0 0 6px}
+      .ct-card__sub{font-size:.92rem;color:var(--hp-muted);margin:0 0 22px;line-height:1.6}
+      .ct-field{margin-bottom:15px}
+      .ct-field label{display:block;font-size:.84rem;font-weight:700;color:var(--hp-ink);margin-bottom:6px}
+      .ct-field input,.ct-field textarea{width:100%;border:1.5px solid var(--hp-line);border-radius:9px;padding:12px 14px;font-size:.95rem;font-family:inherit;color:var(--hp-ink);background:#fff;transition:border-color .15s,box-shadow .15s}
+      .ct-field input:focus,.ct-field textarea:focus{outline:none;border-color:var(--hp-blue);box-shadow:0 0 0 3px rgba(0,48,135,.12)}
+      .ct-field textarea{resize:vertical;min-height:120px}
+      .ct-row2{display:grid;grid-template-columns:1fr 1fr;gap:15px}
+      .ct-note{font-size:.82rem;color:var(--hp-muted);margin-top:12px}
+
+      /* INFO CARD */
+      .ct-info{background:linear-gradient(160deg,#003087,#0a3f9e);color:#fff;border:none}
+      .ct-info h2{color:#fff}
+      .ct-info__list{list-style:none;padding:0;margin:0 0 18px}
+      .ct-info__list li{display:flex;gap:13px;align-items:flex-start;padding:12px 0;border-bottom:1px solid rgba(255,255,255,.14)}
+      .ct-info__list li:last-child{border-bottom:none}
+      .ct-info__ic{flex:none;width:38px;height:38px;border-radius:10px;background:rgba(255,255,255,.14);display:grid;place-items:center;font-size:1rem;color:#ffd169}
+      .ct-info__l{font-size:.76rem;text-transform:uppercase;letter-spacing:.05em;color:rgba(255,255,255,.7);font-weight:600}
+      .ct-info__v{font-size:.95rem;font-weight:600;line-height:1.45;margin-top:2px}
+      .ct-info__v a{color:#fff;text-decoration:none}
+      .ct-info__v a:hover{text-decoration:underline}
+      .ct-hours{background:rgba(255,255,255,.1);border-radius:11px;padding:14px 16px;font-size:.9rem;display:flex;align-items:center;gap:10px}
+      .ct-hours i{color:#ffd169}
+
+      /* MAP */
+      .ct-map{background:#fff;padding:0 0 54px}
+      .ct-map__frame{border-radius:16px;overflow:hidden;border:1px solid var(--hp-line);box-shadow:0 6px 24px rgba(0,0,0,.05);line-height:0}
+      .ct-map iframe{width:100%;height:360px;border:0;display:block}
+      .ct-map__head{text-align:center;padding:46px 0 26px}
+      .ct-map__head h2{font-size:clamp(1.4rem,2.6vw,1.9rem);font-weight:800;color:var(--hp-blue);margin:0 0 8px}
+      .ct-map__head p{color:var(--hp-muted);margin:0}
+
+      @media (max-width:860px){
+        .ct-quick__grid{grid-template-columns:repeat(2,1fr)}
+        .ct-grid{grid-template-columns:1fr}
+      }
+      @media (max-width:480px){
+        .ct-row2{grid-template-columns:1fr}
+        .ct-quick__grid{grid-template-columns:1fr}
+        .hp-btn{width:100%;justify-content:center}
+      }
+    </style>
+
 </head>
 
 <body>
 
-    <!-- ==========================================
-       Mobile Hamburger Button
-       ========================================== -->
+    <!-- Mobile Hamburger Button -->
     <button class="hamburger" id="hamburger" aria-label="Toggle navigation menu" aria-expanded="false">
         <div class="hamburger__lines">
             <span></span>
@@ -108,31 +184,28 @@
     <!-- Mobile Sidebar Overlay -->
     <div class="sidebar-overlay" id="sidebarOverlay"></div>
 
-    <!-- ==========================================
-       Sidebar Navigation
-       ========================================== -->
+    <!-- Sidebar Navigation -->
     <aside class="sidebar" id="sidebar" role="navigation" aria-label="Main navigation">
         <div class="sidebar__brand">
             <a href="/" class="navbar-brand d-flex align-items-center">
                 <img src="/assets/images/logo.png" alt="Markal Việt Nam Logo" class="logo"
                     style="max-height: 40px; width: auto;" width="160" height="40">
             </a>
-            <!-- <div class="sidebar__logo">MARKAL</div> -->
             <div class="sidebar__tagline">MARKAL VIET NAM</div>
             <div class="sidebar__tagline">Fast group engineering</div>
         </div>
 
         <nav class="sidebar__nav">
-      <ul>
-        <li><a href="/"> Trang chủ</a></li>
-        <li><a href="/markal/"> Markal</a></li>
-        <li><a href="/tempil/"> Tempil</a></li>
-        <li><a href="/laco/"> Laco</a></li>
-        <li><a href="/contact.html"> Liên hệ</a></li>
-        <li><a href="/blog/"> Blog</a></li>
-        <li><a href="https://tempil.vn" target="_blank" style="color:#c8102e;font-weight:500"> 🌡 Tempil.vn</a></li>
-      </ul>
-    </nav>
+            <ul>
+                <li><a href="/"> Trang chủ</a></li>
+                <li><a href="/markal/"> Markal</a></li>
+                <li><a href="/tempil/"> Tempil</a></li>
+                <li><a href="/laco/"> Laco</a></li>
+                <li><a href="/contact.html" class="active"> Liên hệ</a></li>
+                <li><a href="/blog/"> Blog</a></li>
+                <li><a href="https://tempil.vn" target="_blank" style="color:#c8102e;font-weight:500"> 🌡 Tempil.vn</a></li>
+            </ul>
+        </nav>
 
         <div class="sidebar__footer">
             <div class="sidebar__hours">
@@ -143,93 +216,136 @@
         </div>
     </aside>
 
-    <!-- ==========================================
-       Main Content
-       ========================================== -->
-    <main class="main">
-        <!-- CONTACT HERO -->
-        <section class="hero-brand">
-            <div class="container text-center">
-                <h1>Liên hệ với chúng tôi</h1>
-                <p>Fast Group Engineering – Giải pháp marking công nghiệp chính hãng</p>
+    <!-- Main Content -->
+    <main class="main hp">
+
+        <!-- ======= HERO ======= -->
+        <section class="ct-hero">
+            <div class="hp-wrap">
+                <div class="ct-hero__in">
+                    <div class="ct-breadcrumb"><a href="/">Trang chủ</a> <span style="margin:0 6px">/</span> <span>Liên hệ</span></div>
+                    <span class="ct-eyebrow">Fast Group Engineering</span>
+                    <h1>Liên hệ &amp; nhận báo giá</h1>
+                    <p>Đội ngũ kỹ thuật của chúng tôi sẵn sàng tư vấn chọn đúng sản phẩm Markal, Tempil, Laco và báo giá nhanh cho nhu cầu của bạn.</p>
+                    <div class="ct-hero__actions">
+                        <a href="tel:+84938888958" class="hp-btn hp-btn--primary"><i class="fa-solid fa-phone"></i> 0938 888 958</a>
+                        <a href="mailto:sales@markal.com.vn" class="hp-btn hp-btn--ghost"><i class="fa-solid fa-envelope"></i> sales@markal.com.vn</a>
+                    </div>
+                </div>
             </div>
         </section>
 
-        <!-- CONTACT CONTENT -->
-        <section class="contact-section">
-            <div class="container">
+        <!-- ======= QUICK CONTACT CARDS ======= -->
+        <section class="ct-quick">
+            <div class="hp-wrap">
+                <div class="ct-quick__grid">
+                    <a href="tel:+84938888958" class="ct-qcard">
+                        <div class="ct-qcard__ic"><i class="fa-solid fa-phone"></i></div>
+                        <div><div class="ct-qcard__l">Hotline</div><div class="ct-qcard__v">+84 938 888 958</div></div>
+                    </a>
+                    <a href="mailto:sales@markal.com.vn" class="ct-qcard">
+                        <div class="ct-qcard__ic"><i class="fa-solid fa-envelope"></i></div>
+                        <div><div class="ct-qcard__l">Email</div><div class="ct-qcard__v">sales@markal.com.vn</div></div>
+                    </a>
+                    <a href="https://www.google.com/maps?q=150/41+Nguyễn+Cư+Trinh+Quận+1+TPHCM" target="_blank" rel="noopener" class="ct-qcard">
+                        <div class="ct-qcard__ic"><i class="fa-solid fa-location-dot"></i></div>
+                        <div><div class="ct-qcard__l">VP Hồ Chí Minh</div><div class="ct-qcard__v">150/41 Nguyễn Cư Trinh, Q.1</div></div>
+                    </a>
+                    <a href="https://www.google.com/maps?q=51+Lê+Văn+Lộc+Vũng+Tàu" target="_blank" rel="noopener" class="ct-qcard">
+                        <div class="ct-qcard__ic"><i class="fa-solid fa-location-dot"></i></div>
+                        <div><div class="ct-qcard__l">VP Vũng Tàu</div><div class="ct-qcard__v">51 Lê Văn Lộc, TP. Vũng Tàu</div></div>
+                    </a>
+                </div>
+            </div>
+        </section>
 
-                <div class="row g-4">
+        <!-- ======= FORM + INFO ======= -->
+        <section class="ct-main">
+            <div class="hp-wrap">
+                <div class="ct-grid">
 
                     <!-- FORM -->
-                    <div class="col-lg-7">
-                        <div class="contact-form">
-
-                            <h3>Gửi yêu cầu tư vấn</h3>
-
-                            <form>
-                                <div class="row g-3">
-
-                                    <div class="col-md-6">
-                                        <input type="text" class="form-control" placeholder="Họ và tên" required>
-                                    </div>
-
-                                    <div class="col-md-6">
-                                        <input type="email" class="form-control" placeholder="Email" required>
-                                    </div>
-
-                                    <div class="col-md-6">
-                                        <input type="text" class="form-control" placeholder="Số điện thoại">
-                                    </div>
-
-                                    <div class="col-md-6">
-                                        <input type="text" class="form-control" placeholder="Công ty">
-                                    </div>
-
-                                    <div class="col-12">
-                                        <textarea class="form-control" rows="5"
-                                            placeholder="Nội dung yêu cầu"></textarea>
-                                    </div>
-
-                                    <div class="col-12">
-                                        <button class="btn btn-primary px-4">Gửi liên hệ</button>
-                                    </div>
-
+                    <div class="ct-card">
+                        <h2>Gửi yêu cầu tư vấn / báo giá</h2>
+                        <p class="ct-card__sub">Điền thông tin bên dưới, chúng tôi sẽ phản hồi trong thời gian sớm nhất. Có thể ghi rõ mã hàng (part number) để được báo giá chính xác.</p>
+                        <form action="mailto:sales@markal.com.vn" method="post" enctype="text/plain">
+                            <div class="ct-row2">
+                                <div class="ct-field">
+                                    <label for="name">Họ và tên *</label>
+                                    <input type="text" id="name" name="Ho_ten" placeholder="Nguyễn Văn A" required>
                                 </div>
-                            </form>
-
-                        </div>
+                                <div class="ct-field">
+                                    <label for="company">Công ty</label>
+                                    <input type="text" id="company" name="Cong_ty" placeholder="Tên công ty">
+                                </div>
+                            </div>
+                            <div class="ct-row2">
+                                <div class="ct-field">
+                                    <label for="email">Email *</label>
+                                    <input type="email" id="email" name="Email" placeholder="email@congty.com" required>
+                                </div>
+                                <div class="ct-field">
+                                    <label for="phone">Số điện thoại</label>
+                                    <input type="tel" id="phone" name="So_dien_thoai" placeholder="09xx xxx xxx">
+                                </div>
+                            </div>
+                            <div class="ct-field">
+                                <label for="msg">Nội dung yêu cầu *</label>
+                                <textarea id="msg" name="Noi_dung" placeholder="Mô tả sản phẩm / mã hàng / số lượng cần báo giá…" required></textarea>
+                            </div>
+                            <button type="submit" class="hp-btn hp-btn--primary"><i class="fa-solid fa-paper-plane"></i> Gửi yêu cầu</button>
+                            <p class="ct-note">Hoặc gọi trực tiếp <a href="tel:+84938888958" style="color:var(--hp-blue);font-weight:700">0938 888 958</a> để được hỗ trợ ngay.</p>
+                        </form>
                     </div>
 
                     <!-- INFO -->
-                    <div class="col-lg-5">
-                        <div class="contact-info">
-
-                            <h3>Thông tin liên hệ</h3>
-
-                            <p><strong>Công ty:</strong> Công ty TNHH Fast Group (Fast Group Engineering)</p>
-                            <p><strong>MST:</strong> 0315555189 | Thành lập: 08/03/2019</p>
-                            <p><strong>VP HCM:</strong> 150/41 Nguyễn Cư Trinh, P. Cầu Ông Lãnh, Q.1, TP.HCM</p>
-                            <p><strong>VP Vũng Tàu:</strong> 51 Lê Văn Lộc, P. Vũng Tàu, TP. Vũng Tàu</p>
-                            <p><strong>Địa chỉ:</strong> TP. Hồ Chí Minh, Việt Nam</p>
-                            <p><strong>Hotline:</strong> +84 938 888 958</p>
-                            <p><strong>Email:</strong> sales@markal.com.vn</p>
-
-                            <hr>
-
-                            <!-- MAP -->
-                            <div class="map">
-                                <iframe src="https://www.google.com/maps?q=ho+chi+minh&output=embed" width="100%"
-                                    height="250" style="border:0;" allowfullscreen="" loading="lazy"
-                                    title="Bản đồ vị trí Fast Group Engineering - TP. Hồ Chí Minh">
-                                </iframe>
-                            </div>
-
-                        </div>
+                    <div class="ct-card ct-info">
+                        <h2>Thông tin liên hệ</h2>
+                        <ul class="ct-info__list">
+                            <li>
+                                <div class="ct-info__ic"><i class="fa-solid fa-building"></i></div>
+                                <div><div class="ct-info__l">Công ty</div><div class="ct-info__v">Công ty TNHH Fast Group (Fast Group Engineering)<br>MST: 0315555189</div></div>
+                            </li>
+                            <li>
+                                <div class="ct-info__ic"><i class="fa-solid fa-location-dot"></i></div>
+                                <div><div class="ct-info__l">Văn phòng HCM</div><div class="ct-info__v">150/41 Nguyễn Cư Trinh, P. Cầu Ông Lãnh, Q.1, TP.HCM</div></div>
+                            </li>
+                            <li>
+                                <div class="ct-info__ic"><i class="fa-solid fa-location-dot"></i></div>
+                                <div><div class="ct-info__l">Văn phòng Vũng Tàu</div><div class="ct-info__v">51 Lê Văn Lộc, P. Vũng Tàu, TP. Vũng Tàu</div></div>
+                            </li>
+                            <li>
+                                <div class="ct-info__ic"><i class="fa-solid fa-warehouse"></i></div>
+                                <div><div class="ct-info__l">Kho</div><div class="ct-info__v">41 Trần Văn Giàu, KĐT Sao Mai – Bến Đình, TP.HCM</div></div>
+                            </li>
+                            <li>
+                                <div class="ct-info__ic"><i class="fa-solid fa-phone"></i></div>
+                                <div><div class="ct-info__l">Hotline</div><div class="ct-info__v"><a href="tel:+84938888958">+84 938 888 958</a></div></div>
+                            </li>
+                            <li>
+                                <div class="ct-info__ic"><i class="fa-solid fa-envelope"></i></div>
+                                <div><div class="ct-info__l">Email</div><div class="ct-info__v"><a href="mailto:sales@markal.com.vn">sales@markal.com.vn</a></div></div>
+                            </li>
+                        </ul>
+                        <div class="ct-hours"><i class="fa-solid fa-clock"></i> Giờ làm việc: Thứ 2 – Thứ 6, 08:00 – 17:30</div>
                     </div>
 
                 </div>
+            </div>
+        </section>
 
+        <!-- ======= MAP ======= -->
+        <section class="ct-map">
+            <div class="hp-wrap">
+                <div class="ct-map__head">
+                    <h2>Vị trí của chúng tôi</h2>
+                    <p>Văn phòng chính tại TP. Hồ Chí Minh</p>
+                </div>
+                <div class="ct-map__frame">
+                    <iframe src="https://www.google.com/maps?q=150/41+Nguyễn+Cư+Trinh+Quận+1+Hồ+Chí+Minh&output=embed"
+                        loading="lazy" allowfullscreen
+                        title="Bản đồ vị trí Fast Group Engineering - TP. Hồ Chí Minh"></iframe>
+                </div>
             </div>
         </section>
 
@@ -238,38 +354,34 @@
 
             <div class="footer__top">
 
-                <!-- COMPANY -->
                 <div class="footer__col footer__about">
                     <a href="/" class="navbar-brand d-flex align-items-center mb-3">
                         <img src="/assets/images/logo.png" alt="Markal Việt Nam Logo" class="logo"
                             style="max-height: 40px;" width="160" height="40">
                     </a>
-
                     <p class="footer__desc">
                         Fast Group Engineering là đơn vị phân phối chính hãng các giải pháp
                         đánh dấu công nghiệp từ Markal, Laco và Tempil tại Việt Nam.
                     </p>
-
-                                            <ul class="footer__contact" style="list-style:none;padding:0;margin:0;">
-                            <li>▶ VP1: 150 Nguyễn Cư Trinh, P. Cầu Ông Lãnh, TP.HCM</li>
-                            <li>▶ VP2: 51 Lê Văn Lộc, P. Vũng Tàu, TP.HCM</li>
-                            <li>▶ Kho: 41 Trần Văn Giàu, KĐT Sao Mai – Bến Đình, TP.HCM</li>
-                            <li>▶ Tel: <a href="tel:+84938888958">0938 888 958</a> | Email: <a href="mailto:sales@markal.com.vn">sales@markal.com.vn</a></li>
-                            <li>▶ Website: <a href="https://markal.com.vn">markal.com.vn</a></li>
-                        </ul>
+                    <ul class="footer__contact" style="list-style:none;padding:0;margin:0;">
+                        <li>▶ VP1: 150 Nguyễn Cư Trinh, P. Cầu Ông Lãnh, TP.HCM</li>
+                        <li>▶ VP2: 51 Lê Văn Lộc, P. Vũng Tàu, TP.HCM</li>
+                        <li>▶ Kho: 41 Trần Văn Giàu, KĐT Sao Mai – Bến Đình, TP.HCM</li>
+                        <li>▶ Tel: <a href="tel:+84938888958">0938 888 958</a> | Email: <a href="mailto:sales@markal.com.vn">sales@markal.com.vn</a></li>
+                        <li>▶ Website: <a href="https://markal.com.vn">markal.com.vn</a></li>
+                    </ul>
                 </div>
 
-                <!-- BRANDS -->
                 <div class="footer__col">
                     <h4>Thương hiệu</h4>
                     <ul>
                         <li><a href="/markal/">Markal</a></li>
                         <li><a href="/laco/">Laco</a></li>
                         <li><a href="/tempil/">Tempil</a></li>
+                        <li><a href="https://tempil.vn" target="_blank">Tempil Vietnam</a></li>
                     </ul>
                 </div>
 
-                <!-- PRODUCTS -->
                 <div class="footer__col">
                     <h4>Sản phẩm chính</h4>
                     <ul>
@@ -280,20 +392,18 @@
                     </ul>
                 </div>
 
-                <!-- SUPPORT -->
                 <div class="footer__col">
                     <h4>Hỗ trợ</h4>
                     <ul>
                         <li><a href="/contact.html">Liên hệ</a></li>
-                        <li><a href="#">Tư vấn kỹ thuật</a></li>
-                        <li><a href="#">Tải catalog</a></li>
-                        <li><a href="#">Chính sách bảo hành</a></li>
+                        <li><a href="/blog/">Blog kỹ thuật</a></li>
+                        <li><a href="/contact.html">Tư vấn kỹ thuật</a></li>
+                        <li><a href="/contact.html">Yêu cầu báo giá</a></li>
                     </ul>
                 </div>
 
             </div>
 
-            <!-- BOTTOM -->
             <div class="footer__bottom">
                 <p>
                     &copy; 2026 Công ty TNHH Fast Group (Fast Group Engineering) | MST: 0315555189 | Est. 08/03/2019
