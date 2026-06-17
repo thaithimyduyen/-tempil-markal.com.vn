@@ -132,6 +132,8 @@ a:hover{text-decoration:underline}
 .variant-card{background:#fff;border:1px solid var(--border);border-radius:var(--radius);padding:16px 12px;text-align:center;box-shadow:var(--shadow);transition:box-shadow .2s,border-color .2s}
 .variant-card:hover{box-shadow:0 6px 20px rgba(0,0,0,.12);border-color:var(--blue);text-decoration:none}
 .variant-card .sw{width:36px;height:36px;border-radius:50%;margin:0 auto 8px;border:1px solid #ccc}
+.variant-card .sw--meta{background:linear-gradient(135deg,#e8eef8,#fff);border-color:#c3d3ee;position:relative}
+.variant-card .sw--meta::after{content:"";position:absolute;inset:11px;border-radius:50%;background:var(--blue);opacity:.75}
 .variant-card .pn{font-weight:700;color:var(--blue)}
 .variant-card .nm{font-size:.8rem;color:var(--muted)}
 .variant-card.current{border-color:var(--yellow);background:#fffbf0}
@@ -190,18 +192,18 @@ details[open] summary::after{transform:rotate(90deg)}
     <div class="sidebar__tagline">Fast group engineering</div>
   </div>
   <nav class="sidebar__nav">
-      <ul>
-        <li><a href="/"> Trang chủ</a></li>
-        <li><a href="/#brands">Nhãn hiệu</a></li>
-        <li><a href="/markal/"> Markal</a></li>
-        <li><a href="/tempil/"> Tempil</a></li>
-        <li><a href="/laco/"> Laco</a></li>
-        <li><a href="/contact.html"> Liên hệ</a></li>
-        <li><a href="/blog/"> Blog</a></li>
-        <li><a href="/shop/" class="active" style="color:#f0a500;font-weight:600"> 🛒 Shop tra mã hàng</a></li>
-        <li><a href="https://tempil.vn" target="_blank" rel="noopener" style="color:#c8102e;font-weight:500"> 🌡 Tempil.vn</a></li>
-      </ul>
-    </nav>
+    <ul>
+      <li><a href="/"> Trang chủ</a></li>
+      <li><a href="/#brands">Nhãn hiệu</a></li>
+      <li><a href="/markal/"> Markal</a></li>
+      <li><a href="/tempil/"> Tempil</a></li>
+      <li><a href="/laco/"> Laco</a></li>
+      <li><a href="/contact.html"> Liên hệ</a></li>
+      <li><a href="/blog/"> Blog</a></li>
+      <li><a href="/shop/" class="active" style="color:#f0a500;font-weight:600"> 🛒 Shop tra mã hàng</a></li>
+      <li><a href="https://tempil.vn" target="_blank" rel="noopener" style="color:#c8102e;font-weight:500"> 🌡 Tempil.vn</a></li>
+    </ul>
+  </nav>
   <div class="sidebar__footer">
     <div class="sidebar__hours"><strong>Liên hệ</strong><br>Tel: +84 (938) 888 958<br>Email: sales@markal.com.vn</div>
   </div>
@@ -300,7 +302,7 @@ details[open] summary::after{transform:rotate(90deg)}
 
   <section class="section"><div class="container">
       <div class="section-header"><h2>Các mã cùng dòng</h2><p>Cùng dòng PAINT-RITER+ Oily Surface Liquid Paint Marker – bấm để mở trang từng mã.</p></div>
-      <div class="variant-grid"><a class="variant-card" href="/shop/but-son-long-paint-riter-plus-oily-surface-096960/"><div class="sw" style="background:#ffffff"></div><div class="pn">096960</div><div class="nm">Trắng - chống ăn mòn thấp</div></a><a class="variant-card" href="/shop/but-son-long-paint-riter-plus-oily-surface-096961/"><div class="sw" style="background:#f0a500"></div><div class="pn">096961</div><div class="nm">Vàng</div></a><a class="variant-card" href="/shop/but-son-long-paint-riter-plus-oily-surface-096962/"><div class="sw" style="background:#c8102e"></div><div class="pn">096962</div><div class="nm">Đỏ</div></a><a class="variant-card" href="/shop/but-son-long-paint-riter-plus-oily-surface-096963/"><div class="sw" style="background:#1c2229"></div><div class="pn">096963</div><div class="nm">Đen</div></a><a class="variant-card" href="/shop/but-son-long-paint-riter-plus-oily-surface-096964/"><div class="sw" style="background:#e8741c"></div><div class="pn">096964</div><div class="nm">Cam</div></a><a class="variant-card" href="/shop/but-son-long-paint-riter-plus-oily-surface-096965/"><div class="sw" style="background:#1456b8"></div><div class="pn">096965</div><div class="nm">Xanh dương</div></a><a class="variant-card current" href="/shop/but-son-long-paint-riter-plus-oily-surface-096966/"><div class="sw" style="background:#2d8a2d"></div><div class="pn">096966</div><div class="nm">Xanh lá</div></a><a class="variant-card" href="/shop/but-son-long-paint-riter-plus-oily-surface-096967/"><div class="sw" style="background:#c0c4c9"></div><div class="pn">096967</div><div class="nm">Bạc</div></a></div></div></section>
+      <div class="variant-grid"><a class="variant-card" href="/shop/but-son-long-paint-riter-plus-oily-surface-096960/"><div class="sw" style="background:#ffffff"></div><div class="pn">096960</div><div class="nm">Trắng - chống ăn mòn thấp</div></a><a class="variant-card" href="/shop/but-son-long-paint-riter-plus-oily-surface-096961/"><div class="sw" style="background:#f0a500"></div><div class="pn">096961</div><div class="nm">Vàng</div></a><a class="variant-card" href="/shop/but-son-long-paint-riter-plus-oily-surface-096962/"><div class="sw" style="background:#c8102e"></div><div class="pn">096962</div><div class="nm">Đỏ</div></a><a class="variant-card" href="/shop/but-son-long-paint-riter-plus-oily-surface-096963/"><div class="sw" style="background:#1c2229"></div><div class="pn">096963</div><div class="nm">Đen</div></a><a class="variant-card" href="/shop/but-son-long-paint-riter-plus-oily-surface-096964/"><div class="sw" style="background:#e8741c"></div><div class="pn">096964</div><div class="nm">Cam</div></a><a class="variant-card" href="/shop/but-son-long-paint-riter-plus-oily-surface-096965/"><div class="sw" style="background:#1456b8"></div><div class="pn">096965</div><div class="nm">Xanh dương</div></a><a class="variant-card current" href="/shop/but-son-long-paint-riter-plus-oily-surface-096966/"><div class="sw" style="background:#2d8a2d"></div><div class="pn">096966</div><div class="nm">Xanh lá</div></a><a class="variant-card" href="/shop/but-son-long-paint-riter-plus-oily-surface-096967/"><div class="sw" style="background:#c0c4c9"></div><div class="pn">096967</div><div class="nm">Bạc</div></a><a class="variant-card" href="/shop/but-son-long-paint-riter-plus-oily-surface-096971/"><div class="sw" style="background:#5aa7e8"></div><div class="pn">096971</div><div class="nm">Xanh dương nhạt</div></a><a class="variant-card" href="/shop/but-son-long-paint-riter-plus-oily-surface-096970/"><div class="sw" style="background:#2d8a2d"></div><div class="pn">096970</div><div class="nm">Xanh lá nhạt</div></a><a class="variant-card" href="/shop/but-son-long-paint-riter-plus-oily-surface-096972/"><div class="sw" style="background:#c9a227"></div><div class="pn">096972</div><div class="nm">Vàng kim</div></a><a class="variant-card" href="/shop/but-son-long-paint-riter-plus-oily-surface-096973/"><div class="sw" style="background:#e87ba6"></div><div class="pn">096973</div><div class="nm">Hồng</div></a><a class="variant-card" href="/shop/but-son-long-paint-riter-plus-oily-surface-096974/"><div class="sw" style="background:#6f42c1"></div><div class="pn">096974</div><div class="nm">Tím</div></a><a class="variant-card" href="/shop/but-son-long-paint-riter-plus-oily-surface-096975/"><div class="sw" style="background:#7a4a2b"></div><div class="pn">096975</div><div class="nm">Nâu</div></a></div></div></section>
 
   <section class="section">
     <div class="container">

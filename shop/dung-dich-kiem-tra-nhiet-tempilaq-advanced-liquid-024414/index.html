@@ -132,6 +132,8 @@ a:hover{text-decoration:underline}
 .variant-card{background:#fff;border:1px solid var(--border);border-radius:var(--radius);padding:16px 12px;text-align:center;box-shadow:var(--shadow);transition:box-shadow .2s,border-color .2s}
 .variant-card:hover{box-shadow:0 6px 20px rgba(0,0,0,.12);border-color:var(--blue);text-decoration:none}
 .variant-card .sw{width:36px;height:36px;border-radius:50%;margin:0 auto 8px;border:1px solid #ccc}
+.variant-card .sw--meta{background:linear-gradient(135deg,#e8eef8,#fff);border-color:#c3d3ee;position:relative}
+.variant-card .sw--meta::after{content:"";position:absolute;inset:11px;border-radius:50%;background:var(--blue);opacity:.75}
 .variant-card .pn{font-weight:700;color:var(--blue)}
 .variant-card .nm{font-size:.8rem;color:var(--muted)}
 .variant-card.current{border-color:var(--yellow);background:#fffbf0}
@@ -190,18 +192,18 @@ details[open] summary::after{transform:rotate(90deg)}
     <div class="sidebar__tagline">Fast group engineering</div>
   </div>
   <nav class="sidebar__nav">
-      <ul>
-        <li><a href="/"> Trang chủ</a></li>
-        <li><a href="/#brands">Nhãn hiệu</a></li>
-        <li><a href="/markal/"> Markal</a></li>
-        <li><a href="/tempil/"> Tempil</a></li>
-        <li><a href="/laco/"> Laco</a></li>
-        <li><a href="/contact.html"> Liên hệ</a></li>
-        <li><a href="/blog/"> Blog</a></li>
-        <li><a href="/shop/" class="active" style="color:#f0a500;font-weight:600"> 🛒 Shop tra mã hàng</a></li>
-        <li><a href="https://tempil.vn" target="_blank" rel="noopener" style="color:#c8102e;font-weight:500"> 🌡 Tempil.vn</a></li>
-      </ul>
-    </nav>
+    <ul>
+      <li><a href="/"> Trang chủ</a></li>
+      <li><a href="/#brands">Nhãn hiệu</a></li>
+      <li><a href="/markal/"> Markal</a></li>
+      <li><a href="/tempil/"> Tempil</a></li>
+      <li><a href="/laco/"> Laco</a></li>
+      <li><a href="/contact.html"> Liên hệ</a></li>
+      <li><a href="/blog/"> Blog</a></li>
+      <li><a href="/shop/" class="active" style="color:#f0a500;font-weight:600"> 🛒 Shop tra mã hàng</a></li>
+      <li><a href="https://tempil.vn" target="_blank" rel="noopener" style="color:#c8102e;font-weight:500"> 🌡 Tempil.vn</a></li>
+    </ul>
+  </nav>
   <div class="sidebar__footer">
     <div class="sidebar__hours"><strong>Liên hệ</strong><br>Tel: +84 (938) 888 958<br>Email: sales@markal.com.vn</div>
   </div>
@@ -299,8 +301,8 @@ details[open] summary::after{transform:rotate(90deg)}
   </section>
 
   <section class="section"><div class="container">
-      <div class="section-header"><h2>Các mã cùng dòng</h2><p>Cùng dòng Tempilaq Advanced – bấm để mở trang từng mã.</p></div>
-      <div class="variant-grid"><a class="variant-card" href="/shop/dung-dich-kiem-tra-nhiet-tempilaq-advanced-liquid-024407/"><div class="sw" style="background:#ccd2da"></div><div class="pn">024407</div><div class="nm">Xem chi tiết</div></a><a class="variant-card" href="/shop/dung-dich-kiem-tra-nhiet-tempilaq-advanced-liquid-024408/"><div class="sw" style="background:#ccd2da"></div><div class="pn">024408</div><div class="nm">Xem chi tiết</div></a><a class="variant-card" href="/shop/dung-dich-kiem-tra-nhiet-tempilaq-advanced-liquid-024410/"><div class="sw" style="background:#ccd2da"></div><div class="pn">024410</div><div class="nm">Xem chi tiết</div></a><a class="variant-card" href="/shop/dung-dich-kiem-tra-nhiet-tempilaq-advanced-liquid-024411/"><div class="sw" style="background:#ccd2da"></div><div class="pn">024411</div><div class="nm">Xem chi tiết</div></a><a class="variant-card" href="/shop/dung-dich-kiem-tra-nhiet-tempilaq-advanced-liquid-024413/"><div class="sw" style="background:#ccd2da"></div><div class="pn">024413</div><div class="nm">Xem chi tiết</div></a><a class="variant-card current" href="/shop/dung-dich-kiem-tra-nhiet-tempilaq-advanced-liquid-024414/"><div class="sw" style="background:#ccd2da"></div><div class="pn">024414</div><div class="nm">Xem chi tiết</div></a><a class="variant-card" href="/shop/dung-dich-kiem-tra-nhiet-tempilaq-advanced-liquid-024421/"><div class="sw" style="background:#ccd2da"></div><div class="pn">024421</div><div class="nm">Xem chi tiết</div></a><a class="variant-card" href="/shop/dung-dich-kiem-tra-nhiet-tempilaq-advanced-liquid-024422/"><div class="sw" style="background:#ccd2da"></div><div class="pn">024422</div><div class="nm">Xem chi tiết</div></a></div></div></section>
+      <div class="section-header"><h2>Các mã cùng dòng</h2><p>Cùng dòng Tempilaq Advanced – bấm để mở trang từng mã. Hiển thị 12 mã gần mã hiện tại trong tổng 20 mã cùng dòng.</p></div>
+      <div class="variant-grid"><a class="variant-card" href="/shop/dung-dich-kiem-tra-nhiet-tempilaq-advanced-liquid-024407/"><div class="sw sw--meta"></div><div class="pn">024407</div><div class="nm">325°F (163°C)</div></a><a class="variant-card" href="/shop/dung-dich-kiem-tra-nhiet-tempilaq-advanced-liquid-024408/"><div class="sw sw--meta"></div><div class="pn">024408</div><div class="nm">350°F (177°C)</div></a><a class="variant-card" href="/shop/dung-dich-kiem-tra-nhiet-tempilaq-advanced-liquid-024410/"><div class="sw sw--meta"></div><div class="pn">024410</div><div class="nm">375°F (191°C)</div></a><a class="variant-card" href="/shop/dung-dich-kiem-tra-nhiet-tempilaq-advanced-liquid-024411/"><div class="sw sw--meta"></div><div class="pn">024411</div><div class="nm">400°F (204°C)</div></a><a class="variant-card" href="/shop/dung-dich-kiem-tra-nhiet-tempilaq-advanced-liquid-024413/"><div class="sw sw--meta"></div><div class="pn">024413</div><div class="nm">450°F (232°C)</div></a><a class="variant-card current" href="/shop/dung-dich-kiem-tra-nhiet-tempilaq-advanced-liquid-024414/"><div class="sw sw--meta"></div><div class="pn">024414</div><div class="nm">475°F (246°C)</div></a><a class="variant-card" href="/shop/dung-dich-kiem-tra-nhiet-tempilaq-advanced-liquid-024421/"><div class="sw sw--meta"></div><div class="pn">024421</div><div class="nm">650°F (343°C)</div></a><a class="variant-card" href="/shop/dung-dich-kiem-tra-nhiet-tempilaq-advanced-liquid-024422/"><div class="sw sw--meta"></div><div class="pn">024422</div><div class="nm">700°F (371°C)</div></a><a class="variant-card" href="/shop/dung-dich-kiem-tra-nhiet-tempilaq-advanced-liquid-024423/"><div class="sw sw--meta"></div><div class="pn">024423</div><div class="nm">750°F (399°C)</div></a><a class="variant-card" href="/shop/dung-dich-kiem-tra-nhiet-tempilaq-advanced-liquid-024424/"><div class="sw sw--meta"></div><div class="pn">024424</div><div class="nm">800°F (427°C)</div></a><a class="variant-card" href="/shop/dung-dich-kiem-tra-nhiet-tempilaq-advanced-liquid-024425/"><div class="sw sw--meta"></div><div class="pn">024425</div><div class="nm">850°F (454°C)</div></a><a class="variant-card" href="/shop/dung-dich-kiem-tra-nhiet-tempilaq-advanced-liquid-024427/"><div class="sw sw--meta"></div><div class="pn">024427</div><div class="nm">950°F (510°C)</div></a></div></div></section>
 
   <section class="section">
     <div class="container">

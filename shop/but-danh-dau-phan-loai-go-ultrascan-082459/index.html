@@ -132,6 +132,8 @@ a:hover{text-decoration:underline}
 .variant-card{background:#fff;border:1px solid var(--border);border-radius:var(--radius);padding:16px 12px;text-align:center;box-shadow:var(--shadow);transition:box-shadow .2s,border-color .2s}
 .variant-card:hover{box-shadow:0 6px 20px rgba(0,0,0,.12);border-color:var(--blue);text-decoration:none}
 .variant-card .sw{width:36px;height:36px;border-radius:50%;margin:0 auto 8px;border:1px solid #ccc}
+.variant-card .sw--meta{background:linear-gradient(135deg,#e8eef8,#fff);border-color:#c3d3ee;position:relative}
+.variant-card .sw--meta::after{content:"";position:absolute;inset:11px;border-radius:50%;background:var(--blue);opacity:.75}
 .variant-card .pn{font-weight:700;color:var(--blue)}
 .variant-card .nm{font-size:.8rem;color:var(--muted)}
 .variant-card.current{border-color:var(--yellow);background:#fffbf0}
@@ -190,18 +192,18 @@ details[open] summary::after{transform:rotate(90deg)}
     <div class="sidebar__tagline">Fast group engineering</div>
   </div>
   <nav class="sidebar__nav">
-      <ul>
-        <li><a href="/"> Trang chủ</a></li>
-        <li><a href="/#brands">Nhãn hiệu</a></li>
-        <li><a href="/markal/"> Markal</a></li>
-        <li><a href="/tempil/"> Tempil</a></li>
-        <li><a href="/laco/"> Laco</a></li>
-        <li><a href="/contact.html"> Liên hệ</a></li>
-        <li><a href="/blog/"> Blog</a></li>
-        <li><a href="/shop/" class="active" style="color:#f0a500;font-weight:600"> 🛒 Shop tra mã hàng</a></li>
-        <li><a href="https://tempil.vn" target="_blank" rel="noopener" style="color:#c8102e;font-weight:500"> 🌡 Tempil.vn</a></li>
-      </ul>
-    </nav>
+    <ul>
+      <li><a href="/"> Trang chủ</a></li>
+      <li><a href="/#brands">Nhãn hiệu</a></li>
+      <li><a href="/markal/"> Markal</a></li>
+      <li><a href="/tempil/"> Tempil</a></li>
+      <li><a href="/laco/"> Laco</a></li>
+      <li><a href="/contact.html"> Liên hệ</a></li>
+      <li><a href="/blog/"> Blog</a></li>
+      <li><a href="/shop/" class="active" style="color:#f0a500;font-weight:600"> 🛒 Shop tra mã hàng</a></li>
+      <li><a href="https://tempil.vn" target="_blank" rel="noopener" style="color:#c8102e;font-weight:500"> 🌡 Tempil.vn</a></li>
+    </ul>
+  </nav>
   <div class="sidebar__footer">
     <div class="sidebar__hours"><strong>Liên hệ</strong><br>Tel: +84 (938) 888 958<br>Email: sales@markal.com.vn</div>
   </div>
@@ -300,7 +302,7 @@ details[open] summary::after{transform:rotate(90deg)}
 
   <section class="section"><div class="container">
       <div class="section-header"><h2>Các mã cùng dòng</h2><p>Cùng dòng ULTRASCAN -Lumber Grading Marker- Pack of 12 – bấm để mở trang từng mã.</p></div>
-      <div class="variant-grid"><a class="variant-card" href="/shop/but-danh-dau-phan-loai-go-ultrascan-082431/"><div class="sw" style="background:#ccd2da"></div><div class="pn">082431</div><div class="nm">Hồng sẫm 21</div></a><a class="variant-card" href="/shop/but-danh-dau-phan-loai-go-ultrascan-082432/"><div class="sw" style="background:#ccd2da"></div><div class="pn">082432</div><div class="nm">Đỏ cam 31</div></a><a class="variant-card" href="/shop/but-danh-dau-phan-loai-go-ultrascan-082433/"><div class="sw" style="background:#ccd2da"></div><div class="pn">082433</div><div class="nm">Cam 41</div></a><a class="variant-card" href="/shop/but-danh-dau-phan-loai-go-ultrascan-082434/"><div class="sw" style="background:#ccd2da"></div><div class="pn">082434</div><div class="nm">Đỏ mọng 51</div></a><a class="variant-card" href="/shop/but-danh-dau-phan-loai-go-ultrascan-082435/"><div class="sw" style="background:#ccd2da"></div><div class="pn">082435</div><div class="nm">Xanh chanh 61</div></a><a class="variant-card" href="/shop/but-danh-dau-phan-loai-go-ultrascan-082436/"><div class="sw" style="background:#ccd2da"></div><div class="pn">082436</div><div class="nm">Đỏ booc-đô 12</div></a><a class="variant-card" href="/shop/but-danh-dau-phan-loai-go-ultrascan-082439/"><div class="sw" style="background:#ccd2da"></div><div class="pn">082439</div><div class="nm">Cam đậm 42</div></a><a class="variant-card" href="/shop/but-danh-dau-phan-loai-go-ultrascan-082440/"><div class="sw" style="background:#ccd2da"></div><div class="pn">082440</div><div class="nm">Nâu 52</div></a></div></div></section>
+      <div class="variant-grid"><a class="variant-card" href="/shop/but-danh-dau-phan-loai-go-ultrascan-082431/"><div class="sw" style="background:#b32d6b"></div><div class="pn">082431</div><div class="nm">Hồng sẫm 21</div></a><a class="variant-card" href="/shop/but-danh-dau-phan-loai-go-ultrascan-082432/"><div class="sw" style="background:#d94a24"></div><div class="pn">082432</div><div class="nm">Đỏ cam 31</div></a><a class="variant-card" href="/shop/but-danh-dau-phan-loai-go-ultrascan-082433/"><div class="sw" style="background:#e8741c"></div><div class="pn">082433</div><div class="nm">Cam 41</div></a><a class="variant-card" href="/shop/but-danh-dau-phan-loai-go-ultrascan-082434/"><div class="sw" style="background:#b51f3a"></div><div class="pn">082434</div><div class="nm">Đỏ mọng 51</div></a><a class="variant-card" href="/shop/but-danh-dau-phan-loai-go-ultrascan-082435/"><div class="sw" style="background:#a7d93b"></div><div class="pn">082435</div><div class="nm">Xanh chanh 61</div></a><a class="variant-card" href="/shop/but-danh-dau-phan-loai-go-ultrascan-082436/"><div class="sw" style="background:#6f1d2d"></div><div class="pn">082436</div><div class="nm">Đỏ booc-đô 12</div></a><a class="variant-card" href="/shop/but-danh-dau-phan-loai-go-ultrascan-082439/"><div class="sw" style="background:#c85a18"></div><div class="pn">082439</div><div class="nm">Cam đậm 42</div></a><a class="variant-card" href="/shop/but-danh-dau-phan-loai-go-ultrascan-082440/"><div class="sw" style="background:#7a4a2b"></div><div class="pn">082440</div><div class="nm">Nâu 52</div></a><a class="variant-card" href="/shop/but-danh-dau-phan-loai-go-ultrascan-082441/"><div class="sw" style="background:#2d8a2d"></div><div class="pn">082441</div><div class="nm">Xanh lá 62</div></a><a class="variant-card" href="/shop/but-danh-dau-phan-loai-go-ultrascan-082442/"><div class="sw" style="background:#7a4a2b"></div><div class="pn">082442</div><div class="nm">Nâu gỉ 13</div></a><a class="variant-card" href="/shop/but-danh-dau-phan-loai-go-ultrascan-082446/"><div class="sw" style="background:#f4b22c"></div><div class="pn">082446</div><div class="nm">Vàng cam 53</div></a><a class="variant-card" href="/shop/but-danh-dau-phan-loai-go-ultrascan-082447/"><div class="sw" style="background:#f0a500"></div><div class="pn">082447</div><div class="nm">Vàng 63</div></a><a class="variant-card" href="/shop/but-danh-dau-phan-loai-go-ultrascan-082450/"><div class="sw" style="background:#159a9c"></div><div class="pn">082450</div><div class="nm">Xanh lục lam 70</div></a><a class="variant-card" href="/shop/but-danh-dau-phan-loai-go-ultrascan-082451/"><div class="sw" style="background:#ff66a8"></div><div class="pn">082451</div><div class="nm">Hồng tươi 91</div></a><a class="variant-card" href="/shop/but-danh-dau-phan-loai-go-ultrascan-082452/"><div class="sw" style="background:#214fba"></div><div class="pn">082452</div><div class="nm">Xanh hoàng gia 80</div></a><a class="variant-card" href="/shop/but-danh-dau-phan-loai-go-ultrascan-082457/"><div class="sw" style="background:#5aa7e8"></div><div class="pn">082457</div><div class="nm">Xanh dương nhạt 81</div></a><a class="variant-card current" href="/shop/but-danh-dau-phan-loai-go-ultrascan-082459/"><div class="sw" style="background:#f97826"></div><div class="pn">082459</div><div class="nm">Cam tươi 44</div></a><a class="variant-card" href="/shop/but-danh-dau-phan-loai-go-ultrascan-082461/"><div class="sw" style="background:#87d96b"></div><div class="pn">082461</div><div class="nm">Xanh non 71</div></a><a class="variant-card" href="/shop/but-danh-dau-phan-loai-go-ultrascan-082462/"><div class="sw" style="background:#7a4a2b"></div><div class="pn">082462</div><div class="nm">Nâu đậm 55</div></a><a class="variant-card" href="/shop/but-danh-dau-phan-loai-go-ultrascan-082463/"><div class="sw" style="background:#d99a1b"></div><div class="pn">082463</div><div class="nm">Vàng nghệ 54</div></a><a class="variant-card" href="/shop/but-danh-dau-phan-loai-go-ultrascan-082466/"><div class="sw" style="background:#6f42c1"></div><div class="pn">082466</div><div class="nm">Tím 24</div></a><a class="variant-card" href="/shop/but-danh-dau-phan-loai-go-ultrascan-082467/"><div class="sw" style="background:#e2252a"></div><div class="pn">082467</div><div class="nm">Đỏ tươi 34</div></a><a class="variant-card" href="/shop/but-danh-dau-phan-loai-go-ultrascan-082468/"><div class="sw" style="background:#ff6f1a"></div><div class="pn">082468</div><div class="nm">Cam neon 103</div></a><a class="variant-card" href="/shop/but-danh-dau-phan-loai-go-ultrascan-082469/"><div class="sw" style="background:#f0a500"></div><div class="pn">082469</div><div class="nm">Nâu vàng 45</div></a><a class="variant-card" href="/shop/but-danh-dau-phan-loai-go-ultrascan-082470/"><div class="sw" style="background:#f27a18"></div><div class="pn">082470</div><div class="nm">Cam quýt 03</div></a><a class="variant-card" href="/shop/but-danh-dau-phan-loai-go-ultrascan-082430/"><div class="sw" style="background:#a63a2b"></div><div class="pn">082430</div><div class="nm">Đỏ gạch 11</div></a></div></div></section>
 
   <section class="section">
     <div class="container">

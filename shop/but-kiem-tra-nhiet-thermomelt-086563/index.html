@@ -132,6 +132,8 @@ a:hover{text-decoration:underline}
 .variant-card{background:#fff;border:1px solid var(--border);border-radius:var(--radius);padding:16px 12px;text-align:center;box-shadow:var(--shadow);transition:box-shadow .2s,border-color .2s}
 .variant-card:hover{box-shadow:0 6px 20px rgba(0,0,0,.12);border-color:var(--blue);text-decoration:none}
 .variant-card .sw{width:36px;height:36px;border-radius:50%;margin:0 auto 8px;border:1px solid #ccc}
+.variant-card .sw--meta{background:linear-gradient(135deg,#e8eef8,#fff);border-color:#c3d3ee;position:relative}
+.variant-card .sw--meta::after{content:"";position:absolute;inset:11px;border-radius:50%;background:var(--blue);opacity:.75}
 .variant-card .pn{font-weight:700;color:var(--blue)}
 .variant-card .nm{font-size:.8rem;color:var(--muted)}
 .variant-card.current{border-color:var(--yellow);background:#fffbf0}
@@ -190,18 +192,18 @@ details[open] summary::after{transform:rotate(90deg)}
     <div class="sidebar__tagline">Fast group engineering</div>
   </div>
   <nav class="sidebar__nav">
-      <ul>
-        <li><a href="/"> Trang chủ</a></li>
-        <li><a href="/#brands">Nhãn hiệu</a></li>
-        <li><a href="/markal/"> Markal</a></li>
-        <li><a href="/tempil/"> Tempil</a></li>
-        <li><a href="/laco/"> Laco</a></li>
-        <li><a href="/contact.html"> Liên hệ</a></li>
-        <li><a href="/blog/"> Blog</a></li>
-        <li><a href="/shop/" class="active" style="color:#f0a500;font-weight:600"> 🛒 Shop tra mã hàng</a></li>
-        <li><a href="https://tempil.vn" target="_blank" rel="noopener" style="color:#c8102e;font-weight:500"> 🌡 Tempil.vn</a></li>
-      </ul>
-    </nav>
+    <ul>
+      <li><a href="/"> Trang chủ</a></li>
+      <li><a href="/#brands">Nhãn hiệu</a></li>
+      <li><a href="/markal/"> Markal</a></li>
+      <li><a href="/tempil/"> Tempil</a></li>
+      <li><a href="/laco/"> Laco</a></li>
+      <li><a href="/contact.html"> Liên hệ</a></li>
+      <li><a href="/blog/"> Blog</a></li>
+      <li><a href="/shop/" class="active" style="color:#f0a500;font-weight:600"> 🛒 Shop tra mã hàng</a></li>
+      <li><a href="https://tempil.vn" target="_blank" rel="noopener" style="color:#c8102e;font-weight:500"> 🌡 Tempil.vn</a></li>
+    </ul>
+  </nav>
   <div class="sidebar__footer">
     <div class="sidebar__hours"><strong>Liên hệ</strong><br>Tel: +84 (938) 888 958<br>Email: sales@markal.com.vn</div>
   </div>
@@ -299,8 +301,8 @@ details[open] summary::after{transform:rotate(90deg)}
   </section>
 
   <section class="section"><div class="container">
-      <div class="section-header"><h2>Các mã cùng dòng</h2><p>Cùng dòng Thermomelt – bấm để mở trang từng mã.</p></div>
-      <div class="variant-grid"><a class="variant-card" href="/shop/but-kiem-tra-nhiet-thermomelt-086436/"><div class="sw" style="background:#ccd2da"></div><div class="pn">086436</div><div class="nm">Xem chi tiết</div></a><a class="variant-card" href="/shop/but-kiem-tra-nhiet-thermomelt-086544/"><div class="sw" style="background:#ccd2da"></div><div class="pn">086544</div><div class="nm">Xem chi tiết</div></a><a class="variant-card" href="/shop/but-kiem-tra-nhiet-thermomelt-086481/"><div class="sw" style="background:#ccd2da"></div><div class="pn">086481</div><div class="nm">Xem chi tiết</div></a><a class="variant-card" href="/shop/but-kiem-tra-nhiet-thermomelt-086463/"><div class="sw" style="background:#ccd2da"></div><div class="pn">086463</div><div class="nm">Xem chi tiết</div></a><a class="variant-card" href="/shop/but-kiem-tra-nhiet-thermomelt-086516/"><div class="sw" style="background:#ccd2da"></div><div class="pn">086516</div><div class="nm">Xem chi tiết</div></a><a class="variant-card" href="/shop/but-kiem-tra-nhiet-thermomelt-086526/"><div class="sw" style="background:#ccd2da"></div><div class="pn">086526</div><div class="nm">Xem chi tiết</div></a><a class="variant-card" href="/shop/but-kiem-tra-nhiet-thermomelt-086517/"><div class="sw" style="background:#ccd2da"></div><div class="pn">086517</div><div class="nm">Xem chi tiết</div></a><a class="variant-card current" href="/shop/but-kiem-tra-nhiet-thermomelt-086563/"><div class="sw" style="background:#ccd2da"></div><div class="pn">086563</div><div class="nm">Xem chi tiết</div></a></div></div></section>
+      <div class="section-header"><h2>Các mã cùng dòng</h2><p>Cùng dòng Thermomelt – bấm để mở trang từng mã. Hiển thị 12 mã gần mã hiện tại trong tổng 22 mã cùng dòng.</p></div>
+      <div class="variant-grid"><a class="variant-card" href="/shop/but-kiem-tra-nhiet-thermomelt-086544/"><div class="sw sw--meta"></div><div class="pn">086544</div><div class="nm">225°F (107°C)</div></a><a class="variant-card" href="/shop/but-kiem-tra-nhiet-thermomelt-086481/"><div class="sw sw--meta"></div><div class="pn">086481</div><div class="nm">175°F (79°C)</div></a><a class="variant-card" href="/shop/but-kiem-tra-nhiet-thermomelt-086463/"><div class="sw sw--meta"></div><div class="pn">086463</div><div class="nm">150°F (66°C)</div></a><a class="variant-card" href="/shop/but-kiem-tra-nhiet-thermomelt-086516/"><div class="sw sw--meta"></div><div class="pn">086516</div><div class="nm">200°C</div></a><a class="variant-card" href="/shop/but-kiem-tra-nhiet-thermomelt-086526/"><div class="sw sw--meta"></div><div class="pn">086526</div><div class="nm">213°F (101°C)</div></a><a class="variant-card" href="/shop/but-kiem-tra-nhiet-thermomelt-086517/"><div class="sw sw--meta"></div><div class="pn">086517</div><div class="nm">200°F (93°C)</div></a><a class="variant-card current" href="/shop/but-kiem-tra-nhiet-thermomelt-086563/"><div class="sw sw--meta"></div><div class="pn">086563</div><div class="nm">250°C</div></a><a class="variant-card" href="/shop/but-kiem-tra-nhiet-thermomelt-086562/"><div class="sw sw--meta"></div><div class="pn">086562</div><div class="nm">250°F (121°C)</div></a><a class="variant-card" href="/shop/but-kiem-tra-nhiet-thermomelt-086733/"><div class="sw sw--meta"></div><div class="pn">086733</div><div class="nm">400°F (204°C)</div></a><a class="variant-card" href="/shop/but-kiem-tra-nhiet-thermomelt-086661/"><div class="sw sw--meta"></div><div class="pn">086661</div><div class="nm">325°F (163°C)</div></a><a class="variant-card" href="/shop/but-kiem-tra-nhiet-thermomelt-086734/"><div class="sw sw--meta"></div><div class="pn">086734</div><div class="nm">400°C</div></a><a class="variant-card" href="/shop/but-kiem-tra-nhiet-thermomelt-086402/"><div class="sw sw--meta"></div><div class="pn">086402</div><div class="nm">50°C</div></a></div></div></section>
 
   <section class="section">
     <div class="container">

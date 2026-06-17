@@ -132,6 +132,8 @@ a:hover{text-decoration:underline}
 .variant-card{background:#fff;border:1px solid var(--border);border-radius:var(--radius);padding:16px 12px;text-align:center;box-shadow:var(--shadow);transition:box-shadow .2s,border-color .2s}
 .variant-card:hover{box-shadow:0 6px 20px rgba(0,0,0,.12);border-color:var(--blue);text-decoration:none}
 .variant-card .sw{width:36px;height:36px;border-radius:50%;margin:0 auto 8px;border:1px solid #ccc}
+.variant-card .sw--meta{background:linear-gradient(135deg,#e8eef8,#fff);border-color:#c3d3ee;position:relative}
+.variant-card .sw--meta::after{content:"";position:absolute;inset:11px;border-radius:50%;background:var(--blue);opacity:.75}
 .variant-card .pn{font-weight:700;color:var(--blue)}
 .variant-card .nm{font-size:.8rem;color:var(--muted)}
 .variant-card.current{border-color:var(--yellow);background:#fffbf0}
@@ -190,18 +192,18 @@ details[open] summary::after{transform:rotate(90deg)}
     <div class="sidebar__tagline">Fast group engineering</div>
   </div>
   <nav class="sidebar__nav">
-      <ul>
-        <li><a href="/"> Trang chủ</a></li>
-        <li><a href="/#brands">Nhãn hiệu</a></li>
-        <li><a href="/markal/"> Markal</a></li>
-        <li><a href="/tempil/"> Tempil</a></li>
-        <li><a href="/laco/"> Laco</a></li>
-        <li><a href="/contact.html"> Liên hệ</a></li>
-        <li><a href="/blog/"> Blog</a></li>
-        <li><a href="/shop/" class="active" style="color:#f0a500;font-weight:600"> 🛒 Shop tra mã hàng</a></li>
-        <li><a href="https://tempil.vn" target="_blank" rel="noopener" style="color:#c8102e;font-weight:500"> 🌡 Tempil.vn</a></li>
-      </ul>
-    </nav>
+    <ul>
+      <li><a href="/"> Trang chủ</a></li>
+      <li><a href="/#brands">Nhãn hiệu</a></li>
+      <li><a href="/markal/"> Markal</a></li>
+      <li><a href="/tempil/"> Tempil</a></li>
+      <li><a href="/laco/"> Laco</a></li>
+      <li><a href="/contact.html"> Liên hệ</a></li>
+      <li><a href="/blog/"> Blog</a></li>
+      <li><a href="/shop/" class="active" style="color:#f0a500;font-weight:600"> 🛒 Shop tra mã hàng</a></li>
+      <li><a href="https://tempil.vn" target="_blank" rel="noopener" style="color:#c8102e;font-weight:500"> 🌡 Tempil.vn</a></li>
+    </ul>
+  </nav>
   <div class="sidebar__footer">
     <div class="sidebar__hours"><strong>Liên hệ</strong><br>Tel: +84 (938) 888 958<br>Email: sales@markal.com.vn</div>
   </div>
@@ -299,8 +301,8 @@ details[open] summary::after{transform:rotate(90deg)}
   </section>
 
   <section class="section"><div class="container">
-      <div class="section-header"><h2>Các mã cùng dòng</h2><p>Cùng dòng Tempilstik – bấm để mở trang từng mã.</p></div>
-      <div class="variant-grid"><a class="variant-card" href="/shop/but-kiem-tra-nhiet-tempilstik-028004/"><div class="sw" style="background:#ccd2da"></div><div class="pn">028004</div><div class="nm">Xem chi tiết</div></a><a class="variant-card" href="/shop/but-kiem-tra-nhiet-tempilstik-028303/"><div class="sw" style="background:#ccd2da"></div><div class="pn">028303</div><div class="nm">Xem chi tiết</div></a><a class="variant-card" href="/shop/but-kiem-tra-nhiet-tempilstik-028302/"><div class="sw" style="background:#ccd2da"></div><div class="pn">028302</div><div class="nm">Xem chi tiết</div></a><a class="variant-card" href="/shop/but-kiem-tra-nhiet-tempilstik-028301/"><div class="sw" style="background:#ccd2da"></div><div class="pn">028301</div><div class="nm">Xem chi tiết</div></a><a class="variant-card" href="/shop/but-kiem-tra-nhiet-tempilstik-028006/"><div class="sw" style="background:#ccd2da"></div><div class="pn">028006</div><div class="nm">Xem chi tiết</div></a><a class="variant-card" href="/shop/but-kiem-tra-nhiet-tempilstik-028007/"><div class="sw" style="background:#ccd2da"></div><div class="pn">028007</div><div class="nm">Xem chi tiết</div></a><a class="variant-card" href="/shop/but-kiem-tra-nhiet-tempilstik-028009/"><div class="sw" style="background:#ccd2da"></div><div class="pn">028009</div><div class="nm">Xem chi tiết</div></a><a class="variant-card" href="/shop/but-kiem-tra-nhiet-tempilstik-028304/"><div class="sw" style="background:#ccd2da"></div><div class="pn">028304</div><div class="nm">Xem chi tiết</div></a></div></div></section>
+      <div class="section-header"><h2>Các mã cùng dòng</h2><p>Cùng dòng Tempilstik – bấm để mở trang từng mã. Hiển thị 12 mã gần mã hiện tại trong tổng 104 mã cùng dòng.</p></div>
+      <div class="variant-grid"><a class="variant-card" href="/shop/but-kiem-tra-nhiet-tempilstik-028060/"><div class="sw sw--meta"></div><div class="pn">028060</div><div class="nm">1150°F (621°C)</div></a><a class="variant-card" href="/shop/but-kiem-tra-nhiet-tempilstik-028352/"><div class="sw sw--meta"></div><div class="pn">028352</div><div class="nm">1157°F (625°C)</div></a><a class="variant-card" href="/shop/but-kiem-tra-nhiet-tempilstik-028061/"><div class="sw sw--meta"></div><div class="pn">028061</div><div class="nm">1200°F (649°C)</div></a><a class="variant-card" href="/shop/but-kiem-tra-nhiet-tempilstik-028066/"><div class="sw sw--meta"></div><div class="pn">028066</div><div class="nm">1500°F (816°C)</div></a><a class="variant-card" href="/shop/but-kiem-tra-nhiet-tempilstik-028063/"><div class="sw sw--meta"></div><div class="pn">028063</div><div class="nm">1300°F (704°C)</div></a><a class="variant-card" href="/shop/but-kiem-tra-nhiet-tempilstik-028064/"><div class="sw sw--meta"></div><div class="pn">028064</div><div class="nm">1400°F (760°C)</div></a><a class="variant-card current" href="/shop/but-kiem-tra-nhiet-tempilstik-028062/"><div class="sw sw--meta"></div><div class="pn">028062</div><div class="nm">1250°F (677°C)</div></a><a class="variant-card" href="/shop/but-kiem-tra-nhiet-tempilstik-028067/"><div class="sw sw--meta"></div><div class="pn">028067</div><div class="nm">1550°F (843°C)</div></a><a class="variant-card" href="/shop/but-kiem-tra-nhiet-tempilstik-028072/"><div class="sw sw--meta"></div><div class="pn">028072</div><div class="nm">1800°F (982°C)</div></a><a class="variant-card" href="/shop/but-kiem-tra-nhiet-tempilstik-028069/"><div class="sw sw--meta"></div><div class="pn">028069</div><div class="nm">1650°F (899°C)</div></a><a class="variant-card" href="/shop/but-kiem-tra-nhiet-tempilstik-028070/"><div class="sw sw--meta"></div><div class="pn">028070</div><div class="nm">1700°F (927°C)</div></a><a class="variant-card" href="/shop/but-kiem-tra-nhiet-tempilstik-028002/"><div class="sw sw--meta"></div><div class="pn">028002</div><div class="nm">109°F (43°C)</div></a></div></div></section>
 
   <section class="section">
     <div class="container">

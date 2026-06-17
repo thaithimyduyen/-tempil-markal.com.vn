@@ -132,6 +132,8 @@ a:hover{text-decoration:underline}
 .variant-card{background:#fff;border:1px solid var(--border);border-radius:var(--radius);padding:16px 12px;text-align:center;box-shadow:var(--shadow);transition:box-shadow .2s,border-color .2s}
 .variant-card:hover{box-shadow:0 6px 20px rgba(0,0,0,.12);border-color:var(--blue);text-decoration:none}
 .variant-card .sw{width:36px;height:36px;border-radius:50%;margin:0 auto 8px;border:1px solid #ccc}
+.variant-card .sw--meta{background:linear-gradient(135deg,#e8eef8,#fff);border-color:#c3d3ee;position:relative}
+.variant-card .sw--meta::after{content:"";position:absolute;inset:11px;border-radius:50%;background:var(--blue);opacity:.75}
 .variant-card .pn{font-weight:700;color:var(--blue)}
 .variant-card .nm{font-size:.8rem;color:var(--muted)}
 .variant-card.current{border-color:var(--yellow);background:#fffbf0}
@@ -300,7 +302,7 @@ details[open] summary::after{transform:rotate(90deg)}
 
   <section class="section"><div class="container">
       <div class="section-header"><h2>Các mã cùng dòng</h2><p>Cùng dòng Quik Stik All Purpose, Black, 13mm, 0°F~392°F – bấm để mở trang từng mã.</p></div>
-      <div class="variant-grid"><a class="variant-card current" href="/shop/but-son-danh-dau-quik-stik-black-13mm-0-f-392-f-061050/"><div class="sw" style="background:#1c2229"></div><div class="pn">061050</div><div class="nm">Đen</div></a><a class="variant-card" href="/shop/but-son-danh-dau-quik-stik-orange-13mm-0-f-392-f-061071/"><div class="sw" style="background:#e8741c"></div><div class="pn">061071</div><div class="nm">Cam</div></a><a class="variant-card" href="/shop/but-son-danh-dau-quik-stik-fluor-green-13mm-0-f-392-f-061042/"><div class="sw" style="background:#ccd2da"></div><div class="pn">061042</div><div class="nm">Lục huỳnh quang</div></a><a class="variant-card" href="/shop/but-son-danh-dau-quik-stik-fluor-orange-13mm-0-f-392-f-061043/"><div class="sw" style="background:#ccd2da"></div><div class="pn">061043</div><div class="nm">Cam huỳnh quang</div></a></div></div></section>
+      <div class="variant-grid"><a class="variant-card current" href="/shop/but-son-danh-dau-quik-stik-black-13mm-0-f-392-f-061050/"><div class="sw" style="background:#1c2229"></div><div class="pn">061050</div><div class="nm">Đen</div></a><a class="variant-card" href="/shop/but-son-danh-dau-quik-stik-orange-13mm-0-f-392-f-061071/"><div class="sw" style="background:#e8741c"></div><div class="pn">061071</div><div class="nm">Cam</div></a><a class="variant-card" href="/shop/but-son-danh-dau-quik-stik-fluor-green-13mm-0-f-392-f-061042/"><div class="sw sw--meta"></div><div class="pn">061042</div><div class="nm">Lục huỳnh quang</div></a><a class="variant-card" href="/shop/but-son-danh-dau-quik-stik-fluor-orange-13mm-0-f-392-f-061043/"><div class="sw sw--meta"></div><div class="pn">061043</div><div class="nm">Cam huỳnh quang</div></a></div></div></section>
 
   <section class="section">
     <div class="container">

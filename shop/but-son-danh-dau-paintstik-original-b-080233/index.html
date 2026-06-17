@@ -132,6 +132,8 @@ a:hover{text-decoration:underline}
 .variant-card{background:#fff;border:1px solid var(--border);border-radius:var(--radius);padding:16px 12px;text-align:center;box-shadow:var(--shadow);transition:box-shadow .2s,border-color .2s}
 .variant-card:hover{box-shadow:0 6px 20px rgba(0,0,0,.12);border-color:var(--blue);text-decoration:none}
 .variant-card .sw{width:36px;height:36px;border-radius:50%;margin:0 auto 8px;border:1px solid #ccc}
+.variant-card .sw--meta{background:linear-gradient(135deg,#e8eef8,#fff);border-color:#c3d3ee;position:relative}
+.variant-card .sw--meta::after{content:"";position:absolute;inset:11px;border-radius:50%;background:var(--blue);opacity:.75}
 .variant-card .pn{font-weight:700;color:var(--blue)}
 .variant-card .nm{font-size:.8rem;color:var(--muted)}
 .variant-card.current{border-color:var(--yellow);background:#fffbf0}
@@ -190,18 +192,18 @@ details[open] summary::after{transform:rotate(90deg)}
     <div class="sidebar__tagline">Fast group engineering</div>
   </div>
   <nav class="sidebar__nav">
-      <ul>
-        <li><a href="/"> Trang chủ</a></li>
-        <li><a href="/#brands">Nhãn hiệu</a></li>
-        <li><a href="/markal/"> Markal</a></li>
-        <li><a href="/tempil/"> Tempil</a></li>
-        <li><a href="/laco/"> Laco</a></li>
-        <li><a href="/contact.html"> Liên hệ</a></li>
-        <li><a href="/blog/"> Blog</a></li>
-        <li><a href="/shop/" class="active" style="color:#f0a500;font-weight:600"> 🛒 Shop tra mã hàng</a></li>
-        <li><a href="https://tempil.vn" target="_blank" rel="noopener" style="color:#c8102e;font-weight:500"> 🌡 Tempil.vn</a></li>
-      </ul>
-    </nav>
+    <ul>
+      <li><a href="/"> Trang chủ</a></li>
+      <li><a href="/#brands">Nhãn hiệu</a></li>
+      <li><a href="/markal/"> Markal</a></li>
+      <li><a href="/tempil/"> Tempil</a></li>
+      <li><a href="/laco/"> Laco</a></li>
+      <li><a href="/contact.html"> Liên hệ</a></li>
+      <li><a href="/blog/"> Blog</a></li>
+      <li><a href="/shop/" class="active" style="color:#f0a500;font-weight:600"> 🛒 Shop tra mã hàng</a></li>
+      <li><a href="https://tempil.vn" target="_blank" rel="noopener" style="color:#c8102e;font-weight:500"> 🌡 Tempil.vn</a></li>
+    </ul>
+  </nav>
   <div class="sidebar__footer">
     <div class="sidebar__hours"><strong>Liên hệ</strong><br>Tel: +84 (938) 888 958<br>Email: sales@markal.com.vn</div>
   </div>
@@ -300,7 +302,7 @@ details[open] summary::after{transform:rotate(90deg)}
 
   <section class="section"><div class="container">
       <div class="section-header"><h2>Các mã cùng dòng</h2><p>Cùng dòng Paintstik Original B Solid Paint Marker – bấm để mở trang từng mã.</p></div>
-      <div class="variant-grid"><a class="variant-card" href="/shop/but-son-danh-dau-paintstik-original-b-080220/"><div class="sw" style="background:#ffffff"></div><div class="pn">080220</div><div class="nm">Trắng - chống ăn mòn thấp</div></a><a class="variant-card" href="/shop/but-son-danh-dau-paintstik-original-b-080227/"><div class="sw" style="background:#e87ba6"></div><div class="pn">080227</div><div class="nm">Hồng</div></a><a class="variant-card" href="/shop/but-son-danh-dau-paintstik-original-b-080225/"><div class="sw" style="background:#1456b8"></div><div class="pn">080225</div><div class="nm">Xanh dương</div></a><a class="variant-card" href="/shop/but-son-danh-dau-paintstik-original-b-080222/"><div class="sw" style="background:#c8102e"></div><div class="pn">080222</div><div class="nm">Đỏ</div></a><a class="variant-card" href="/shop/but-son-danh-dau-paintstik-original-b-080229/"><div class="sw" style="background:#7a4a2b"></div><div class="pn">080229</div><div class="nm">Nâu</div></a><a class="variant-card" href="/shop/but-son-danh-dau-paintstik-original-b-080228/"><div class="sw" style="background:#6f42c1"></div><div class="pn">080228</div><div class="nm">Tím</div></a><a class="variant-card" href="/shop/but-son-danh-dau-paintstik-original-b-080230/"><div class="sw" style="background:#8a9097"></div><div class="pn">080230</div><div class="nm">Xám</div></a><a class="variant-card" href="/shop/but-son-danh-dau-paintstik-original-b-080232/"><div class="sw" style="background:#b9bcc0"></div><div class="pn">080232</div><div class="nm">Nhôm</div></a></div></div></section>
+      <div class="variant-grid"><a class="variant-card" href="/shop/but-son-danh-dau-paintstik-original-b-080220/"><div class="sw" style="background:#ffffff"></div><div class="pn">080220</div><div class="nm">Trắng - chống ăn mòn thấp</div></a><a class="variant-card" href="/shop/but-son-danh-dau-paintstik-original-b-080227/"><div class="sw" style="background:#e87ba6"></div><div class="pn">080227</div><div class="nm">Hồng</div></a><a class="variant-card" href="/shop/but-son-danh-dau-paintstik-original-b-080225/"><div class="sw" style="background:#1456b8"></div><div class="pn">080225</div><div class="nm">Xanh dương</div></a><a class="variant-card" href="/shop/but-son-danh-dau-paintstik-original-b-080222/"><div class="sw" style="background:#c8102e"></div><div class="pn">080222</div><div class="nm">Đỏ</div></a><a class="variant-card" href="/shop/but-son-danh-dau-paintstik-original-b-080229/"><div class="sw" style="background:#7a4a2b"></div><div class="pn">080229</div><div class="nm">Nâu</div></a><a class="variant-card" href="/shop/but-son-danh-dau-paintstik-original-b-080228/"><div class="sw" style="background:#6f42c1"></div><div class="pn">080228</div><div class="nm">Tím</div></a><a class="variant-card" href="/shop/but-son-danh-dau-paintstik-original-b-080230/"><div class="sw" style="background:#8a9097"></div><div class="pn">080230</div><div class="nm">Xám</div></a><a class="variant-card" href="/shop/but-son-danh-dau-paintstik-original-b-080232/"><div class="sw" style="background:#b9bcc0"></div><div class="pn">080232</div><div class="nm">Nhôm</div></a><a class="variant-card" href="/shop/but-son-danh-dau-paintstik-original-b-080223/"><div class="sw" style="background:#1c2229"></div><div class="pn">080223</div><div class="nm">Đen</div></a><a class="variant-card current" href="/shop/but-son-danh-dau-paintstik-original-b-080233/"><div class="sw" style="background:#c0c4c9"></div><div class="pn">080233</div><div class="nm">Bạc</div></a><a class="variant-card" href="/shop/but-son-danh-dau-paintstik-original-b-080226/"><div class="sw" style="background:#2d8a2d"></div><div class="pn">080226</div><div class="nm">Xanh lá</div></a><a class="variant-card" href="/shop/but-son-danh-dau-paintstik-original-b-080224/"><div class="sw" style="background:#e8741c"></div><div class="pn">080224</div><div class="nm">Cam</div></a><a class="variant-card" href="/shop/but-son-danh-dau-paintstik-original-b-082835/"><div class="sw" style="background:#1456b8"></div><div class="pn">082835</div><div class="nm">Xanh dương huỳnh quang</div></a><a class="variant-card" href="/shop/but-son-danh-dau-paintstik-original-b-082842/"><div class="sw" style="background:#ff5fb3"></div><div class="pn">082842</div><div class="nm">Hồng huỳnh quang</div></a><a class="variant-card" href="/shop/but-son-danh-dau-paintstik-original-b-082831/"><div class="sw" style="background:#f2f542"></div><div class="pn">082831</div><div class="nm">Vàng huỳnh quang</div></a><a class="variant-card" href="/shop/but-son-danh-dau-paintstik-original-b-082832/"><div class="sw" style="background:#c8102e"></div><div class="pn">082832</div><div class="nm">Đỏ huỳnh quang</div></a><a class="variant-card" href="/shop/but-son-danh-dau-paintstik-original-b-082834/"><div class="sw" style="background:#e8741c"></div><div class="pn">082834</div><div class="nm">Cam huỳnh quang</div></a><a class="variant-card" href="/shop/but-son-danh-dau-paintstik-original-b-082836/"><div class="sw" style="background:#72e34d"></div><div class="pn">082836</div><div class="nm">Xanh lá huỳnh quang</div></a><a class="variant-card" href="/shop/but-son-danh-dau-paintstik-original-b-080421/"><div class="sw" style="background:#f0a500"></div><div class="pn">080421</div><div class="nm">Vàng</div></a><a class="variant-card" href="/shop/but-son-danh-dau-paintstik-original-b-080420/"><div class="sw" style="background:#ffffff"></div><div class="pn">080420</div><div class="nm">Trắng</div></a><a class="variant-card" href="/shop/but-son-danh-dau-paintstik-original-b-080260/"><div class="sw" style="background:#ffffff"></div><div class="pn">080260</div><div class="nm">Trắng</div></a><a class="variant-card" href="/shop/but-son-danh-dau-paintstik-original-b-080250/"><div class="sw" style="background:#ffffff"></div><div class="pn">080250</div><div class="nm">Trắng</div></a><a class="variant-card" href="/shop/but-son-danh-dau-paintstik-original-b-080251/"><div class="sw" style="background:#f0a500"></div><div class="pn">080251</div><div class="nm">Vàng</div></a></div></div></section>
 
   <section class="section">
     <div class="container">
